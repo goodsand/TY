@@ -56,7 +56,7 @@ PROBE_CONCURRENCY = 3 # ffprobe探测并发数
 
 # 速率过滤（低于对应分辨率最低速率的源将被剔除）
 OPEN_FILTER_SPEED = True # 是否开启速率过滤
-MIN_SPEED = 1.5 # 默认最小速率（M/s）
+MIN_SPEED = 0.7 # 默认最小速率（M/s）
 RESOLUTION_SPEED_MAP = { # 分辨率与最低速率映射（M/s）
   "1280x720": 0.2,
   "1920x1080": 0.5,
