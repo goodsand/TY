@@ -1,14 +1,2 @@
-央视频道,#genre#
-CCTV-3综艺,http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6电影,http://112.30.73.119:229/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
-卫视频道,#genre#
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-影视频道,#genre#
-杭州影视,http://101.66.198.179:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
-
 更新时间,#genre#
-2026-08-23 05:39:55,https://example.com
+2026-08-23 13:32:42,https://example.com
