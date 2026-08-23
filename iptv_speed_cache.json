@@ -1,0 +1,7303 @@
+{
+  "rtmp://f13h.mine.nu/sat/tv721": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485733.4828212
+  },
+  "rtmp://f13h.mine.nu/sat/tv731": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485733.4829848
+  },
+  "rtmp://f13h.mine.nu/sat/tv741": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485733.4829893
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV1": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485733.8936527
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV3": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485734.0454972
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485734.249819
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV12": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485734.50142
+  },
+  "http://p.ytelc.com/169l/0/cctv.php?id=cctv16": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485737.1242065
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV16": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485737.573831
+  },
+  "http://p.ytelc.com/169l/0/cctv.php?id=cctv17": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485737.8987284
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV17": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485737.816271
+  },
+  "http://148.135.93.213/live.php?id=CCTV13": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485737.8376694
+  },
+  "https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485739.101026
+  },
+  "http://8.138.7.223/tv/fjtv1.php?id=dnws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485739.4958382
+  },
+  "http://101.35.240.114:88/live.php?id=广东卫视4K": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485739.5644977
+  },
+  "http://101.35.240.114:88/live.php?id=广东卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485739.7014122
+  },
+  "http://101.35.240.114:88/live.php?id=贵州卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485740.1330538
+  },
+  "http://74.48.192.96:82/live.php?id=CCTV17": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485740.5047362
+  },
+  "http://101.35.240.114:88/live.php?id=湖南卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485741.0135298
+  },
+  "http://101.35.240.114:88/live.php?id=江西卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485741.7494092
+  },
+  "http://148.135.93.213/live.php?id=东南卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485741.871789
+  },
+  "http://101.35.240.114:88/live.php?id=山西卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485742.6165419
+  },
+  "http://148.135.93.213/live.php?id=贵州卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485742.8627694
+  },
+  "http://101.35.240.114:88/live.php?id=陕西卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485743.0674565
+  },
+  "http://101.35.240.114:88/live.php?id=深圳卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485743.4697502
+  },
+  "http://101.35.240.114:88/live.php?id=四川卫视4K": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485744.0295167
+  },
+  "http://nn.7x9d.cn/深圳最新.php?id=szws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485744.637876
+  },
+  "http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485744.7766309
+  },
+  "http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485744.8044288
+  },
+  "http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485744.9682262
+  },
+  "http://101.35.240.114:88/live.php?id=天津卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485744.9757314
+  },
+  "http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485745.1824577
+  },
+  "http://101.35.240.114:88/live.php?id=西藏卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485745.268532
+  },
+  "http://148.135.93.213/live.php?id=山西卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485745.2378616
+  },
+  "http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485745.4927583
+  },
+  "http://101.35.240.114:88/live.php?id=新疆卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485745.6045022
+  },
+  "http://148.135.93.213/live.php?id=四川卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485747.0287852
+  },
+  "http://148.135.93.213/live.php?id=天津卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485747.6392384
+  },
+  "http://101.35.240.114:88/live.php?id=浙江卫视4K": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485747.8685107
+  },
+  "http://101.35.240.114:88/live.php?id=大湾区卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485748.223398
+  },
+  "http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485749.040791
+  },
+  "http://101.35.240.114:88/live.php?id=黑龙江卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485749.2188761
+  },
+  "http://jasonzhangnas.f3322.net:7088/udp/233.18.204.217:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485749.4239857
+  },
+  "http://101.35.240.114:88/live.php?id=内蒙古卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485749.4394171
+  },
+  "http://litv.zapi.us.kg/?id=4gtv-4gtv076": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485750.464884
+  },
+  "http://148.135.93.213/live.php?id=大湾区卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485750.875508
+  },
+  "https://live.metshop.top/huya/11342424": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485751.3463411
+  },
+  "https://live.metshop.top/huya/11352941": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485751.5984745
+  },
+  "https://live.metshop.top/huya/29982675": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485752.0534003
+  },
+  "http://148.135.93.213/live.php?id=黑龙江卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485751.8901954
+  },
+  "http://39.153.130.167:35455/huya/11342412": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485752.0784125
+  },
+  "https://live.metshop.top/huya/11342412": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485752.2994273
+  },
+  "http://222.186.39.21:35466/huya/11342412": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485752.2809463
+  },
+  "https://live.metshop.top/huya/21059581": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485752.8712797
+  },
+  "https://live.metshop.top/huya/21059577": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485753.1222992
+  },
+  "https://live.metshop.top/huya/11342386": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485753.3612895
+  },
+  "https://live.metshop.top/huya/21059574": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485753.8166466
+  },
+  "http://222.186.39.21:35466/yy/1351505899": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485753.6178665
+  },
+  "https://live.metshop.top/huya/11342390": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485753.9050062
+  },
+  "http://8.155.43.98:35455/yy/1351505899": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485753.7430878
+  },
+  "https://live.metshop.top/huya/11342421": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485754.153359
+  },
+  "http://222.186.39.21:35466/huya/11601968": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485754.1017344
+  },
+  "http://39.153.130.167:35455/huya/11601968": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485754.237243
+  },
+  "http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1351505899": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485754.2688873
+  },
+  "https://live.metshop.top/huya/21059579": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485754.3894722
+  },
+  "https://live.metshop.top/huya/11342427": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485754.6445565
+  },
+  "https://live.metshop.top/huya/11601968": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485754.8874962
+  },
+  "https://live.metshop.top/huya/30080229": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485755.1335201
+  },
+  "https://live.metshop.top/huya/11602058": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485755.3782203
+  },
+  "http://39.153.130.167:35455/huya/11352876": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485755.6072128
+  },
+  "http://222.186.39.21:35466/huya/11352876": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485755.610352
+  },
+  "https://live.metshop.top/huya/21059585": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485755.6915836
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=20": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485755.8458393
+  },
+  "https://live.metshop.top/huya/11601986": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485755.929596
+  },
+  "https://live.metshop.top/huya/11352876": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485756.166259
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV2": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485756.3185236
+  },
+  "http://home.szjim.top:4000/udp/239.77.0.112:5146": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485756.4124959
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV5": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485759.3257637
+  },
+  "http://148.135.93.213/live.php?id=CCTV2": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485758.871431
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV6": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485759.104667
+  },
+  "http://148.135.93.213/live.php?id=CCTV4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485759.3194864
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV7": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485759.693258
+  },
+  "http://p.ytelc.com/169l/0/cctv.php?id=cctv9": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485760.754332
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV10": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485762.5323994
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV9": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485761.3760843
+  },
+  "http://148.135.93.213/live.php?id=CCTV7": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485762.3265512
+  },
+  "http://148.135.93.213/live.php?id=CCTV9": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485762.6941397
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV11": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485762.7497554
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV14": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485763.1160083
+  },
+  "http://p.ytelc.com/169l/0/cctv.php?id=cctv15": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485763.2746243
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV15": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485764.1813688
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV5p": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485764.599441
+  },
+  "http://148.135.93.213/live.php?id=CCTV11": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485765.3277814
+  },
+  "http://101.35.240.114:88/live.php?id=江苏卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485765.7357411
+  },
+  "http://101.35.240.114:88/live.php?id=北京卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485765.940814
+  },
+  "http://148.135.93.213/live.php?id=CCTV15": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485766.1155713
+  },
+  "http://101.35.240.114:88/live.php?id=安徽卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485766.3430324
+  },
+  "http://106.53.99.30/tv/api.php?id=bjws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485766.998019
+  },
+  "http://148.135.93.213/live.php?id=CCTV5p": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485767.18306
+  },
+  "http://101.35.240.114:88/live.php?id=山东卫视4K": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485767.4857938
+  },
+  "http://101.35.240.114:88/live.php?id=山东卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485767.7145665
+  },
+  "http://1.94.31.214/php/hntv.php?id=hnws#http://lxajh.top/tv/hn.php?id=hnws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485768.2393897
+  },
+  "http://101.35.240.114:88/live.php?id=河南卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485768.4811394
+  },
+  "http://1.94.31.214/php/hntv.php?id=hnws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485768.6919892
+  },
+  "http://101.35.240.114:88/live.php?id=湖北卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485768.8943665
+  },
+  "http://101.35.240.114:88/live.php?id=重庆卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485769.313629
+  },
+  "http://148.135.93.213/live.php?id=河北卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485769.5161035
+  },
+  "http://148.135.93.213/live.php?id=山东卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485770.3927743
+  },
+  "http://101.35.240.114:88/live.php?id=辽宁卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485770.5902588
+  },
+  "http://148.135.93.213/live.php?id=河南卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485770.9287488
+  },
+  "http://101.35.240.114:88/live.php?id=吉林卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485770.965959
+  },
+  "http://nn.7x9d.cn/地方台8563/海南.php?id=hnws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485772.286816
+  },
+  "http://148.135.93.213/live.php?id=重庆卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485772.0168471
+  },
+  "http://101.35.240.114:88/live.php?id=海南卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485772.0438743
+  },
+  "http://148.135.93.213/live.php?id=广西卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485772.4774766
+  },
+  "http://119.233.255.62:1234/961023778": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485772.6816475
+  },
+  "http://nn.7x9d.cn/地方台8563/海南.php?id=ssws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485772.696348
+  },
+  "http://124.77.202.8:49155/961023778": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485772.891464
+  },
+  "http://222.134.19.49:8090/961023778": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485772.961335
+  },
+  "http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXlud3M=": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485773.0995562
+  },
+  "http://101.35.240.114:88/live.php?id=青海卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485773.3273182
+  },
+  "http://148.135.93.213/live.php?id=辽宁卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485773.3273284
+  },
+  "http://jasonzhangnas.f3322.net:7088/udp/233.18.204.221:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485773.4375691
+  },
+  "http://148.135.93.213/live.php?id=吉林卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485773.6936696
+  },
+  "http://119.233.255.62:1234/956923145": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485773.9786694
+  },
+  "http://148.135.93.213/live.php?id=海南卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485774.2253394
+  },
+  "http://p.ytelc.com/169l/0/cctv.php?id=cctv4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.375059
+  },
+  "http://101.35.240.114:88/live.php?id=CCTV4K": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.435602
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.93:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.62633
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.98:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.6264515
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.87:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.643689
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.96:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.6438124
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.86:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.6590893
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.89:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.6592422
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.81:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.6762104
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.90:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.6764882
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.80:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.7084823
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.94:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.7086182
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.95:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.7237446
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.97:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.7238622
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.219.73:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.73928
+  },
+  "http://www.lizhinas.top:1009/rtp/239.252.220.198:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.7393816
+  },
+  "http://nas.hssvm.com:8888/udp/225.1.1.210:5002": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.8758152
+  },
+  "http://101.35.240.114:88/live.php?id=甘肃卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485775.9704866
+  },
+  "http://148.135.93.213/live.php?id=青海卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485776.1071963
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=17": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485776.2285683
+  },
+  "http://101.35.240.114:88/live.php?id=CHC动作电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485776.998827
+  },
+  "http://101.35.240.114:88/live.php?id=CHC家庭影院": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485777.3672972
+  },
+  "http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485778.236696
+  },
+  "http://8.138.7.223/tv/fjtv1.php?id=xmws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485778.3017073
+  },
+  "http://148.135.93.213/live.php?id=甘肃卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485778.750107
+  },
+  "http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485779.3365262
+  },
+  "http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485779.6876793
+  },
+  "http://101.35.240.114:88/live.php?id=香港卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485779.9897046
+  },
+  "http://148.135.93.213/live.php?id=CHC家庭影院": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485780.1079419
+  },
+  "http://101.35.240.114:88/live.php?id=五星体育": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485781.295887
+  },
+  "http://101.35.240.114:88/live.php?id=CHC影迷电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485781.7407377
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=19": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485782.1117034
+  },
+  "http://ali.hlspull.yximgs.com/live/awei_mydy.flv": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485782.8556025
+  },
+  "http://148.135.93.213/live.php?id=CHC影迷电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485784.1582954
+  },
+  "http://1.94.31.214:35455/douyu/6140589": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485784.7512994
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=30": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485785.6103146
+  },
+  "http://rihou.cc:555/tv/[Pd]美亚电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485785.422861
+  },
+  "http://live4play.uk/livehttpplay?channel_id=20077": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485785.5137134
+  },
+  "http://live4play.uk/livehttpplay?channel_id=20199": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485785.540889
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=45": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485786.8532813
+  },
+  "http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485785.639458
+  },
+  "http://live4play.uk/livehttpplay?channel_id=12037": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485785.6516118
+  },
+  "http://rihou.cc:555/tv/[Pd]龙华电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485786.8532646
+  },
+  "http://c.123.rr.kg/163189/amty": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485787.4022985
+  },
+  "http://170.200.0.168:9981/stream/service/5500dc394c5ecc847700a1f0f51addb1?ticket=51bb2f21518cbab086d2e2240fcd63bc5c609fbe=pass": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485787.689432
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=48": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485788.494127
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=40": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485788.5414016
+  },
+  "http://rihou.cc:555/tv/[Pd]澳门体育": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485789.6145346
+  },
+  "https://live.metshop.top/huya/11352935": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485791.0817206
+  },
+  "https://live.metshop.top/huya/11342414": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485791.434828
+  },
+  "https://live.metshop.top/huya/11352962": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485791.7525568
+  },
+  "http://wouu.net:9977/udp/239.93.0.166:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485792.789632
+  },
+  "http://wouu.net:9977/udp/239.93.1.54:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485792.7970304
+  },
+  "http://119.32.12.17:2901/udp/224.1.100.11:11111": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485794.3266723
+  },
+  "http://tvbox6.icu/tv/mgtv.php?id=221": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485794.7551372
+  },
+  "https://vd2.bdstatic.com/mda-mkjdym3r2h7y5a58/sc/cae_h264/1637440648941328664/mda-mkjdym3r2h7y5a58.mp4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485798.2521725
+  },
+  "https://vd2.bdstatic.com/mda-mm69dxgtcqg28j9j/sc/cae_h264/1638860024910192032/mda-mm69dxgtcqg28j9j.mp4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485798.2535696
+  },
+  "https://vd2.bdstatic.com/mda-ncg1mhvhiy7fkgzs/sc/cae_h264_delogo/1647481028509277070/mda-ncg1mhvhiy7fkgzs.mp4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485798.3206806
+  },
+  "https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485798.6344187
+  },
+  "https://vdse.bdstatic.com//8343b02f5e7465d4c5b07e54403438b8.mp4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485798.6535578
+  },
+  "http://119.233.255.62:1234/956904896": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485798.7022393
+  },
+  "http://124.77.202.8:49155/956904896": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485798.9470906
+  },
+  "http://222.134.19.49:8090/956904896": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485799.0482128
+  },
+  "http://8.137.59.151:3000/guangdong/foshan.php?id=fsys": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485799.3267264
+  },
+  "http://home.szjim.top:4000/udp/239.253.43.56:5146": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485799.7119017
+  },
+  "http://rihou.cc:555/tv/[Pd]天映电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485801.847309
+  },
+  "http://rihou.cc:555/tv/[Pd]央视综合": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485801.8958216
+  },
+  "http://rihou.cc:555/tv/联赛回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485801.948264
+  },
+  "http://rihou.cc:555/tv/NBA回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485801.968745
+  },
+  "http://rihou.cc:555/tv/羽球回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485801.9700477
+  },
+  "http://rihou.cc:555/tv/橄球回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485802.0488667
+  },
+  "http://175.17.83.114:1234/608807420": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485802.320757
+  },
+  "http://rihou.cc:555/tv/乒球回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485802.327113
+  },
+  "http://175.17.83.114:1234/631780532": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485802.4008138
+  },
+  "http://rihou.cc:555/tv/网球回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485802.713221
+  },
+  "http://rihou.cc:555/tv/排球回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485802.7245595
+  },
+  "http://175.17.83.114:1234/624878271": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485802.7691925
+  },
+  "http://175.17.83.114:1234/631780421": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485802.9460735
+  },
+  "http://rihou.cc:555/tv/格斗回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485803.0088623
+  },
+  "http://175.17.83.114:1234/641886683": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485803.1936815
+  },
+  "http://175.17.83.114:1234/624878396": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485803.3810804
+  },
+  "http://175.17.83.114:1234/673168121": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485803.6287594
+  },
+  "http://175.17.83.114:1234/624878356": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485803.8154054
+  },
+  "http://175.17.83.114:1234/673168140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485804.0627968
+  },
+  "http://175.17.83.114:1234/630287636": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485804.2594783
+  },
+  "http://175.17.83.114:1234/651632648": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485804.4872713
+  },
+  "http://175.17.83.114:1234/623899368": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485804.7053883
+  },
+  "http://rihou.cc:555/tv/斯赛回放赛23": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485804.850014
+  },
+  "http://175.17.83.114:1234/608831231": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485804.9194665
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=7": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485804.9487953
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485805.0500925
+  },
+  "http://175.17.83.114:1234/790187291": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485805.2792823
+  },
+  "http://175.17.83.114:1234/783847495": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485805.351669
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=9": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485805.3590071
+  },
+  "P2p://107.150.42.186:33001/17c9d228b0d7720509d4929eee165a59": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485805.3590128
+  },
+  "http://iptv.4666888.xyz/iptv2A.php?id=10": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485805.6004715
+  },
+  "http://175.17.83.114:1234/947472496": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485805.7163978
+  },
+  "http://175.17.83.114:1234/947472502": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485805.7841046
+  },
+  "http://175.17.83.114:1234/738910838": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485806.1412137
+  },
+  "http://175.17.83.114:1234/956923145": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485806.2130501
+  },
+  "http://rihou.cc:555/tv/[mg]浙江卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485806.6310167
+  },
+  "http://rihou.cc:555/tv/[mg]湖南卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485807.0642304
+  },
+  "http://rihou.cc:555/tv/[mg]深圳卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485807.4883664
+  },
+  "http://rihou.cc:555/tv/[mg]山东卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485807.7070827
+  },
+  "http://rihou.cc:555/tv/[Hv]pₒₚc电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485808.3608735
+  },
+  "http://rihou.cc:555/tv/[Bx]pₒₚc电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485808.602438
+  },
+  "http://rihou.cc:555/tv/[Hv]cm电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485808.7179928
+  },
+  "http://rihou.cc:555/tv/[Hk]东森电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485808.7855763
+  },
+  "http://rihou.cc:555/tv/[Hk]纬来电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485809.142627
+  },
+  "http://rihou.cc:555/tv/[Hk]好莱电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485809.2142887
+  },
+  "http://rihou.cc:555/tv/[Hk]龙祥电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485809.6333404
+  },
+  "http://rihou.cc:555/tv/[Hv]美亚电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485810.0654676
+  },
+  "http://rihou.cc:555/tv/[Hv]美亚电影|": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485810.489681
+  },
+  "http://rihou.cc:555/tv/[Bx]美亚电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485810.7085695
+  },
+  "http://rihou.cc:555/tv/[Hk]天映电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485811.362896
+  },
+  "http://rihou.cc:555/tv/[FY]邵氏电影": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485811.6049995
+  },
+  "http://rihou.cc:555/tv/[Mt]Now体育": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485811.718749
+  },
+  "http://rihou.cc:555/tv/[Hk]无线体育": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485811.7863526
+  },
+  "http://rihou.cc:555/tv/[Hk]纬来体育": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485812.143135
+  },
+  "http://rihou.cc:555/tv/[AtI]广东体育": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485812.2166002
+  },
+  "http://rihou.cc:555/tv/[At|]广东体育": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485812.6346312
+  },
+  "http://rihou.cc:555/tv/[Cx]广东体育": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485813.066946
+  },
+  "P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485813.0669546
+  },
+  "http://106.53.99.30/tv/bj.php?id=bjws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485813.4357069
+  },
+  "http://rihou.cc:555/tv/[AtI]广东影视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485813.4903226
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.51:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485813.4959671
+  },
+  "http://rihou.cc:555/tv/[At|]广东影视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485813.709522
+  },
+  "http://106.53.99.30/tv/api.php?id=dfws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485813.8984113
+  },
+  "http://49.235.65.250:600/beijing/beijing.php?id=bjws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485813.912124
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.67:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485814.1213446
+  },
+  "http://rihou.cc:555/tv/[AtI]广东卫视": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485814.3638568
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.65:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485814.5816207
+  },
+  "http://rihou.cc:555/tv/[mv]寻秦记粤": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485814.605999
+  },
+  "http://124.116.170.138:8081/rtp/239.111.205.64:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485814.8221424
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.64:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485814.9803593
+  },
+  "http://106.53.99.30/tv/api.php?id=szws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485815.1188552
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.104:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485815.200251
+  },
+  "http://124.116.170.138:8081/rtp/239.111.205.103:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485815.463761
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.103:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485815.6826394
+  },
+  "http://124.116.170.138:8081/rtp/239.111.205.66:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485815.9150312
+  },
+  "http://rihou.cc:555/tv/NTD": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485816.060601
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.66:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485816.1135821
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.62:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485816.170373
+  },
+  "http://ddns.xryo.cn:8888/udp/239.111.205.63:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485816.2898695
+  },
+  "http://124.116.170.138:8081/rtp/239.111.205.62:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485816.3091822
+  },
+  "http://106.53.99.30/tv/api.php?id=hnws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485816.3608296
+  },
+  "https://live.ottiptv.cc/yy/1382745169": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485816.55844
+  },
+  "http://iptv77.iptv66.eu.org:35455/yy/1382745169": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485816.7999754
+  },
+  "http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485817.6097286
+  },
+  "http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485817.7638216
+  },
+  "http://8.155.43.98:35455/douyu/4246519": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485817.9826074
+  },
+  "http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.01373
+  },
+  "https://sns-video-default.xhscdn.com/stream/1/110/258/01e8ccfd682b29e5010370019960c10c99_258.mp4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.0800345
+  },
+  "video://https://live.douyin.com/137995681287": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9534464
+  },
+  "video://https://live.douyin.com/802006140488": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9534543
+  },
+  "video://https://live.douyin.com/645565226352": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9535918
+  },
+  "video://https://live.douyin.com/179260431297": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9535968
+  },
+  "video://https://live.douyin.com/938688100197": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9537249
+  },
+  "video://https://live.douyin.com/293098661035": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9537303
+  },
+  "video://https://live.douyin.com/38915320169": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9538572
+  },
+  "video://https://live.douyin.com/681715709797": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.953862
+  },
+  "video://https://live.douyin.com/445931042285": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9541972
+  },
+  "video://https://live.douyin.com/319583529177": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9542043
+  },
+  "video://https://live.douyin.com/916058533396": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9543772
+  },
+  "video://https://live.douyin.com/553272685060": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9543836
+  },
+  "video://https://live.douyin.com/64466906620": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9545124
+  },
+  "video://https://live.douyin.com/235694078803": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9545164
+  },
+  "video://https://live.douyin.com/714406935518": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9546192
+  },
+  "video://https://live.douyin.com/464114369315": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9546232
+  },
+  "video://https://live.douyin.com/870887192950": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485818.9547222
+  },
+  "video://https://live.douyin.com/127453393722": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.0157647
+  },
+  "video://https://live.douyin.com/456815963645": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.0610867
+  },
+  "video://https://live.douyin.com/296728101980": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.061235
+  },
+  "video://https://live.douyin.com/212606968812": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.061434
+  },
+  "video://https://live.douyin.com/166806983360": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.061442
+  },
+  "video://https://live.douyin.com/519082790490": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.0615902
+  },
+  "video://https://live.douyin.com/547977714661": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.1198163
+  },
+  "video://https://live.douyin.com/50828500437": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.1198232
+  },
+  "video://https://live.douyin.com/282773369501": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.1199632
+  },
+  "video://https://www.gdtv.cn/tvChannelDetail/110": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.1199682
+  },
+  "video://https://www.gdtv.cn/tvChannelDetail/43": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.1201
+  },
+  "video://https://www.gdtv.cn/tvChannelDetail/47": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.120105
+  },
+  "video://https://www.gdtv.cn/tvChannelDetail/53": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.1203284
+  },
+  "video://https://www.sztv.com.cn/pindao/index.html?id=7867": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.1204102
+  },
+  "http://iptv77.iptv66.eu.org:35455/bilibili/8178490": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.1816576
+  },
+  "http://iptv77.iptv66.eu.org:35455/bilibili/22142427": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.2670412
+  },
+  "http://120.220.76.91:2003/huya.php?id=11336587": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.3615992
+  },
+  "http://iptv77.iptv66.eu.org:35455/bilibili/32558016": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.421736
+  },
+  "http://120.220.76.91:2003/huya.php?id=11602077": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485819.559295
+  },
+  "http://rihou.cc:555/tv/v": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485820.6105494
+  },
+  "http://rihou.cc:555/tv/t": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485821.8952396
+  },
+  "http://120.220.76.91:2003/huya.php?id=11352897": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485822.122764
+  },
+  "http://120.220.76.91:2003/huya.php?id=11352894": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485822.1838799
+  },
+  "http://120.220.76.91:2003/huya.php?id=21059580": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485822.2681162
+  },
+  "http://39.153.130.167:35455/huya/11602043": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485825.610417
+  },
+  "http://222.186.39.21:35466/huya/11602043": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485825.655676
+  },
+  "https://live.ottiptv.cc/yy/1354932444": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485825.8523433
+  },
+  "https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485825.935259
+  },
+  "https://live.ottiptv.cc/yy/1382745083": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485825.9441445
+  },
+  "https://live.ottiptv.cc/yy/1354936201": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485826.0964687
+  },
+  "https://live.ottiptv.cc/yy/1382745096": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485826.1906998
+  },
+  "https://live.ottiptv.cc/yy/1382736871": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485826.344982
+  },
+  "https://live.ottiptv.cc/yy/1382735577": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485826.4652553
+  },
+  "https://live.ottiptv.cc/yy/1382736809": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485826.6579728
+  },
+  "https://live.ottiptv.cc/yy/1354926655": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485826.7115028
+  },
+  "https://live.ottiptv.cc/yy/1354932395": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485826.9036226
+  },
+  "https://live.ottiptv.cc/yy/1354926542": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485826.9537103
+  },
+  "https://live.ottiptv.cc/yy/1382736797": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485827.2005942
+  },
+  "https://live.ottiptv.cc/yy/1382735556": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485827.248731
+  },
+  "https://live.ottiptv.cc/yy/1382736806": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485827.4525702
+  },
+  "https://live.ottiptv.cc/yy/1354889019": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485827.687577
+  },
+  "https://live.ottiptv.cc/yy/1382851522": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485827.713829
+  },
+  "https://live.ottiptv.cc/yy/1382736823": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485827.9352834
+  },
+  "https://live.ottiptv.cc/yy/1382736816": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485828.0176332
+  },
+  "https://live.ottiptv.cc/yy/1382851576": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485828.2664356
+  },
+  "https://live.ottiptv.cc/yy/1354931503": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485828.2747757
+  },
+  "https://live.ottiptv.cc/yy/1354930209": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485828.524392
+  },
+  "https://live.ottiptv.cc/yy/1354936234": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485828.6511729
+  },
+  "https://live.ottiptv.cc/yy/1355065896": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485828.775019
+  },
+  "https://live.ottiptv.cc/yy/1354930912": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485828.8895986
+  },
+  "https://live.ottiptv.cc/yy/1382736836": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.0985703
+  },
+  "https://live.ottiptv.cc/yy/1382737886": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.139676
+  },
+  "https://live.ottiptv.cc/yy/1382736858": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.3457596
+  },
+  "https://live.ottiptv.cc/yy/1382749907": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.3804588
+  },
+  "https://live.ottiptv.cc/yy/1354926612": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.5870473
+  },
+  "https://live.ottiptv.cc/yy/1382828768": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.6284614
+  },
+  "https://live.ottiptv.cc/yy/34229877": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.8289883
+  },
+  "https://live.ottiptv.cc/yy/38670875": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.8666165
+  },
+  "http://119.233.255.62:1234/617290047": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485829.9826586
+  },
+  "http://119.233.255.62:1234/626064707": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.002905
+  },
+  "https://live.ottiptv.cc/yy/24066336": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.2220666
+  },
+  "https://live.ottiptv.cc/yy/1355076627": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.2904189
+  },
+  "http://119.233.255.62:1234/646596895": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.3726249
+  },
+  "http://119.233.255.62:1234/626064697": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.3739622
+  },
+  "http://222.134.19.49:8090/646596895": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.3973303
+  },
+  "https://live.ottiptv.cc/yy/1461889059": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.4622815
+  },
+  "https://live.ottiptv.cc/yy/1354952229": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.5286746
+  },
+  "http://222.134.19.49:8090/956909356": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.612265
+  },
+  "https://live.ottiptv.cc/yy/1354209316": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.7440503
+  },
+  "http://119.233.255.62:1234/956909356": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.757927
+  },
+  "https://live.ottiptv.cc/yy/29197808": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485830.7772584
+  },
+  "http://192.144.185.155:6000/rtp/225.1.8.252:4120": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485833.375336
+  },
+  "http://192.144.185.155:6000/rtp/225.1.8.251:4120": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485833.375346
+  },
+  "http://192.144.185.155:6000/rtp/225.1.8.253:4120": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485833.3982027
+  },
+  "http://192.144.185.155:6000/rtp/225.1.8.203:9024": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485833.463474
+  },
+  "http://yuwentao114.x3322.net:4022/udp/239.252.220.204:5140": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485833.5295312
+  },
+  "http://60.10.139.113:8801/hls/1/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485839.582987
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485839.6070902
+  },
+  "http://60.10.139.113:8801/hls/3/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485839.660536
+  },
+  "http://112.27.235.94:8000/hls/1/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485839.7387366
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485839.7444978
+  },
+  "http://60.10.139.113:8801/hls/8/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485839.783642
+  },
+  "http://112.27.235.94:8000/hls/3/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485839.8989518
+  },
+  "http://60.10.139.113:8801/hls/11/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485839.9835358
+  },
+  "http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.0274115
+  },
+  "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.1554801
+  },
+  "http://112.27.235.94:8000/hls/9/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.2029974
+  },
+  "http://60.10.139.113:8801/hls/12/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.2329917
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.3200223
+  },
+  "http://112.27.235.94:8000/hls/13/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.3218112
+  },
+  "http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.3934968
+  },
+  "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.5352793
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.5466132
+  },
+  "http://112.27.235.94:8000/hls/14/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485840.6244142
+  },
+  "http://183.11.239.36:808/hls/169/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485841.7662616
+  },
+  "http://60.10.139.113:8801/hls/98/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485842.2802987
+  },
+  "https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485842.6555207
+  },
+  "https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485842.7116363
+  },
+  "https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485842.7640097
+  },
+  "https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485842.776735
+  },
+  "https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485842.8213174
+  },
+  "https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485842.8560882
+  },
+  "http://60.10.139.113:8801/hls/73/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485843.0222673
+  },
+  "http://60.10.139.113:8801/hls/67/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485843.224316
+  },
+  "http://60.10.139.113:8801/hls/65/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485843.4268093
+  },
+  "https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485843.5223486
+  },
+  "http://60.10.139.113:8801/hls/22/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485843.7265637
+  },
+  "http://bp-resource-dfl.bestv.cn/148/3/video.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485847.2690601
+  },
+  "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485846.9760253
+  },
+  "http://hmfs.f3322.net:3388/hls/21/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485846.2953434
+  },
+  "http://hmfs.f3322.net:3388/hls/28/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485846.488041
+  },
+  "http://60.10.139.113:8801/hls/21/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485846.6904755
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485847.2806299
+  },
+  "http://112.27.235.94:8000/hls/38/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485847.5885706
+  },
+  "http://60.10.139.113:8801/hls/26/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485848.3249762
+  },
+  "https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485848.7658017
+  },
+  "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485849.5587115
+  },
+  "http://112.27.235.94:8000/hls/30/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.261092
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.300477
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.3004856
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.3139894
+  },
+  "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.3692503
+  },
+  "http://60.10.139.113:8801/hls/36/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.4652503
+  },
+  "http://112.27.235.94:8000/hls/46/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.6826866
+  },
+  "http://120.76.248.139/live/bfgd/4200000101.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.8511355
+  },
+  "http://60.10.139.113:8801/hls/17/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485850.8846014
+  },
+  "http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.1126544
+  },
+  "http://gmxw.7766.org:808/hls/169/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.1804767
+  },
+  "https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.2426424
+  },
+  "http://175.8.28.207:9999/tsfile/live/0008_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.2999163
+  },
+  "http://175.8.28.207:9999/tsfile/live/0012_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.2999237
+  },
+  "http://175.8.28.207:9999/tsfile/live/0003_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.2999272
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.3007271
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.3007324
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.3189585
+  },
+  "https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.3611894
+  },
+  "https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.3625305
+  },
+  "https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.4299932
+  },
+  "http://60.10.139.113:8801/hls/37/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.4440546
+  },
+  "https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.5076234
+  },
+  "https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.564656
+  },
+  "http://112.27.235.94:8000/hls/44/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.6055214
+  },
+  "http://60.10.139.113:8801/hls/57/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.6342897
+  },
+  "http://60.10.139.113:8801/hls/54/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.7669108
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.7804575
+  },
+  "http://120.76.248.139/live/bfgd/4200000118.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.799471
+  },
+  "https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.8607068
+  },
+  "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485851.8950965
+  },
+  "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.0192158
+  },
+  "http://112.27.235.94:8000/hls/45/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.1637616
+  },
+  "http://60.10.139.113:8801/hls/53/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.2229505
+  },
+  "http://112.27.235.94:8000/hls/43/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.4987047
+  },
+  "http://60.10.139.113:8801/hls/24/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.4224148
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.4854536
+  },
+  "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.537542
+  },
+  "https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.545129
+  },
+  "https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.569996
+  },
+  "http://60.10.139.113:8801/hls/30/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.7494843
+  },
+  "http://cssbyd.imwork.net:8082/hls/45/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.8065689
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.8190644
+  },
+  "http://112.27.235.94:8000/hls/33/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.8449836
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485852.9492407
+  },
+  "https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.0052361
+  },
+  "http://60.10.139.113:8801/hls/23/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.0454526
+  },
+  "http://112.27.235.94:8000/hls/35/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.0542471
+  },
+  "http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.0803857
+  },
+  "https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.1493833
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.2999666
+  },
+  "http://183.11.239.36:808/hls/64/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.3425803
+  },
+  "http://112.27.235.94:8000/hls/42/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.3622653
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226088/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.3720074
+  },
+  "http://112.46.85.60:8009/hls/44/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.4625947
+  },
+  "http://cssbyd.imwork.net:8082/hls/46/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.8094335
+  },
+  "http://120.76.248.139/live/bfgd/4200000117.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.8850887
+  },
+  "http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485853.993882
+  },
+  "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485854.3249648
+  },
+  "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485854.183654
+  },
+  "http://gmxw.7766.org:808/hls/15/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485854.2030802
+  },
+  "http://175.8.28.207:9999/tsfile/live/0013_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485854.299457
+  },
+  "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485854.394527
+  },
+  "https://srs.iyb983.cn:443/video/CYS/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485854.5814948
+  },
+  "https://srs.iyb983.cn/video/CYS/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485854.6439736
+  },
+  "http://60.10.139.113:8801/hls/18/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485854.7751045
+  },
+  "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485855.0464847
+  },
+  "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485855.187898
+  },
+  "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485855.7787893
+  },
+  "http://60.10.139.113:8801/hls/27/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485855.9877534
+  },
+  "https://play-qukan.cztv.com/live/1746687519046362.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485856.4194775
+  },
+  "http://183.11.239.36:808/hls/132/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485856.6112626
+  },
+  "https://liveout.xntv.tv/a65jur/96iln2.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485857.6077557
+  },
+  "https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485856.7538154
+  },
+  "https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485856.8134706
+  },
+  "http://112.27.235.94:8000/hls/48/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485857.1175146
+  },
+  "http://60.10.139.113:8801/hls/55/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485857.3193073
+  },
+  "http://gmxw.7766.org:808/hls/132/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485857.4816775
+  },
+  "http://112.27.235.94:8000/hls/49/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485857.6255438
+  },
+  "http://120.76.248.139/live/bfgd/4200000110.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485857.7869568
+  },
+  "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485858.399726
+  },
+  "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485858.4797459
+  },
+  "http://nmk.ioapk.com:5050/4gtv-live008/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485858.4691434
+  },
+  "http://61.221.215.25:8800/hls/43/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485858.6868653
+  },
+  "http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485858.8702402
+  },
+  "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485859.1094959
+  },
+  "http://nmk.ioapk.com:5050/li-4gtv-4gtv017/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485859.3400235
+  },
+  "http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485859.7589629
+  },
+  "http://nmk.ioapk.com:5050/4gtv-4gtv017/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485860.195596
+  },
+  "http://iptv.huuc.edu.cn/hls/dnhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485862.3023925
+  },
+  "http://iptv.huuc.edu.cn/hls/gdhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485862.3024015
+  },
+  "http://iptv.huuc.edu.cn/hls/jxhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485863.301052
+  },
+  "http://iptv.huuc.edu.cn/hls/hunanhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485863.3010616
+  },
+  "http://live.ottiptv.cc/huya/11342412": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485863.564091
+  },
+  "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485863.960276
+  },
+  "http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485864.3945072
+  },
+  "http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485864.2232013
+  },
+  "http://iptv.huuc.edu.cn/hls/tjhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485864.2991061
+  },
+  "http://iptv.huuc.edu.cn/hls/szhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485864.300179
+  },
+  "http://iptv.huuc.edu.cn/hls/schd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485864.3001852
+  },
+  "http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485864.4124506
+  },
+  "http://stream.hrbtv.net/yspd/sd/live.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485864.4432151
+  },
+  "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485865.748912
+  },
+  "http://live.ottiptv.cc/huya/11601968": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485865.0691245
+  },
+  "https://stream.hrbtv.net/yspd/sd/live.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485865.2130191
+  },
+  "http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485865.546296
+  },
+  "http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485865.786349
+  },
+  "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.392971
+  },
+  "http://live.ottiptv.cc/huya/11352876": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.4120228
+  },
+  "http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.4728043
+  },
+  "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.6780126
+  },
+  "http://60.10.139.113:8801/hls/2/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.7634153
+  },
+  "http://cdn2.163189.xyz/live/gdty/stream.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.77246
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.7752416
+  },
+  "http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.849296
+  },
+  "http://60.10.139.113:8801/hls/4/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485866.9760036
+  },
+  "http://112.27.235.94:8000/hls/2/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485867.0773842
+  },
+  "http://60.10.139.113:8801/hls/5/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485867.2643957
+  },
+  "http://112.27.235.94:8000/hls/4/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485867.292747
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485867.6077554
+  },
+  "http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485867.996698
+  },
+  "http://60.10.139.113:8801/hls/6/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485868.2209933
+  },
+  "http://112.27.235.94:8000/hls/5/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485868.3065646
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485868.3190818
+  },
+  "https://idclive.hljtv.com:4430/live/hljws_own.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485873.3004005
+  },
+  "http://112.27.235.94:8000/hls/7/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485870.6040058
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485870.7077825
+  },
+  "http://60.10.139.113:8801/hls/7/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485870.9131103
+  },
+  "http://60.10.139.113:8801/hls/9/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485871.115008
+  },
+  "http://112.27.235.94:8000/hls/8/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485871.4264445
+  },
+  "http://112.27.235.94:8000/hls/10/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485872.1594658
+  },
+  "http://iptv.huuc.edu.cn/hls/hljhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485873.3004076
+  },
+  "http://60.10.139.113:8801/hls/10/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485873.5028725
+  },
+  "http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485877.3048053
+  },
+  "http://live1.habctv.com/ysylsl/sd/live.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485877.3048153
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485877.3186574
+  },
+  "http://112.27.235.94:8000/hls/11/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485877.6046205
+  },
+  "http://175.8.28.207:9999/tsfile/live/0002_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485878.3012037
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485878.3016856
+  },
+  "http://60.10.139.113:8801/hls/96/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485878.5060768
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485878.5181007
+  },
+  "http://175.8.28.207:9999/tsfile/live/0004_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485879.3001773
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485879.3008804
+  },
+  "http://112.27.235.94:8000/hls/12/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485879.6125298
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485879.7038026
+  },
+  "http://60.10.139.113:8801/hls/13/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485879.817239
+  },
+  "http://60.10.139.113:8801/hls/97/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485879.9058247
+  },
+  "http://112.27.235.94:8000/hls/15/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485880.116027
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485880.2843838
+  },
+  "http://112.27.235.94:8000/hls/16/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485880.422518
+  },
+  "http://175.8.28.207:9999/tsfile/live/0005_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485882.3010848
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485882.3016584
+  },
+  "http://60.10.139.113:8801/hls/15/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485882.5035353
+  },
+  "http://112.27.235.94:8000/hls/6/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485882.8073604
+  },
+  "http://cssbyd.imwork.net:8082/hls/6/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485883.1545782
+  },
+  "http://120.76.248.139/live/bfgd/4200000246.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485883.188035
+  },
+  "http://60.10.139.113:8801/hls/19/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485883.3570304
+  },
+  "http://175.8.28.207:9999/tsfile/live/0006_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485884.3007147
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485884.30137
+  },
+  "http://61.136.172.236:9901/tsfile/live/0016_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485884.7685623
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485884.7751997
+  },
+  "http://112.27.235.94:8000/hls/32/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485885.128278
+  },
+  "http://175.8.28.207:9999/tsfile/live/0007_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485888.3026204
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485888.3035746
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485888.314638
+  },
+  "http://60.10.139.113:8801/hls/20/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485888.5049694
+  },
+  "http://112.27.235.94:8000/hls/27/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485888.6209662
+  },
+  "http://60.10.139.113:8801/hls/99/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485888.8255765
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485888.8358853
+  },
+  "http://112.27.235.94:8000/hls/26/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.1917243
+  },
+  "http://175.8.28.207:9999/tsfile/live/0009_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.2996824
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.3003893
+  },
+  "http://60.10.139.113:8801/hls/16/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.3937676
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.4075263
+  },
+  "http://120.76.248.139/live/bfgd/4200000108.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.4919167
+  },
+  "http://112.27.235.94:8000/hls/39/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.7148445
+  },
+  "http://123.130.84.106:8154/tsfile/live/0130_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.7894845
+  },
+  "http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.9090252
+  },
+  "http://60.10.139.113:8801/hls/25/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.9158916
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485889.92738
+  },
+  "http://112.27.235.94:8000/hls/34/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485890.2244725
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485890.3001993
+  },
+  "http://60.10.139.113:8801/hls/32/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485890.36455
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485890.3789845
+  },
+  "http://112.27.235.94:8000/hls/37/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485890.6784189
+  },
+  "http://60.10.139.113:8801/hls/29/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485890.880029
+  },
+  "http://175.8.28.207:9999/tsfile/live/0010_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485891.2995553
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485891.3121986
+  },
+  "http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485891.7605689
+  },
+  "http://112.27.235.94:8000/hls/41/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485892.7757018
+  },
+  "http://60.10.139.113:8801/hls/31/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485892.9803286
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485892.9912517
+  },
+  "http://112.27.235.94:8000/hls/36/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485893.2918203
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485893.3002849
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485893.7004995
+  },
+  "http://60.10.139.113:8801/hls/52/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485893.9045541
+  },
+  "http://61.136.172.236:9901/tsfile/live/0113_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485894.1388783
+  },
+  "http://120.76.248.139/live/bfgd/4200000116.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485894.4438195
+  },
+  "http://175.8.28.207:9999/tsfile/live/0011_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485895.3004415
+  },
+  "http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485895.3012586
+  },
+  "http://61.136.172.236:9901/tsfile/live/0142_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485895.3705227
+  },
+  "http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485895.7408638
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485895.7581143
+  },
+  "http://60.10.139.113:8801/hls/28/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485895.9660246
+  },
+  "http://112.27.235.94:8000/hls/47/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485896.6002579
+  },
+  "http://175.8.28.207:9999/tsfile/live/0014_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485896.2993593
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485896.6125634
+  },
+  "http://60.10.139.113:8801/hls/38/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485896.8145835
+  },
+  "http://cssbyd.imwork.net:8082/hls/41/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485896.8827446
+  },
+  "http://61.136.172.236:9901/tsfile/live/0116_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485897.0479383
+  },
+  "http://hmfs.f3322.net:3388/hls/27/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485897.220723
+  },
+  "http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485897.4619262
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485897.4742043
+  },
+  "http://120.76.248.139/live/bfgd/4200000473.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485897.4980693
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2026052216001718dc89bfb6ea4c30846ffcaddf73cb51&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260522160017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=159.75.12.57&SecurityKey=20260522160017&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=da3f4e8c0bbae0100d2f82c707822d22&ddCalcu=2d2aed322f12408e780c70cb2b8afe20d100": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485897.778483
+  },
+  "https://live.264788.xyz/channel/sanshaweishi?streamid=b0f97355568c17a6d1ca3a67795ee670&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485897.8320892
+  },
+  "http://60.10.139.113:8801/hls/51/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485898.4248605
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485898.4363925
+  },
+  "http://112.27.235.94:8000/hls/40/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485899.89688
+  },
+  "http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485898.980831
+  },
+  "http://175.8.28.207:9999/tsfile/live/0001_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485899.299435
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485899.5927215
+  },
+  "http://60.10.139.113:8801/hls/56/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485899.5790489
+  },
+  "http://182.150.23.74:808/hls/25/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485900.299702
+  },
+  "http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202605221600169c79ab9f961544798facfc538dd52212&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260522160016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=159.75.12.57&SecurityKey=20260522160016&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9360ae5bf371a311ff2c30013644ca8e&ddCalcu=e983ea62c074a04e653b1f030731ca23f1f1": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485900.4408493
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/btws/50/20250804/index.m3u8?msisdn=202605221600174d43d12a33e740fbb25d6e876288cdb8&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260522160017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=159.75.12.57&SecurityKey=20260522160017&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f16b1196d5fbf21be2eab53695c8e430&ddCalcu=0f31e462eb6810c159966d355fbbafe221eb": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485900.5812116
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226111/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485900.5923293
+  },
+  "http://183.11.239.36:808/hls/7/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485901.4879153
+  },
+  "http://iptv.huuc.edu.cn/hls/jshd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485901.2997384
+  },
+  "http://iptv.huuc.edu.cn/hls/btv1hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485901.2997468
+  },
+  "http://218.13.170.98:9901/tsfile/live/0115_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485901.3652925
+  },
+  "http://60.10.139.113:8801/hls/35/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485901.5007684
+  },
+  "http://60.10.139.113:8801/hls/92/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485901.5675743
+  },
+  "http://60.10.139.113:8801/hls/42/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485901.7060144
+  },
+  "https://srs.ssws.tv/video/sstv-10/index.m3u8#http://nn.7x9d.cn/地方台8563/海南.php?id=ssws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485902.0815182
+  },
+  "http://60.10.139.113:8801/hls/83/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485902.2860534
+  },
+  "http://iptv.huuc.edu.cn/hls/ahhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485902.2999096
+  },
+  "http://60.10.139.113:8801/hls/91/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485902.5047514
+  },
+  "http://139.214.183.30:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485902.7312434
+  },
+  "http://101.74.31.172:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485902.9278111
+  },
+  "http://iptv.huuc.edu.cn/hls/hebhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485903.3001854
+  },
+  "http://101.74.30.42:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485903.3452332
+  },
+  "http://139.214.183.30:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485903.5231314
+  },
+  "http://60.10.139.113:8801/hls/63/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485903.5535252
+  },
+  "http://60.10.139.113:8801/hls/64/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485903.7245305
+  },
+  "http://hmfs.f3322.net:3388/hls/9/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485903.92247
+  },
+  "http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485903.977755
+  },
+  "http://60.10.139.113:8801/hls/66/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485904.1244109
+  },
+  "http://60.10.139.113:8801/hls/68/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485904.1791956
+  },
+  "http://60.10.139.113:8801/hls/69/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485904.3833156
+  },
+  "http://60.10.139.113:8801/hls/70/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485904.5907512
+  },
+  "http://60.10.139.113:8801/hls/79/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485904.719215
+  },
+  "http://60.10.139.113:8801/hls/80/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485904.792469
+  },
+  "http://60.10.139.113:8801/hls/72/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485904.9965773
+  },
+  "http://110.248.147.90:85/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485905.1280925
+  },
+  "http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485905.1993916
+  },
+  "http://60.10.139.113:8801/hls/74/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485905.33445
+  },
+  "http://27.188.104.94:85/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485905.6719422
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485906.0944283
+  },
+  "http://218.13.170.98:9901/tsfile/live/0141_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485906.299441
+  },
+  "http://iptv.huuc.edu.cn/hls/sdhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485906.2994518
+  },
+  "http://183.11.239.36:808/hls/119/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485906.4882286
+  },
+  "http://cssbyd.imwork.net:8082/hls/48/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485906.4964612
+  },
+  "http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485906.691783
+  },
+  "http://58.57.40.22:9901/tsfile/live/1056_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485906.9324992
+  },
+  "http://iptv.huuc.edu.cn/hls/hbhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485907.299676
+  },
+  "http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485907.4644055
+  },
+  "http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485907.686483
+  },
+  "http://113.64.147.172:8081/hls/34/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.091469
+  },
+  "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.1148076
+  },
+  "http://221.205.61.180:9003/hls/41/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.2476664
+  },
+  "http://iptv.huuc.edu.cn/hls/cqhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.2998488
+  },
+  "http://113.64.147.172:8081/hls/35/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.317248
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.3406823
+  },
+  "http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.4880743
+  },
+  "http://111.22.153.159:35455/itv/5000000010000032212.m3u8?cdn=bestzb": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.7119458
+  },
+  "http://223.13.1.48:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.7724833
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226008/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.7840545
+  },
+  "http://111.22.153.159:35455/itv/5000000002000029972.m3u8?cdn=bestzb": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485908.8543696
+  },
+  "http://183.11.239.36:808/hls/17/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485909.3909798
+  },
+  "http://125.42.149.244:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485909.5947318
+  },
+  "http://222.136.229.65:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485909.8084414
+  },
+  "http://120.76.248.139/live/bfgd/4200000122.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485910.1968093
+  },
+  "http://182.150.23.74:808/hls/29/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485910.299708
+  },
+  "http://iptv.huuc.edu.cn/hls/lnhd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485910.300061
+  },
+  "http://113.64.147.44:8089/hls/41/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485910.6916485
+  },
+  "http://113.64.147.172:8081/hls/41/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485910.894747
+  },
+  "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485911.2708426
+  },
+  "http://112.27.235.94:8000/hls/28/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.5627148
+  },
+  "http://125.118.185.254:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.261428
+  },
+  "http://139.214.183.30:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.3009174
+  },
+  "http://139.214.180.124:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.3009274
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.3123398
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.323398
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.334035
+  },
+  "http://139.214.180.124:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.754077
+  },
+  "http://125.125.52.63:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.7692626
+  },
+  "http://125.125.226.58:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485912.9775412
+  },
+  "http://139.214.180.124:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485913.3002553
+  },
+  "http://125.43.243.132:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485913.705956
+  },
+  "http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485913.9032834
+  },
+  "http://125.125.56.189:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485914.1759124
+  },
+  "http://8.138.7.223/tv/shtv.php?id=wxty": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485915.7220185
+  },
+  "https://live.tvfix.org/live/mydy/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485916.0149
+  },
+  "https://live.tvfix.org/live/cmc/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485916.2457283
+  },
+  "http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485919.302334
+  },
+  "http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485919.3023415
+  },
+  "http://111.22.153.159:35455/itv/6000000006000320630.m3u8?cdn=wasusyt": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485919.5877466
+  },
+  "http://113.64.147.172:8081/hls/37/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485919.7906795
+  },
+  "http://113.64.147.44:8089/hls/37/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485919.988006
+  },
+  "http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485920.2997193
+  },
+  "http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485920.299733
+  },
+  "http://113.64.147.117:8089/hls/41/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485920.3944783
+  },
+  "https://cdn8.163189.xyz/live/lhdy/stream.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485920.4759398
+  },
+  "http://113.64.147.117:8089/hls/37/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485920.7023876
+  },
+  "http://nmk.ioapk.com:5050/li-litv-longturn03/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485921.561859
+  },
+  "http://nmk.ioapk.com:5050/litv-longturn03/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485921.2099178
+  },
+  "http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485921.2994235
+  },
+  "http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485921.781559
+  },
+  "http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485921.8667636
+  },
+  "http://111.221.137.234:44330/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485922.0600562
+  },
+  "http://113.64.147.172:8081/hls/87/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485922.2623816
+  },
+  "http://113.64.147.117:8089/hls/87/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485922.464912
+  },
+  "http://113.64.147.44:8089/hls/87/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485922.6606057
+  },
+  "http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485922.802408
+  },
+  "http://nmk.ioapk.com:5050/li-4gtv-4gtv061/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.461212
+  },
+  "http://nmk.ioapk.com:5050/4gtv-4gtv061/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.2577908
+  },
+  "http://110.72.67.220:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.3004215
+  },
+  "http://110.72.59.146:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.300428
+  },
+  "http://110.72.102.79:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.3004313
+  },
+  "http://cdn6.163189.xyz/163189/amty": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.5333104
+  },
+  "http://nmk.ioapk.com:5050/4gtv-4gtv077/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.7127807
+  },
+  "http://111.22.153.159:35455/itv/2000000004000000060.m3u8?cdn=hnbblive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.8123767
+  },
+  "http://nmk.ioapk.com:5050/li-4gtv-4gtv077/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.8215015
+  },
+  "http://111.22.153.159:35455/itv/1000000003000012426.m3u8?cdn=ystenlive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485923.9348915
+  },
+  "http://111.22.153.159:35455/itv/1000000001000009601.m3u8?cdn=ystenlive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485924.0349653
+  },
+  "http://mytv.cdn.com.mp/live/dsdy/stream.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485924.1101913
+  },
+  "http://cdn9.163189.xyz/live/as/stream.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485924.2326198
+  },
+  "http://110.72.59.146:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485926.0648096
+  },
+  "http://110.72.67.220:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485926.1230278
+  },
+  "http://110.72.102.79:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485927.3093371
+  },
+  "http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485931.30185
+  },
+  "http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485931.301858
+  },
+  "http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485931.5715408
+  },
+  "http://www.goodiptv.club/douyu/4246519": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485931.876489
+  },
+  "http://www.goodiptv.club/douyu/747764": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485931.9793417
+  },
+  "http://www.goodiptv.club/douyu/3928": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485932.119043
+  },
+  "http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485932.1201873
+  },
+  "http://112.46.105.20:8009/hls/24/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485932.9038012
+  },
+  "https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742954511&sign=5241ba5667bd08639fd195ea9db6da5a": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485933.0448883
+  },
+  "http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485934.3007603
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485934.3007686
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485934.3025672
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485934.302573
+  },
+  "http://dassby.qqff.top:99/live/辽宁体育/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485934.7252526
+  },
+  "http://175.7.250.101:9902/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485934.7567368
+  },
+  "http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485934.9711719
+  },
+  "http://45.192.97.170:8880/play/25.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485935.1396883
+  },
+  "http://113.64.147.172:8081/hls/31/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485935.343211
+  },
+  "http://120.76.248.139/live/bfgd/4200000070.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485935.3624775
+  },
+  "http://113.64.147.117:8089/hls/31/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485935.5451164
+  },
+  "http://113.64.147.44:8089/hls/31/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485935.5581338
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485936.3013206
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485936.3013294
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485938.3012693
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485942.3009748
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485942.3009837
+  },
+  "http://110.72.59.146:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485942.9694178
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485943.3006768
+  },
+  "http://101.72.127.232:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485943.708204
+  },
+  "http://101.72.124.100:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485944.1144874
+  },
+  "http://110.72.102.79:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485944.2088263
+  },
+  "http://110.72.67.220:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485944.359335
+  },
+  "http://110.248.147.90:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485944.5215385
+  },
+  "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485944.5222428
+  },
+  "http://112.46.105.20:8009/hls/62/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485944.6897843
+  },
+  "http://27.188.104.94:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485944.7997642
+  },
+  "http://106.115.24.157:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485945.1557891
+  },
+  "http://106.115.26.242:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485945.2613616
+  },
+  "http://175.7.216.216:9902/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485945.2997537
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485945.3008547
+  },
+  "http://171.127.88.117:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485945.5630865
+  },
+  "http://118.81.72.139:9003/hls/51/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485945.686996
+  },
+  "http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485945.6887887
+  },
+  "https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.2833676
+  },
+  "http://223.13.1.48:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485945.996828
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.2993672
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.2993736
+  },
+  "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.3724222
+  },
+  "http://101.72.124.5:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.4120822
+  },
+  "https://zby.130519.xyz/PLTV/11/224/3221225773/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.4228864
+  },
+  "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.689957
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=20260522160017119432b50bea47fdbffc1fa0d407a1da&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260522160017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=159.75.12.57&SecurityKey=20260522160017&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=90ee2e659789254cd9074b864d8973de&ddCalcu=e9d0e3e27e69208ed6456987b849720594dc": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.7163408
+  },
+  "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485946.7921267
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485947.2998981
+  },
+  "http://vip.lqcc.xyz:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485947.2999096
+  },
+  "https://hls.gstv.com.cn/49048r/w1l6d5.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485948.5642636
+  },
+  "http://tvtj.jxwltx.com:8003/cctv1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485949.7894363
+  },
+  "http://tvtj.jxwltx.com:8003/cctv2.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485949.9854903
+  },
+  "http://tvtj.jxwltx.com:8003/cctv3.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485950.1725957
+  },
+  "http://tvtj.jxwltx.com:8003/cctv4.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485950.359667
+  },
+  "http://tvtj.jxwltx.com:8003/cctv5.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485951.574786
+  },
+  "http://tvtj.jxwltx.com:8003/cctv6.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485951.7713912
+  },
+  "http://tvtj.jxwltx.com:8003/cctv7.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485951.9677424
+  },
+  "http://tvtj.jxwltx.com:8003/cctv8.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485952.1576095
+  },
+  "http://tvtj.jxwltx.com:8003/cctv9.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485952.3559601
+  },
+  "http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485953.773701
+  },
+  "http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485954.233118
+  },
+  "http://smjdenny.eu.org:35455/bptv/10000100000000050000000003870779.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485954.2997942
+  },
+  "https://play-qukan.cztv.com/live/1758879019692345.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485955.2734442
+  },
+  "http://xhyx.gz.cn:1698/hls/35/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485955.939088
+  },
+  "http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485956.3004353
+  },
+  "http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485956.300445
+  },
+  "http://58.48.37.158:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485957.3010037
+  },
+  "http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485957.3010142
+  },
+  "http://iptv.huuc.edu.cn/hls/btv4hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485957.3013878
+  },
+  "http://iptv.huuc.edu.cn/hls/btv6hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485957.3013961
+  },
+  "https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485957.7747362
+  },
+  "http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485958.3002071
+  },
+  "http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485958.3002188
+  },
+  "http://jx.999315.xyz/yzzy/20250929/17368_087f472a/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485958.6643465
+  },
+  "http://nmk.ioapk.com:5050/4gtv-4gtv101/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485959.0595574
+  },
+  "http://nmk.ioapk.com:5050/li-4gtv-4gtv101/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485959.2602518
+  },
+  "http://nmk.ioapk.com:5050/4gtv-live021/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485959.488701
+  },
+  "http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485965.299917
+  },
+  "http://223.13.1.48:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485965.721036
+  },
+  "http://113.64.147.172:8081/hls/61/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485966.1297169
+  },
+  "http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485966.299367
+  },
+  "http://nmk.ioapk.com:5050/li-4gtv011/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485966.9890769
+  },
+  "http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485967.299729
+  },
+  "http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485967.299737
+  },
+  "http://222.136.229.65:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485967.401573
+  },
+  "http://nmk.ioapk.com:5050/4gtv-4gtv011/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.0149739
+  },
+  "http://nmk.ioapk.com:5050/4gtv-live157/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.018594
+  },
+  "http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.2998261
+  },
+  "http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.2998335
+  },
+  "http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.2999737
+  },
+  "http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.2999809
+  },
+  "http://tvtj.jxwltx.com:8003/jsws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.4875798
+  },
+  "http://tvtj.jxwltx.com:8003/gdws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.4888613
+  },
+  "http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.556378
+  },
+  "http://nmk.ioapk.com:5050/4gtv-live031/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.6370125
+  },
+  "http://nmk.ioapk.com:5050/4gtv-live201/index.m3u8?proxy=true": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.6403146
+  },
+  "http://tvtj.jxwltx.com:8003/hunanws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.7523432
+  },
+  "http://tvtj.jxwltx.com:8003/ynws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485968.950684
+  },
+  "http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485969.3003752
+  },
+  "http://113.64.147.44:8089/hls/61/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485969.710007
+  },
+  "http://tvtj.jxwltx.com:8003/dnws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485970.2026386
+  },
+  "http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485970.2990923
+  },
+  "http://113.64.147.117:8089/hls/61/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485975.842401
+  },
+  "http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485978.3021953
+  },
+  "http://tvtj1.jxwltx.com:8003/live2915.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485979.3018348
+  },
+  "http://tvtj1.jxwltx.com:8003/live1762.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485979.3018463
+  },
+  "http://tvtj1.jxwltx.com:8003/bjws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485979.301852
+  },
+  "http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485979.3018572
+  },
+  "http://live.ottiptv.cc/huya/11602043": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485979.5629303
+  },
+  "http://tvtj1.jxwltx.com:8003/zjws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485980.3011453
+  },
+  "http://tvtj1.jxwltx.com:8003/ahws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485980.3011708
+  },
+  "http://tvtj1.jxwltx.com:8003/szws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485980.3011746
+  },
+  "http://tvtj1.jxwltx.com:8003/sdws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485981.3006592
+  },
+  "http://45.192.97.170:8880/play/24.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485981.754324
+  },
+  "http://171.127.88.117:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485982.1730816
+  },
+  "http://tvtj1.jxwltx.com:8003/sxws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485986.3040128
+  },
+  "http://223.13.1.48:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485986.7499611
+  },
+  "http://223.13.1.48:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485986.973003
+  },
+  "http://223.13.1.48:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485987.1954231
+  },
+  "http://113.64.147.172:8081/hls/80/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485987.586736
+  },
+  "http://223.13.1.48:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485987.809872
+  },
+  "http://223.13.1.48:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485988.6009612
+  },
+  "http://223.13.1.48:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485988.823844
+  },
+  "http://113.64.147.172:8081/hls/100/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485989.0250576
+  },
+  "http://tvtj1.jxwltx.com:8003/hnws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485989.2996383
+  },
+  "http://125.118.185.254:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485989.4257848
+  },
+  "http://125.125.56.189:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485989.7559335
+  },
+  "http://139.214.180.124:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485989.8783514
+  },
+  "http://113.64.147.117:8089/hls/100/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485989.9523606
+  },
+  "http://125.125.226.58:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.288615
+  },
+  "http://tvtj1.jxwltx.com:8003/tjws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.3011653
+  },
+  "http://tvtj1.jxwltx.com:8003/scws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.3011715
+  },
+  "http://tvtj1.jxwltx.com:8003/gxws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.3011758
+  },
+  "http://tvtj1.jxwltx.com:8003/jxws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.3011785
+  },
+  "http://60.187.247.53:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.3569276
+  },
+  "https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.4801977
+  },
+  "http://113.64.147.172:8081/hls/116/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.5031967
+  },
+  "http://125.125.52.63:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485990.7232952
+  },
+  "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.0101297
+  },
+  "http://113.64.147.117:8089/hls/116/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.0696516
+  },
+  "http://113.64.147.117:8089/hls/80/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.11657
+  },
+  "https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.2023199
+  },
+  "http://tvtj1.jxwltx.com:8003/jlws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.3008418
+  },
+  "http://tvtj1.jxwltx.com:8003/linxws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.3008485
+  },
+  "http://tvtj1.jxwltx.com:8003/live1096.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.3008518
+  },
+  "http://113.64.147.44:8089/hls/80/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.4024372
+  },
+  "http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.548019
+  },
+  "http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.589841
+  },
+  "http://110.248.147.90:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.7199783
+  },
+  "http://27.188.104.94:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.7541876
+  },
+  "https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.7768767
+  },
+  "http://110.248.147.90:85/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.8031027
+  },
+  "http://110.248.147.90:85/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.9277873
+  },
+  "http://118.81.72.139:9003/hls/38/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485991.9428997
+  },
+  "http://110.248.147.90:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.001671
+  },
+  "https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.1256063
+  },
+  "http://27.188.104.94:85/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.1805634
+  },
+  "http://118.81.72.139:9003/hls/24/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.1983747
+  },
+  "https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.292529
+  },
+  "http://139.214.183.30:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.299031
+  },
+  "http://27.188.104.94:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.410357
+  },
+  "http://101.66.198.55:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.5246701
+  },
+  "http://101.66.198.245:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.6192799
+  },
+  "http://101.66.198.179:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.6288843
+  },
+  "http://27.188.104.94:85/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.635571
+  },
+  "https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.7052433
+  },
+  "https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.826693
+  },
+  "http://119.51.58.205:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485992.8562872
+  },
+  "https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485993.2742069
+  },
+  "http://139.214.183.30:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787485993.2948034
+  },
+  "http://113.64.147.44:8089/hls/116/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.3072329
+  },
+  "http://74.91.26.218:82/live/cctv3hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.410309
+  },
+  "http://110.72.59.146:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.568119
+  },
+  "http://110.72.59.146:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.5686822
+  },
+  "http://110.72.67.220:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.5796127
+  },
+  "http://110.72.67.220:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.587427
+  },
+  "http://110.72.102.79:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.5938594
+  },
+  "http://110.72.102.79:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.5958526
+  },
+  "http://74.91.26.218:82/live/cctv1hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.6691422
+  },
+  "http://139.214.183.30:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.7888858
+  },
+  "http://139.214.180.124:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.8066223
+  },
+  "http://74.91.26.218:82/live/cctv12hd.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.840294
+  },
+  "http://123.14.94.26:9003/hls/67/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.97604
+  },
+  "http://123.14.233.8:9003/hls/67/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486001.9811814
+  },
+  "http://139.214.180.124:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486002.035368
+  },
+  "http://125.118.122.139:85/tsfile/live/1012_1.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486002.0392938
+  },
+  "http://139.214.183.30:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486002.7420688
+  },
+  "http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": "1920x1080",
+    "ts": 1787486002.9976811
+  },
+  "http://110.72.59.146:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486003.300334
+  },
+  "http://110.72.59.146:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486003.3003416
+  },
+  "http://110.72.67.220:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486003.3003445
+  },
+  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": "1280x720",
+    "ts": 1787486003.7709868
+  },
+  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": "1280x720",
+    "ts": 1787486003.6967633
+  },
+  "http://222.128.55.152:9080/live/dwq.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486003.6852386
+  },
+  "http://hls.nntv.cn/nnlive/YSYL_244.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486003.905476
+  },
+  "https://cdn.qd.je/163189/gdty": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486004.0773838
+  },
+  "http://8.138.7.223/tv/btime.php?id=bjws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486004.1518002
+  },
+  "http://110.72.102.79:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486004.1844547
+  },
+  "https://stream.hrbtv.net/yspd/playlist.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486004.25196
+  },
+  "http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": "1920x1080",
+    "ts": 1787486004.3033965
+  },
+  "http://8.138.7.223/tv/jsws4k.php": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486004.783794
+  },
+  "http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": "960x540",
+    "ts": 1787486005.028631
+  },
+  "http://8.138.7.223/tv/api.php?id=hnws4k": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486005.594047
+  },
+  "http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486005.6151557
+  },
+  "https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486005.646422
+  },
+  "https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486005.6583993
+  },
+  "https://cdn.qd.je/163189/lhdy": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486005.726597
+  },
+  "https://stream1.freetv.fun/eltaai-er-da-ti-yu--3--wj-1.ctv": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486005.7599585
+  },
+  "http://php.jdshipin.com:8880/iptv.php?id=hndy": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486005.7719147
+  },
+  "https://cdn.qd.je/163189/amty": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.0714462
+  },
+  "http://45.192.97.170:8880/play/917.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.1549735
+  },
+  "http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.163892
+  },
+  "http://8.138.7.223/tv/hxws.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.347481
+  },
+  "https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.3784254
+  },
+  "https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.4628444
+  },
+  "http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.786737
+  },
+  "http://1.94.31.214/php/hebei.php?id=hbys": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.8247175
+  },
+  "http://php.jdshipin.com:8880/gztv.php?id=yingshi": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.8405056
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv3": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.8986878
+  },
+  "http://php.jdshipin.com:8880/fstv.php?id=fsys": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486006.9159715
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv1": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.1781867
+  },
+  "https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.178391
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv12": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.1905947
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv16": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.1963768
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv13": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.2103813
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.220238
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv17": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.2317479
+  },
+  "http://t.061899.xyz/tl/tl.php?id=dnws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.234013
+  },
+  "http://t.061899.xyz/tl/tl.php?id=gdws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.2385666
+  },
+  "http://t.061899.xyz/tl/tl.php?id=gzws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.248089
+  },
+  "http://t.061899.xyz/tl/tl.php?id=jxws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.2572188
+  },
+  "http://t.061899.xyz/tl/tl.php?id=hunws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.261827
+  },
+  "http://t.061899.xyz/tl/tl.php?id=sxws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.2763906
+  },
+  "http://t.061899.xyz/tl/tl.php?id=nxws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.289818
+  },
+  "http://t.061899.xyz/tl/tl.php?id=dwqws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3036945
+  },
+  "http://t.061899.xyz/tl/tl.php?id=xzws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3074412
+  },
+  "http://t.061899.xyz/tl/tl.php?id=xjws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3175585
+  },
+  "http://t.061899.xyz/tl/tl.php?id=nmws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.329362
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv4": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3355868
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv2": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3432958
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv4o": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3494236
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv4m": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3570073
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv5": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3626146
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv6": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.364195
+  },
+  "http://r.jdshipin.com/LiYdg": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3725398
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv7": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3680627
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv11": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3818598
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv9": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3832417
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv10": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3874853
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv14": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.3969223
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv15": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.4013445
+  },
+  "http://t.061899.xyz/tl/tl.php?id=jsws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.411063
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cctv5p": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.415016
+  },
+  "http://t.061899.xyz/tl/tl.php?id=hnws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.4288528
+  },
+  "http://t.061899.xyz/tl/tl.php?id=cqws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.442592
+  },
+  "http://t.061899.xyz/tl/tl.php?id=sdws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.4574356
+  },
+  "http://t.061899.xyz/tl/tl.php?id=gxws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.4707878
+  },
+  "http://t.061899.xyz/tl/tl.php?id=lnws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.4887044
+  },
+  "http://t.061899.xyz/tl/tl.php?id=ynws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.4942822
+  },
+  "http://t.061899.xyz/tl/tl.php?id=jlws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.5122998
+  },
+  "http://t.061899.xyz/tl/tl.php?id=lgs": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.5179539
+  },
+  "http://t.061899.xyz/tl/tl.php?id=qhws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.5317612
+  },
+  "http://t.061899.xyz/tl/tl.php?id=hinws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.5374925
+  },
+  "http://t.061899.xyz/tl/tl.php?id=fxzl": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.551314
+  },
+  "http://t.061899.xyz/tl/tl.php?id=zxs": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.563977
+  },
+  "http://t.061899.xyz/tl/tl.php?id=hxws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.5779421
+  },
+  "http://t.061899.xyz/tl/tl.php?id=gsws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.591752
+  },
+  "http://t.061899.xyz/tl/tl.php?id=chcdzdy": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.5974493
+  },
+  "http://t.061899.xyz/tl/tl.php?id=chcjtdy": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.6029992
+  },
+  "http://t.061899.xyz/tl/tl.php?id=dfys": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.6168263
+  },
+  "http://t.061899.xyz/tl/tl.php?id=jbty": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.634884
+  },
+  "http://m.061899.xyz/mg/gdys": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.644194
+  },
+  "http://m.061899.xyz/mg/gdty": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.6469576
+  },
+  "http://php.jdshipin.com/TVOD/iptv.php?id=gdty": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.6525376
+  },
+  "http://php.jdshipin.com:8880/TVOD/iptv.php?id=as": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.7086122
+  },
+  "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.7283103
+  },
+  "http://t.061899.xyz/tl/tl.php?id=hubws": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.7781444
+  },
+  "http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.7845562
+  },
+  "http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486007.9927604
+  },
+  "http://r.jdshipin.com/WtYt3": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486008.0719316
+  },
+  "https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486008.5658967
+  },
+  "http://139.214.180.124:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486012.3017602
+  },
+  "http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787486016.3033125
+  }
+}
