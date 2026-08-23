@@ -7698,5 +7698,33 @@
     "delay": -1,
     "resolution": null,
     "ts": 1787463162.0047133
+  },
+  "http://60.187.245.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787478124.1522877
+  },
+  "http://110.72.67.220:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787478127.7175083
+  },
+  "http://106.115.24.53:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787478129.0670156
+  },
+  "http://106.115.26.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0": {
+    "ok": false,
+    "speed": 0,
+    "delay": -1,
+    "resolution": null,
+    "ts": 1787478136.5511446
   }
 }
