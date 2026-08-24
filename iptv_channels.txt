@@ -2,4 +2,4 @@
 上海卫视,http://110.72.54.151:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 更新时间,#genre#
-2026-08-24 09:44:01,https://example.com
+2026-08-24 18:02:29,https://example.com
