@@ -4,7 +4,6 @@ import logging
 import random
 import re
 import sys
-import time
 import argparse
 import datetime
 import os
@@ -56,11 +55,11 @@ PROBE_CONCURRENCY = 3 # ffprobe探测并发数
 
 # 速率过滤（低于对应分辨率最低速率的源将被剔除）
 OPEN_FILTER_SPEED = True # 是否开启速率过滤
-MIN_SPEED = 0.7 # 默认最小速率（M/s）
+MIN_SPEED = 0.15 # 默认最小速率（M/s）—— 降低门槛，避免误杀
 RESOLUTION_SPEED_MAP = { # 分辨率与最低速率映射（M/s）
-  "1280x720": 0.2,
-  "1920x1080": 0.5,
-  "3840x2160": 1.0,
+  "1280x720": 0.15,
+  "1920x1080": 0.3,
+  "3840x2160": 0.8,
 }
 
 # 分辨率过滤（需ffprobe探测，会增加测速耗时，但能更有效区分可播源性）
@@ -366,7 +365,7 @@ async def get_speed_with_download(url, headers=None, session=None,
   下载测速（参考 iptv-api）：流式下载数据实时采样速率，
   速率稳定后提前结束，返回 speed(M/s)/delay(ms)/size(字节)/time(秒)
   """
-  start_time = time()
+  start_time = time.time()
   delay = -1
   total_size = 0
   min_bytes = 64 * 1024
@@ -386,12 +385,12 @@ async def get_speed_with_download(url, headers=None, session=None,
     async with _limit(semaphore):
       async with session.get(url, headers=headers, timeout=timeout) as response:
         if response.status != 200:
-          raise Exception("Invalid response")
-        delay = int(round((time() - start_time) * 1000))
+          raise Exception(f"Invalid response status: {response.status}")
+        delay = int(round((time.time() - start_time) * 1000))
         async for chunk in response.content.iter_any():
           if chunk:
             total_size += len(chunk)
-            now = time()
+            now = time.time()
             elapsed = now - start_time
             delta_t = now - last_sample_time
             delta_b = total_size - last_sample_size
@@ -411,12 +410,12 @@ async def get_speed_with_download(url, headers=None, session=None,
                   'size': total_size,
                   'time': total_time,
                 }
-  except Exception:
-    pass
+  except Exception as e:
+    logger.debug(f"下载测速失败 {url[:60]}: {type(e).__name__}: {e}")
   finally:
     if created_session:
       await session.close()
-  total_time = time() - start_time
+  total_time = time.time() - start_time
   speed_value = total_size / total_time / 1024 / 1024 if total_time > 0 else 0.0
   return {
     'speed': speed_value,
@@ -425,8 +424,8 @@ async def get_speed_with_download(url, headers=None, session=None,
     'time': total_time,
   }
 
-async def get_headers(url, headers=None, session=None, timeout=3, semaphore=None):
-  """HEAD请求获取响应头（用于识别重定向与m3u8内容类型）"""
+async def get_headers(url, headers=None, session=None, timeout=8, semaphore=None):
+  """HEAD请求获取响应头（用于识别重定向与m3u8内容类型），HEAD失败时fallback到GET"""
   if session is None:
     session = aiohttp.ClientSession(
       connector=aiohttp.TCPConnector(ssl=False), trust_env=True
@@ -437,11 +436,21 @@ async def get_headers(url, headers=None, session=None, timeout=3, semaphore=None
   res_headers = {}
   try:
     async with _limit(semaphore):
-      async with session.head(url, headers=headers, timeout=timeout,
-                             allow_redirects=False) as response:
-        res_headers = dict(response.headers)
-  except Exception:
-    pass
+      # 先尝试 HEAD
+      try:
+        async with session.head(url, headers=headers, timeout=timeout,
+                               allow_redirects=False) as response:
+          res_headers = dict(response.headers)
+      except Exception as head_err:
+        # 部分服务器不支持 HEAD，fallback 到 GET（不读取 body，只取 headers）
+        try:
+          async with session.get(url, headers=headers, timeout=timeout,
+                                allow_redirects=False) as response:
+            res_headers = dict(response.headers)
+        except Exception as get_err:
+          logger.debug(f"获取响应头失败 HEAD({type(head_err).__name__}) GET({type(get_err).__name__}): {url[:60]}")
+  except Exception as e:
+    logger.debug(f"get_headers 异常: {url[:60]} {type(e).__name__}: {e}")
   finally:
     if created_session:
       await session.close()
@@ -467,9 +476,9 @@ async def get_url_content(url, headers=None, session=None,
             raise Exception("Response too large")
           content = payload.decode(response.charset or "utf-8", errors="replace")
         else:
-          raise Exception("Invalid response")
-  except Exception:
-    pass
+          raise Exception(f"Invalid response status: {response.status}")
+  except Exception as e:
+    logger.debug(f"获取URL内容失败 {url[:60]}: {type(e).__name__}: {e}")
   finally:
     if created_session:
       await session.close()
@@ -580,7 +589,7 @@ async def ffmpeg_url(url, headers=None, timeout=SPEED_TEST_TIMEOUT):
   stderr_parts = []
   speed_samples = []
   bitrate_re = re.compile(r"bitrate=\s*([0-9\.]+)\s*k?bits/s", re.IGNORECASE)
-  start = time()
+  start = time.time()
   try:
     proc = await asyncio.create_subprocess_exec(
       *args, stdout=asyncio.subprocess.DEVNULL, stderr=asyncio.subprocess.PIPE
@@ -590,7 +599,7 @@ async def ffmpeg_url(url, headers=None, timeout=SPEED_TEST_TIMEOUT):
         line = await asyncio.wait_for(proc.stderr.readline(), timeout=0.5)
       except asyncio.TimeoutError:
         line = b''
-      elapsed = time() - start
+      elapsed = time.time() - start
 
       if line == b'':
         if proc.returncode is None:
@@ -652,7 +661,8 @@ async def ffmpeg_url(url, headers=None, timeout=SPEED_TEST_TIMEOUT):
         await proc.wait()
       except Exception:
         pass
-  except Exception:
+  except Exception as e:
+    logger.debug(f"ffmpeg 测速异常 {url[:60]}: {type(e).__name__}: {e}")
     if proc:
       try:
         proc.kill()
@@ -817,10 +827,10 @@ async def probe_url(url, headers=None, timeout=SPEED_TEST_TIMEOUT):
               except Exception:
                 fps = None
           return {'resolution': res, 'fps': fps}
-      except Exception:
-        pass
-  except Exception:
-    pass
+      except Exception as e:
+                logger.debug(f"ffprobe 解析失败 {url[:60]}: {type(e).__name__}: {e}")
+  except Exception as e:
+    logger.debug(f"ffprobe 异常 {url[:60]}: {type(e).__name__}: {e}")
   finally:
     if proc:
       try:
@@ -832,6 +842,18 @@ async def probe_url(url, headers=None, timeout=SPEED_TEST_TIMEOUT):
       except Exception:
         pass
   return None
+
+def _build_headers_for_url(url: str) -> dict:
+  """根据URL动态构建请求头：只有咪咕源才加咪咕Referer"""
+  headers = {**REQUEST_HEADERS}
+  host = ""
+  try:
+    host = urlparse(url).hostname or ""
+  except:
+    pass
+  if host and ("migu" in host.lower() or "miguvideo" in host.lower()):
+    headers["Referer"] = "https://www.miguvideo.com/"
+  return headers
 
 async def get_result(url, headers=None, resolution=None,
                      filter_resolution=OPEN_FILTER_RESOLUTION,
@@ -850,17 +872,22 @@ async def get_result(url, headers=None, resolution=None,
   location = None
   segment_urls = []
   is_rt = RT_URL_PATTERN.match(url) is not None
+  
+  # 如果外部没传 headers，按 URL 动态构建
+  if headers is None:
+    headers = _build_headers_for_url(url)
+    
   try:
     url = quote(url, safe=':/?$&=@[]%').partition('$')[0]
     async with _speed_session(session) as active_session:
       if is_rt:
         async with _limit(probe_semaphore):
-          start_time = time()
+          start_time = time.time()
           ff_out = await ffmpeg_url(url, headers, timeout)
         if ff_out:
           parsed = get_video_info(ff_out)
           if parsed:
-            info['delay'] = int(round((time() - start_time) * 1000))
+            info['delay'] = int(round((time.time() - start_time) * 1000))
             info['speed'] = parsed['speed'] or 0.0
             if parsed['resolution']:
               info['resolution'] = parsed['resolution']
@@ -890,6 +917,8 @@ async def get_result(url, headers=None, resolution=None,
             url_content = await get_url_content(
               url, headers, active_session, timeout, semaphore=http_semaphore
             )
+          
+          # === 修复：m3u8 内容获取失败时 fallback 到直接下载测速 ===
           if should_parse_m3u8 and url_content:
             playlists, segments, seg_durations, is_endlist = parse_m3u8(url_content)
             valid_playlists = [p for p in playlists if p.get('uri')]
@@ -917,10 +946,12 @@ async def get_result(url, headers=None, resolution=None,
             if not segment_urls:
               raise Exception("Segment urls not found")
           else:
+            # 非 m3u8，或 m3u8 内容获取失败，都走直接下载测速
             res_info = await get_speed_with_download(
               url, headers, active_session, timeout, semaphore=http_semaphore
             )
             info.update({'speed': res_info['speed'], 'delay': res_info['delay']})
+            
           if segment_urls:
             # 采样最后几个分片测速（直播流最新分片）
             sampled = segment_urls[-(SEGMENT_SAMPLE_LIMIT + 1):-1]
@@ -942,8 +973,9 @@ async def get_result(url, headers=None, resolution=None,
             info['speed'] = total_size / total_time / 1024 / 1024 if total_time > 0 else 0
             delays = [r['delay'] for r in valid_results if r.get('delay', -1) >= 0]
             info['delay'] = int(sum(delays) / len(delays)) if delays else -1
-  except Exception:
-    pass
+  except Exception as e:
+    # === 修复：不再静默吞掉异常，输出 debug 日志以便排查 ===
+    logger.debug(f"get_result 失败 {url[:60]}: {type(e).__name__}: {e}")
   finally:
     if (filter_resolution and not is_rt and not location
             and not info.get('resolution') and info.get('delay') != -1):
@@ -955,8 +987,8 @@ async def get_result(url, headers=None, resolution=None,
             info['resolution'] = probed['resolution']
           if probed.get('fps'):
             info['fps'] = probed['fps']
-      except Exception:
-        pass
+      except Exception as e:
+        logger.debug(f"ffprobe 补充探测失败 {url[:60]}: {type(e).__name__}: {e}")
   return info
 
 def get_sort_result(results):
@@ -974,7 +1006,9 @@ def get_sort_result(results):
     resolution = result.get('resolution')
     if result_delay is None or result_delay == -1:
       continue
-    if OPEN_FILTER_SPEED and result_speed < RESOLUTION_SPEED_MAP.get(resolution, MIN_SPEED):
+    # === 修复：无分辨率时使用更宽松的默认阈值，避免误杀 ===
+    speed_threshold = RESOLUTION_SPEED_MAP.get(resolution, MIN_SPEED) if resolution else MIN_SPEED
+    if OPEN_FILTER_SPEED and result_speed < speed_threshold:
       continue
     if OPEN_FILTER_RESOLUTION and resolution:
       resolution_value = get_resolution_value(resolution)
@@ -1068,10 +1102,10 @@ async def batch_test_pipeline(channel_map: Dict[Tuple[str, str], List[str]]
 
   async with create_speed_test_session(SPEED_TEST_CONCURRENCY) as session:
     async def _test_one(url: str):
-      headers = {**REQUEST_HEADERS, "Referer": "https://www.miguvideo.com/"}
+      # === 修复：不再硬编码咪咕 Referer，由 get_result 内部动态判断 ===
       return url, await get_result(
         url,
-        headers=headers,
+        headers=None,  # 传 None，让 get_result 内部按 URL 动态构建
         session=session,
         http_semaphore=http_sem,
         probe_semaphore=probe_sem,
