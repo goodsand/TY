@@ -100,7 +100,7 @@ CACHE_EXPIRE_SEC = CACHE_EXPIRE_HOURS * 3600
 # ============================================================================
 # GitHub源配置
 # ============================================================================
-ENABLE_GITHUB = True
+ENABLE_GITHUB = False
 GITHUB_URLS = [
 ]
 MAX_TEST_URLS_PER_CHANNEL = 8 # 每个频道最多测试的链接数
