@@ -1236,7 +1236,7 @@ async def fetch_github_sources() -> Tuple[List[Tuple[str, str, str]], List[set]]
 async def scrape_ips_playwright(ctx, filter_type: str, max_pages: int) -> list:
   entries = []
   seen = set()
-  target_url = f"{TARGET_URL}?t={filter_type}&province=bj&limit={IPS_PER_PAGE}" if filter_type != "all" else f"{TARGET_URL}?province=bj&limit={IPS_PER_PAGE}"
+  target_url = f"{TARGET_URL}?t={filter_type}&province=bj&q=北京联通&limit={IPS_PER_PAGE}" if filter_type != "all" else f"{TARGET_URL}?province=bj&q=北京联通&limit={IPS_PER_PAGE}"
   page = None
   filter_applied = False
   for attempt in range(5):
