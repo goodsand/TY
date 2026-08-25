@@ -36,7 +36,7 @@ HEADLESS = True
 CHROME_PATH = ""
 PAGE_TIMEOUT = 60000
 IDLE_TIMEOUT = 15000
-SCRAPE_SOURCE_FILTER = "hotel"
+SCRAPE_SOURCE_FILTER = "multicast"
 
 # ============================================================================
 # 输出文件
