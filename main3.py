@@ -21,7 +21,7 @@ from playwright.async_api import async_playwright
 # ============================================================================
 TARGET_URL = "https://iptv.cqshushu.com/index.php" # 抓取源地址
 DEFAULT_PROTOCOL = "http://" # 补全URL缺失的协议头
-SCRAPE_SOURCE_FILTER = "hotel" # 默认抓取类型：all/hotel/multicast/migu/other
+SCRAPE_SOURCE_FILTER = "multicast" # 默认抓取类型：all/hotel/multicast/migu/other
 ENABLE_SCRAPE = True # 是否启用目标站抓取（可与 --skip-scrape 配合）
 MAX_IPS = 0 # 最大处理IP数量，0表示无限制
 MAX_PAGES = 10 # IP列表最大翻页数
@@ -45,7 +45,7 @@ IDLE_TIMEOUT = 15000 # 页面空闲超时（毫秒）
 
 # ============================================================================
 # ============================================================================
-ENABLE_FFMPEG = True # 是否启用测速（保持原开关名，与命令行 --skip-ffmpeg 配合）
+ENABLE_FFMPEG = False # 是否启用测速（保持原开关名，与命令行 --skip-ffmpeg 配合）
 FFMPEG_PATH = "ffmpeg" # FFmpeg可执行文件路径（rtsp/rtmp流测速）
 FFPROBE_PATH = "ffprobe" # FFprobe可执行文件路径（分辨率探测）
 
@@ -102,17 +102,6 @@ CACHE_EXPIRE_SEC = CACHE_EXPIRE_HOURS * 3600
 # ============================================================================
 ENABLE_GITHUB = True
 GITHUB_URLS = [
-  "https://live.zbds.top/tv/iptv4.txt",
-  "https://gitee.com/OscarWilde/itv/raw/master/tv.txt",
-  "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-  "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-  "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
-  "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-  "http://www.52top.com.cn:678/downloads/migu.txt",
-  "http://cyh92.cn/list.m3u",
-  "http://rihou.cc:567/gggg.nzk",
-  "http://wangziduoqing.com/yuan/zb.txt",
-  "https://gitee.com/main-stream/tv/raw/master/BOSS.json",
 ]
 MAX_TEST_URLS_PER_CHANNEL = 8 # 每个频道最多测试的链接数
 MAX_LINKS_PER_CHANNEL = 8 # 每个频道最终保留的最大有效链接数（与测试数一致，可独立调整）
@@ -1616,7 +1605,7 @@ def export(ch_map: Dict[Tuple[str, str], List[str]]):
 # ============================================================================
 async def main():
   parser = argparse.ArgumentParser(description="IPTV源抓取工具（iptv-api测速版）")
-  parser.add_argument("--type", default="all", help="抓取源类型: all/hotel/multicast/migu/other")
+  parser.add_argument("--type", default="multicast", help="抓取源类型: all/hotel/multicast/migu/other")
   parser.add_argument("--max-pages", type=int, default=MAX_PAGES, help="最大翻页数")
   parser.add_argument("--max-ips", type=int, default=MAX_IPS, help="最大IP数量, 0=无限制")
   parser.add_argument("--headless", default="true", help="无头模式: true/false")
