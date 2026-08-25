@@ -24,7 +24,7 @@ DEFAULT_PROTOCOL = "http://" # 补全URL缺失的协议头
 SCRAPE_SOURCE_FILTER = "multicast" # 默认抓取类型：all/hotel/multicast/migu/other
 ENABLE_SCRAPE = True # 是否启用目标站抓取（可与 --skip-scrape 配合）
 MAX_IPS = 0 # 最大处理IP数量，0表示无限制
-MAX_PAGES =5 # IP列表最大翻页数
+MAX_PAGES =2 # IP列表最大翻页数
 IPS_PER_PAGE = 10 # 每页IP数量（页面实际可能不同）
 PAGE_DELAY_MIN = 5.0 # IP列表页翻页最小延迟（秒）
 PAGE_DELAY_MAX = 8.0 # IP列表页翻页最大延迟（秒）
@@ -1236,7 +1236,7 @@ async def fetch_github_sources() -> Tuple[List[Tuple[str, str, str]], List[set]]
 async def scrape_ips_playwright(ctx, filter_type: str, max_pages: int) -> list:
   entries = []
   seen = set()
-  target_url = f"{TARGET_URL}?t={filter_type}&province=all&limit={IPS_PER_PAGE}" if filter_type != "all" else f"{TARGET_URL}?province=all&limit={IPS_PER_PAGE}"
+  target_url = f"{TARGET_URL}?t={filter_type}&province=bj&limit={IPS_PER_PAGE}" if filter_type != "all" else f"{TARGET_URL}?province=bj&limit={IPS_PER_PAGE}"
   page = None
   filter_applied = False
   for attempt in range(5):
