@@ -112,8 +112,8 @@ GITHUB_RETRIES = 1
 # 输出配置
 # ============================================================================
 OUTPUT_DIR = Path(__file__).parent
-OUTPUT_M3U = OUTPUT_DIR / "iptv_channels.m3u"
-OUTPUT_TXT = OUTPUT_DIR / "iptv_channels.txt"
+OUTPUT_M3U = OUTPUT_DIR / "iptv_channels1.m3u"
+OUTPUT_TXT = OUTPUT_DIR / "iptv_channels1.txt"
 
 # ============================================================================
 # 频道分类规则
