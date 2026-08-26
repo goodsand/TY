@@ -24,8 +24,8 @@ DEFAULT_PROTOCOL = "http://" # 补全URL缺失的协议头
 SCRAPE_SOURCE_FILTER = "multicast" # 默认抓取类型：all/hotel/multicast/migu/other
 ENABLE_SCRAPE = True # 是否启用目标站抓取（可与 --skip-scrape 配合）
 MAX_IPS = 0 # 最大处理IP数量，0表示无限制
-MAX_PAGES =2 # IP列表最大翻页数
-IPS_PER_PAGE = 10 # 每页IP数量（页面实际可能不同）
+MAX_PAGES =1 # IP列表最大翻页数
+IPS_PER_PAGE = 100 # 每页IP数量（页面实际可能不同）
 PAGE_DELAY_MIN = 5.0 # IP列表页翻页最小延迟（秒）
 PAGE_DELAY_MAX = 8.0 # IP列表页翻页最大延迟（秒）
 IP_DELAY_MIN = 2.0 # 不同IP之间的最小延迟（秒）
@@ -42,7 +42,8 @@ HEADLESS = True # 是否使用无头模式
 CHROME_PATH = "" # Chrome/Chromium 可执行文件路径，留空自动查找
 PAGE_TIMEOUT = 60000 # 页面加载超时（毫秒）
 IDLE_TIMEOUT = 15000 # 页面空闲超时（毫秒）
-
+province = "all" #区域 all全部、gd广东、bj北京 等等
+search_q = "山东联通" #搜索关键字
 # ============================================================================
 # ============================================================================
 ENABLE_FFMPEG = False # 是否启用测速（保持原开关名，与命令行 --skip-ffmpeg 配合）
@@ -112,21 +113,21 @@ GITHUB_RETRIES = 1
 # 输出配置
 # ============================================================================
 OUTPUT_DIR = Path(__file__).parent
-OUTPUT_M3U = OUTPUT_DIR / "iptv_channels.m3u"
-OUTPUT_TXT = OUTPUT_DIR / "iptv_channels.txt"
+OUTPUT_M3U = OUTPUT_DIR / f"iptv_{province}_{SCRAPE_SOURCE_FILTER}.m3u"
+OUTPUT_TXT = OUTPUT_DIR / f"iptv_{province}_{SCRAPE_SOURCE_FILTER}.txt"
 
 # ============================================================================
 # 频道分类规则
 # ============================================================================
 CATEGORY_RULES = [
   {"name": "央视频道", "keywords": ["cctv", "cetv", "央视"]},
+  {"name": "4K频道", "keywords": ["4K"]},
   {"name": "卫视频道", "keywords": ["卫视"]},
-  {"name": "影视频道", "keywords": ["影视", "影院", "chc", "电影", "经典影"]},
-  {"name": "体育频道", "keywords": ["体育", "赛事", "高尔夫", "劲爆"]},
-  {"name": "纪实频道", "keywords": ["纪实", "探索", "记录", "人文", "自然"]},
+  {"name": "影视频道", "keywords": ["影视", "影院", "chc", "电影", "经典影","剧场"]}
+  
 ]
-GROUP_ORDER = ["央视频道", "卫视频道", "影视频道", "体育频道"]
-
+GROUP_ORDER = ["央视频道","4K频道", "卫视频道", "影视频道","其他"]
+Group_list=False
 # ============================================================================
 # 辅助正则与映射（无需修改）
 # ============================================================================
@@ -1236,7 +1237,7 @@ async def fetch_github_sources() -> Tuple[List[Tuple[str, str, str]], List[set]]
 async def scrape_ips_playwright(ctx, filter_type: str, max_pages: int) -> list:
   entries = []
   seen = set()
-  target_url = f"{TARGET_URL}?t={filter_type}&province=bj&q=北京联通&limit={IPS_PER_PAGE}" if filter_type != "all" else f"{TARGET_URL}?province=bj&q=北京联通&limit={IPS_PER_PAGE}"
+  target_url = f"{TARGET_URL}?t={filter_type}&province={province}&q={search_q}&page=1&search_page_size={IPS_PER_PAGE}" if filter_type != "all" else f"{TARGET_URL}?province={province}&q={search_q}&page=1&search_page_size={IPS_PER_PAGE}"
   page = None
   filter_applied = False
   for attempt in range(5):
@@ -1530,6 +1531,133 @@ async def extract_detail_channels_playwright(ctx, detail_url: str) -> list:
       unique.append((name, url))
   return unique
 
+async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
+  channels = []
+  page = None
+  start_time = time.perf_counter()
+  def is_overtime():
+    return time.perf_counter() - start_time > DETAIL_MAX_SECONDS
+  try:
+    page = await ctx.new_page()
+    await page.add_init_script(STEALTH_JS)
+
+    await page.goto(detail_url, timeout=DETAIL_PAGE_TIMEOUT, wait_until="domcontentloaded")
+    await asyncio.sleep(random.uniform(DETAIL_WAIT_MIN, DETAIL_WAIT_MAX))
+    try:
+      await page.wait_for_load_state("networkidle", timeout=DETAIL_IDLE_TIMEOUT)
+    except:
+      pass
+    page_title = await page.title()
+    page_text = ""
+    try:
+      page_text = (await page.inner_text("body"))[:500]
+    except:
+      pass
+    if "站点禁止" in page_title or "访问被拒绝" in page_text or "站点禁止" in page_text:
+      logger.debug(f"[PW] 详情页被拒绝: {detail_url[:60]}")
+      return channels
+
+    s_hash = None
+    channel_list_url = None
+    s_link = await page.evaluate(r"""
+      () => {
+        const links = document.querySelectorAll('a[href*="?s="]');
+        for (const a of links) {
+          const href = a.getAttribute('href') || '';
+          if (href.includes('?s=')) {
+            return href;
+          }
+        }
+        return null;
+      }
+    """)
+    logger.info(f" 详情页A: {detail_url}")
+    if s_link:
+      m = re.search(r'[?&]s=([^&]+)', s_link)
+      if m:
+        s_hash = m.group(1)
+        t_match = re.search(r'[?&]t=([^&]+)', detail_url)
+        t_type = t_match.group(1) if t_match else 'hotel'
+        channel_list_url = f"{TARGET_URL}?s={s_hash}&t={t_type}&channels=1&format=txt"
+        logger.debug(f"[PW] 构造频道列表URL: {channel_list_url[:80]}")
+
+    if not channel_list_url:
+      for sel in ['a:has-text("查看频道列表")', 'a.btn-play', '.btn-play']:
+        try:
+          btn = await page.query_selector(sel)
+          if btn:
+            href = await btn.get_attribute("href") or ""
+            if '?s=' in href:
+              m = re.search(r'[?&]s=([^&]+)', href)
+              if m:
+                s_hash = m.group(1)
+                t_match = re.search(r'[?&]t=([^&]+)', detail_url)
+                t_type = t_match.group(1) if t_match else 'hotel'
+                channel_list_url = f"{TARGET_URL}?s={s_hash}&t={t_type}&channels=1&format=txt"
+                break
+        except:
+          continue
+
+    if not channel_list_url:
+      logger.debug(f"[PW] 未找到频道列表链接: {detail_url[:60]}")
+      return channels
+
+    await page.goto(channel_list_url, timeout=DETAIL_PAGE_TIMEOUT, wait_until="domcontentloaded")
+    await asyncio.sleep(random.uniform(3, 5))
+    try:
+      await page.wait_for_load_state("networkidle", timeout=DETAIL_IDLE_TIMEOUT)
+    except:
+      pass
+    await asyncio.sleep(random.uniform(1, 2))
+
+    
+    for page_num in range(1, 2):
+      if is_overtime():
+        logger.debug(f"详情页超时(>{DETAIL_MAX_SECONDS}s)强制停止: {detail_url[:60]}")
+        break
+
+
+      page_channels = await page.evaluate(r"""
+        () => {
+          const results = [];
+          const mat=[...document.body.innerText.matchAll(/\n(.+?),([^\s]*)/g)];
+          mat.forEach(function(m){results.push({name:m[1],url:m[2]})});
+          return results;
+        }
+      """)
+      if not page_channels:
+        break
+      logger.info(f" 详情页B: {channel_list_url}")
+      
+      for ch in page_channels:
+        name = ch.get('name', '').strip()
+        url = ch.get('url', '').strip()
+        if name and url:
+          url = url.replace('&amp;', '&')
+          if not url.startswith(('http://', 'https://')):
+            url = DEFAULT_PROTOCOL + url
+          channels.append((name, url))
+
+     
+      
+  except Exception as e:
+    logger.debug(f"[PW] 提取频道异常: {e}")
+  finally:
+    if page and not page.is_closed():
+      try:
+        await page.close()
+      except:
+        pass
+  
+  seen = set()
+  unique = []
+  for name, url in channels:
+    if url not in seen:
+      seen.add(url)
+      unique.append((name, url))
+  
+  return unique
+    
 # ============================================================================
 # URL去重
 # ============================================================================
@@ -1698,18 +1826,25 @@ async def main():
 
         if max_ips > 0:
           entries = entries[:max_ips]
-
+        
         if entries:
           for i, entry in enumerate(entries):
             try:
               detail_url = f"{TARGET_URL}?p={entry['hash']}&t={entry['type']}"
-              chs = await extract_detail_channels_playwright(ctx, detail_url)
+                
+
+              #chs = await extract_detail_channels_playwright(ctx, detail_url)
+              chs = await extract1_detail_channels_playwright(ctx, detail_url)
               for name, url in chs:
-                std_ch = unify_channel_name(name)
-                g = classify(std_ch)
-                if g:
-                  fn = std_ch if g == "央视频道" else clean_cn(std_ch)
-                  all_channels.append((g, fn, url))
+                #std_ch = unify_channel_name(name)
+                g = classify(name)
+                
+                if g :
+                  #fn = std_ch if g == "央视频道" else clean_cn(std_ch)
+                  all_channels.append((g, name, url))
+                  scrape_urls_set.add(url)
+                else:
+                  all_channels.append(("其他", name, url))
                   scrape_urls_set.add(url)
               await asyncio.sleep(random.uniform(IP_DELAY_MIN, IP_DELAY_MAX))
             except Exception as e:
@@ -1728,10 +1863,13 @@ async def main():
   if before != len(all_channels):
     logger.info(f"过滤内网IP: {before} -> {len(all_channels)}")
 
+  #
+
   ch_map = defaultdict(list)
   for g, n, u in all_channels:
     ch_map[(g, n)].append(u)
   ch_map = deduplicate_urls(ch_map)
+  logger.info(f"去重前: {len(ch_map)} 个频道")
 
   allowed = set(GROUP_ORDER)
   ch_map = {k: v for k, v in ch_map.items() if k[0] in allowed}
