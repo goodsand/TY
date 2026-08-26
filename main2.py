@@ -1647,7 +1647,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
         await page.close()
       except:
         pass
-  logger.info(f" 频道数b: {len(channels}")
+  logger.info(f" 频道数b: {len(channels)}")
   seen = set()
   unique = []
   for name, url in channels:
