@@ -1724,7 +1724,7 @@ def export(ch_map: Dict[Tuple[str, str], List[str]]):
         if n.strip():
           f.write(f"{n},{u}\n")
       f.write("\n")
-    f.write(f"更新时间,#genre#\n{now},https://example.com\n")
+    f.write(f"更新{province},#genre#\n{now},https://example.com\n")
 
   logger.info(f"导出完成: {len(ch_map)} 个频道")
 
