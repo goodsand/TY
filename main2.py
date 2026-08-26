@@ -1627,6 +1627,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
       if not page_channels:
         break
       logger.info(f" 详情页B: {channel_list_url}")
+      logger.info(f" 频道数a: {len(page_channels)}")
       for ch in page_channels:
         name = ch.get('name', '').strip()
         url = ch.get('url', '').strip()
@@ -1636,7 +1637,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
             url = DEFAULT_PROTOCOL + url
           channels.append((name, url))
 
-   
+   logger.info(f" 频道数b: {len(channels}")
       
   except Exception as e:
     logger.debug(f"[PW] 提取频道异常: {e}")
@@ -1653,7 +1654,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
     if url not in seen:
       seen.add(url)
       unique.append((name, url))
-  logger.info(f" 频道数: {len(unique)}")
+  logger.info(f" 频道数c: {len(unique)}")
   return unique
     
 # ============================================================================
