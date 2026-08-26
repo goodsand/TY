@@ -1570,7 +1570,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
         return null;
       }
     """)
-    logger.info(f" 详情页1: {detail_url}")
+    logger.info(f" 详情页A: {detail_url}")
     if s_link:
       m = re.search(r'[?&]s=([^&]+)', s_link)
       if m:
@@ -1626,7 +1626,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
       """)
       if not page_channels:
         break
-      logger.info(f" 详情页w: {channel_list_url}")
+      logger.info(f" 详情页B: {channel_list_url}")
       for ch in page_channels:
         name = ch.get('name', '').strip()
         url = ch.get('url', '').strip()
@@ -1653,6 +1653,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
     if url not in seen:
       seen.add(url)
       unique.append((name, url))
+  logger.info(f" 频道数: {len(unique)}")
   return unique
     
 # ============================================================================
@@ -1866,6 +1867,7 @@ async def main():
   for g, n, u in all_channels:
     ch_map[(g, n)].append(u)
   ch_map = deduplicate_urls(ch_map)
+  logger.info(f"去重前: {len(ch_map)} 个频道")
 
   allowed = set(GROUP_ORDER)
   ch_map = {k: v for k, v in ch_map.items() if k[0] in allowed}
