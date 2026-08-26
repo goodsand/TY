@@ -1609,7 +1609,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
     await asyncio.sleep(random.uniform(1, 2))
 
     
-    for page_num in range(1, 1)::
+    for page_num in range(1, 1):
       if is_overtime():
         logger.debug(f"详情页超时(>{DETAIL_MAX_SECONDS}s)强制停止: {detail_url[:60]}")
         break
