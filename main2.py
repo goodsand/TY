@@ -42,7 +42,8 @@ HEADLESS = True # 是否使用无头模式
 CHROME_PATH = "" # Chrome/Chromium 可执行文件路径，留空自动查找
 PAGE_TIMEOUT = 60000 # 页面加载超时（毫秒）
 IDLE_TIMEOUT = 15000 # 页面空闲超时（毫秒）
-
+province = "bj" #区域 all全部、sd山东、bj北京 等等
+search_q = "北京联通" #搜索关键字
 # ============================================================================
 # ============================================================================
 ENABLE_FFMPEG = False # 是否启用测速（保持原开关名，与命令行 --skip-ffmpeg 配合）
@@ -112,8 +113,8 @@ GITHUB_RETRIES = 1
 # 输出配置
 # ============================================================================
 OUTPUT_DIR = Path(__file__).parent
-OUTPUT_M3U = OUTPUT_DIR / "iptv_bj_multicast.m3u"
-OUTPUT_TXT = OUTPUT_DIR / "iptv_bj_multicast.txt"
+OUTPUT_M3U = OUTPUT_DIR / f"iptv_{province}_{SCRAPE_SOURCE_FILTER}.m3u"
+OUTPUT_TXT = OUTPUT_DIR / f"iptv_{province}_{SCRAPE_SOURCE_FILTER}.txt"
 
 # ============================================================================
 # 频道分类规则
@@ -1236,7 +1237,7 @@ async def fetch_github_sources() -> Tuple[List[Tuple[str, str, str]], List[set]]
 async def scrape_ips_playwright(ctx, filter_type: str, max_pages: int) -> list:
   entries = []
   seen = set()
-  target_url = f"{TARGET_URL}?t={filter_type}&province=bj&q=北京联通&page=1&search_page_size={IPS_PER_PAGE}" if filter_type != "all" else f"{TARGET_URL}?province=bj&q=北京联通&page=1&search_page_size={IPS_PER_PAGE}"
+  target_url = f"{TARGET_URL}?t={filter_type}&province={province}&q={search_q}&page=1&search_page_size={IPS_PER_PAGE}" if filter_type != "all" else f"{TARGET_URL}?province={province}&q={search_q}&page=1&search_page_size={IPS_PER_PAGE}"
   page = None
   filter_applied = False
   for attempt in range(5):
@@ -1723,7 +1724,7 @@ def export(ch_map: Dict[Tuple[str, str], List[str]]):
         if n.strip():
           f.write(f"{n},{u}\n")
       f.write("\n")
-    f.write(f"更新时间,#genre#\n{now},https://example.com\n")
+    f.write(f"更新{province},#genre#\n{now},https://example.com\n")
 
   logger.info(f"导出完成: {len(ch_map)} 个频道")
 
