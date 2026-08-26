@@ -1609,7 +1609,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
     await asyncio.sleep(random.uniform(1, 2))
 
     
-    for page_num in range(1, MAX_DETAIL_PAGES + 1):
+    if True:
       if is_overtime():
         logger.debug(f"详情页超时(>{DETAIL_MAX_SECONDS}s)强制停止: {detail_url[:60]}")
         break
@@ -1625,7 +1625,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
       """)
       if not page_channels:
         break
-
+      logger.info(f" 详情页: {channel_list_url}")
       for ch in page_channels:
         name = ch.get('name', '').strip()
         url = ch.get('url', '').strip()
@@ -1828,9 +1828,9 @@ async def main():
             try:
               detail_url = f"{TARGET_URL}?p={entry['hash']}&t={entry['type']}"
                 
-              """  
-              老详情页
-              chs = await extract_detail_channels_playwright(ctx, detail_url)
+
+              #chs = await extract_detail_channels_playwright(ctx, detail_url)
+              chs = await extract1_detail_channels_playwright(ctx, detail_url)
               for name, url in chs:
                 std_ch = unify_channel_name(name)
                 g = classify(std_ch)
@@ -1838,7 +1838,7 @@ async def main():
                   fn = std_ch if g == "央视频道" else clean_cn(std_ch)
                   all_channels.append((g, fn, url))
                   scrape_urls_set.add(url)
-              """
+
               await asyncio.sleep(random.uniform(IP_DELAY_MIN, IP_DELAY_MAX))
             except Exception as e:
               logger.warning(f"IP {entry['ip']} 详情提取失败")
