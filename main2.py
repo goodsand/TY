@@ -1834,7 +1834,7 @@ async def main():
               chs = await extract1_detail_channels_playwright(ctx, detail_url)
               for name, url in chs:
                 #std_ch = unify_channel_name(name)
-                g = classify(std_ch)
+                g = classify(name)
                 
                 if g :
                   #fn = std_ch if g == "央视频道" else clean_cn(std_ch)
