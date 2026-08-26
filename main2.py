@@ -1619,7 +1619,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
       page_channels = await page.evaluate(r"""
         () => {
           const results = [];
-          const mat=[...document.body.innerText.matchAll(/\n(.+?),(.+?)\n/g)];
+          const mat=[...document.body.innerText.matchAll(/\n(.+?),([^\s]*)/g)];
           mat.forEach(function(m){results.push({name:m[1],url:m[2]})});
           return results;
         }
