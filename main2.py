@@ -1637,7 +1637,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
             url = DEFAULT_PROTOCOL + url
           channels.append((name, url))
 
-   logger.info(f" 频道数b: {len(channels}")
+     
       
   except Exception as e:
     logger.debug(f"[PW] 提取频道异常: {e}")
@@ -1647,7 +1647,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
         await page.close()
       except:
         pass
-
+  logger.info(f" 频道数b: {len(channels}")
   seen = set()
   unique = []
   for name, url in channels:
