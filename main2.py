@@ -126,7 +126,7 @@ CATEGORY_RULES = [
   {"name": "纪实频道", "keywords": ["纪实", "探索", "记录", "人文", "自然"]},
 ]
 GROUP_ORDER = ["央视频道", "卫视频道", "影视频道", "体育频道"]
-
+Group_list=False
 # ============================================================================
 # 辅助正则与映射（无需修改）
 # ============================================================================
@@ -1833,13 +1833,16 @@ async def main():
               #chs = await extract_detail_channels_playwright(ctx, detail_url)
               chs = await extract1_detail_channels_playwright(ctx, detail_url)
               for name, url in chs:
-                std_ch = unify_channel_name(name)
+                #std_ch = unify_channel_name(name)
                 g = classify(std_ch)
-                if g:
-                  fn = std_ch if g == "央视频道" else clean_cn(std_ch)
-                  all_channels.append((g, fn, url))
+                
+                if g :
+                  #fn = std_ch if g == "央视频道" else clean_cn(std_ch)
+                  all_channels.append((g, name, url))
                   scrape_urls_set.add(url)
-
+                else:
+                  all_channels.append(("其他", name, url))
+                  scrape_urls_set.add(url)
               await asyncio.sleep(random.uniform(IP_DELAY_MIN, IP_DELAY_MAX))
             except Exception as e:
               logger.warning(f"IP {entry['ip']} 详情提取失败")
@@ -1856,6 +1859,8 @@ async def main():
   all_channels = [(g, n, u) for g, n, u in all_channels if not is_internal(u)]
   if before != len(all_channels):
     logger.info(f"过滤内网IP: {before} -> {len(all_channels)}")
+
+  #
 
   ch_map = defaultdict(list)
   for g, n, u in all_channels:
