@@ -1570,6 +1570,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
         return null;
       }
     """)
+    logger.info(f" 详情页1: {detail_url}")
     if s_link:
       m = re.search(r'[?&]s=([^&]+)', s_link)
       if m:
@@ -1609,7 +1610,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
     await asyncio.sleep(random.uniform(1, 2))
 
     
-    for page_num in range(1, 1):
+    for page_num in range(1, 2):
       if is_overtime():
         logger.debug(f"详情页超时(>{DETAIL_MAX_SECONDS}s)强制停止: {detail_url[:60]}")
         break
@@ -1625,7 +1626,7 @@ async def extract1_detail_channels_playwright(ctx, detail_url: str) -> list:
       """)
       if not page_channels:
         break
-      logger.info(f" 详情页: {channel_list_url}")
+      logger.info(f" 详情页w: {channel_list_url}")
       for ch in page_channels:
         name = ch.get('name', '').strip()
         url = ch.get('url', '').strip()
