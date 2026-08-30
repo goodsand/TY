@@ -1885,8 +1885,10 @@ async def main():
     logger.info(f"测速耗时: {time.time() - ff_start:.1f}s")
 
   # 导出
-  export(ch_map)
-
+  if len(ch_map)>0:
+    export(ch_map)
+  else:
+    logger.info("------暂无数据--------")
   # === 统计信息 ===
   final_urls = set()
   for urls in ch_map.values():
