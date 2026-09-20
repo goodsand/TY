@@ -1,18 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://123.120.129.158:4023/rtp/239.3.1.129:8008
+http://123.120.138.181:4023/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://114.254.94.228:4022/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://114.254.24.195:4022/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://114.254.249.124:4022/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://111.193.62.120:4022/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://111.193.149.192:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://114.254.33.45:4022/rtp/239.3.1.129:8008
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://114.254.82.219:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://114.252.232.186:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://114.243.100.102:8821/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://111.193.224.202:4022/rtp/239.3.1.129:8008
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://221.220.129.160:8012/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV1
@@ -30,19 +36,25 @@ http://124.64.238.165:7070/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://123.113.8.46:8012/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://123.120.129.158:4023/rtp/239.3.1.60:8084
+http://123.120.138.181:4023/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://114.254.94.228:4022/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://114.254.24.195:4022/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://114.254.249.124:4022/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://111.193.62.120:4022/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://111.193.149.192:4022/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://114.254.33.45:4022/rtp/239.3.1.60:8084
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://114.254.82.219:4022/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://114.252.232.186:4022/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://114.243.100.102:8821/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://111.193.224.202:4022/rtp/239.3.1.60:8084
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://221.220.129.160:8012/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -60,19 +72,25 @@ http://124.64.238.165:7070/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://123.113.8.46:8012/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://123.120.129.158:4023/rtp/239.3.1.172:8001
+http://123.120.138.181:4023/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://114.254.94.228:4022/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://114.254.24.195:4022/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://114.254.249.124:4022/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://111.193.62.120:4022/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://111.193.149.192:4022/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://114.254.33.45:4022/rtp/239.3.1.172:8001
-#EXTINF:-1 group-title="央视频道",CCTV3
-http://114.254.82.219:4022/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://114.252.232.186:4022/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://114.243.100.102:8821/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://111.193.224.202:4022/rtp/239.3.1.172:8001
-#EXTINF:-1 group-title="央视频道",CCTV3
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://221.220.129.160:8012/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV3
@@ -90,19 +108,25 @@ http://124.64.238.165:7070/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://123.113.8.46:8012/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://123.120.129.158:4023/rtp/239.3.1.105:8092
+http://123.120.138.181:4023/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://114.254.94.228:4022/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://114.254.24.195:4022/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://114.254.249.124:4022/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://111.193.62.120:4022/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://111.193.149.192:4022/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://114.254.33.45:4022/rtp/239.3.1.105:8092
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://114.254.82.219:4022/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://114.252.232.186:4022/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://114.243.100.102:8821/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://111.193.224.202:4022/rtp/239.3.1.105:8092
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://221.220.129.160:8012/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV4
@@ -120,19 +144,25 @@ http://124.64.238.165:7070/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://123.113.8.46:8012/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://123.120.129.158:4023/rtp/239.3.1.213:4220
+http://123.120.138.181:4023/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://114.254.94.228:4022/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://114.254.24.195:4022/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://114.254.249.124:4022/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://111.193.62.120:4022/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://111.193.149.192:4022/rtp/239.3.1.213:4220
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://114.254.33.45:4022/rtp/239.3.1.213:4220
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://114.254.82.219:4022/rtp/239.3.1.213:4220
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://114.252.232.186:4022/rtp/239.3.1.213:4220
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://114.243.100.102:8821/rtp/239.3.1.213:4220
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://111.193.224.202:4022/rtp/239.3.1.213:4220
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.213:4220
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://221.220.129.160:8012/rtp/239.3.1.213:4220
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
@@ -150,19 +180,25 @@ http://124.64.238.165:7070/rtp/239.3.1.213:4220
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://123.113.8.46:8012/rtp/239.3.1.213:4220
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://123.120.129.158:4023/rtp/239.3.1.214:4220
+http://123.120.138.181:4023/rtp/239.3.1.214:4220
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://114.254.94.228:4022/rtp/239.3.1.214:4220
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://114.254.24.195:4022/rtp/239.3.1.214:4220
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://114.254.249.124:4022/rtp/239.3.1.214:4220
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://111.193.62.120:4022/rtp/239.3.1.214:4220
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://111.193.149.192:4022/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://114.254.33.45:4022/rtp/239.3.1.214:4220
-#EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://114.254.82.219:4022/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://114.252.232.186:4022/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://114.243.100.102:8821/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://111.193.224.202:4022/rtp/239.3.1.214:4220
-#EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://221.220.129.160:8012/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
@@ -180,19 +216,25 @@ http://124.64.238.165:7070/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://123.113.8.46:8012/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://123.120.129.158:4023/rtp/239.3.1.173:8001
+http://123.120.138.181:4023/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://114.254.94.228:4022/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://114.254.24.195:4022/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://114.254.249.124:4022/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://111.193.62.120:4022/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://111.193.149.192:4022/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://114.254.33.45:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://114.254.82.219:4022/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://114.252.232.186:4022/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://114.243.100.102:8821/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://111.193.224.202:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://221.220.129.160:8012/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5
@@ -210,19 +252,25 @@ http://124.64.238.165:7070/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://123.113.8.46:8012/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://123.120.129.158:4023/rtp/239.3.1.130:8004
+http://123.120.138.181:4023/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://114.254.94.228:4022/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://114.254.24.195:4022/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://114.254.249.124:4022/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://111.193.62.120:4022/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://111.193.149.192:4022/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://114.254.33.45:4022/rtp/239.3.1.130:8004
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://114.254.82.219:4022/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://114.252.232.186:4022/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://114.243.100.102:8821/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://111.193.224.202:4022/rtp/239.3.1.130:8004
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://221.220.129.160:8012/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV5+
@@ -240,19 +288,25 @@ http://124.64.238.165:7070/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://123.113.8.46:8012/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://123.120.129.158:4023/rtp/239.3.1.174:8001
+http://123.120.138.181:4023/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://114.254.94.228:4022/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://114.254.24.195:4022/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://114.254.249.124:4022/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://111.193.62.120:4022/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://111.193.149.192:4022/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://114.254.33.45:4022/rtp/239.3.1.174:8001
-#EXTINF:-1 group-title="央视频道",CCTV6
-http://114.254.82.219:4022/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://114.252.232.186:4022/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://114.243.100.102:8821/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://111.193.224.202:4022/rtp/239.3.1.174:8001
-#EXTINF:-1 group-title="央视频道",CCTV6
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://221.220.129.160:8012/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV6
@@ -270,19 +324,25 @@ http://124.64.238.165:7070/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://123.113.8.46:8012/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://123.120.129.158:4023/rtp/239.3.1.61:8104
+http://123.120.138.181:4023/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://114.254.94.228:4022/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://114.254.24.195:4022/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://114.254.249.124:4022/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://111.193.62.120:4022/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://111.193.149.192:4022/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://114.254.33.45:4022/rtp/239.3.1.61:8104
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://114.254.82.219:4022/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://114.252.232.186:4022/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://114.243.100.102:8821/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://111.193.224.202:4022/rtp/239.3.1.61:8104
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://221.220.129.160:8012/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV7
@@ -300,19 +360,25 @@ http://124.64.238.165:7070/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://123.113.8.46:8012/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://123.120.129.158:4023/rtp/239.3.1.175:8001
+http://123.120.138.181:4023/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://114.254.94.228:4022/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://114.254.24.195:4022/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://114.254.249.124:4022/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://111.193.62.120:4022/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://111.193.149.192:4022/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://114.254.33.45:4022/rtp/239.3.1.175:8001
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://114.254.82.219:4022/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://114.252.232.186:4022/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://114.243.100.102:8821/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://111.193.224.202:4022/rtp/239.3.1.175:8001
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://221.220.129.160:8012/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV8
@@ -330,19 +396,25 @@ http://124.64.238.165:7070/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://123.113.8.46:8012/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://123.120.129.158:4023/rtp/239.3.1.62:8112
+http://123.120.138.181:4023/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://114.254.94.228:4022/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://114.254.24.195:4022/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://114.254.249.124:4022/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://111.193.62.120:4022/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://111.193.149.192:4022/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://114.254.33.45:4022/rtp/239.3.1.62:8112
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://114.254.82.219:4022/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://114.252.232.186:4022/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://114.243.100.102:8821/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://111.193.224.202:4022/rtp/239.3.1.62:8112
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://221.220.129.160:8012/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV9
@@ -360,19 +432,25 @@ http://124.64.238.165:7070/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://123.113.8.46:8012/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://123.120.129.158:4023/rtp/239.3.1.63:8116
+http://123.120.138.181:4023/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://114.254.94.228:4022/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://114.254.24.195:4022/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://114.254.249.124:4022/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://111.193.62.120:4022/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://111.193.149.192:4022/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://114.254.33.45:4022/rtp/239.3.1.63:8116
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://114.254.82.219:4022/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://114.252.232.186:4022/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://114.243.100.102:8821/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://111.193.224.202:4022/rtp/239.3.1.63:8116
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://221.220.129.160:8012/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV10
@@ -390,19 +468,25 @@ http://124.64.238.165:7070/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://123.113.8.46:8012/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://123.120.129.158:4023/rtp/239.3.1.152:8120
+http://123.120.138.181:4023/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://114.254.94.228:4022/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://114.254.24.195:4022/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://114.254.249.124:4022/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://111.193.62.120:4022/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://111.193.149.192:4022/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://114.254.33.45:4022/rtp/239.3.1.152:8120
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://114.254.82.219:4022/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://114.252.232.186:4022/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://114.243.100.102:8821/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://111.193.224.202:4022/rtp/239.3.1.152:8120
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://221.220.129.160:8012/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV11
@@ -420,19 +504,25 @@ http://124.64.238.165:7070/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://123.113.8.46:8012/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://123.120.129.158:4023/rtp/239.3.1.64:8124
+http://123.120.138.181:4023/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://114.254.94.228:4022/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://114.254.24.195:4022/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://114.254.249.124:4022/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://111.193.62.120:4022/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://111.193.149.192:4022/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://114.254.33.45:4022/rtp/239.3.1.64:8124
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://114.254.82.219:4022/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://114.252.232.186:4022/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://114.243.100.102:8821/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://111.193.224.202:4022/rtp/239.3.1.64:8124
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://221.220.129.160:8012/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV12
@@ -450,19 +540,25 @@ http://124.64.238.165:7070/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://123.113.8.46:8012/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://123.120.129.158:4023/rtp/239.3.1.124:8128
+http://123.120.138.181:4023/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://114.254.94.228:4022/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://114.254.24.195:4022/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://114.254.249.124:4022/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://111.193.62.120:4022/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://111.193.149.192:4022/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://114.254.33.45:4022/rtp/239.3.1.124:8128
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://114.254.82.219:4022/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://114.252.232.186:4022/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://114.243.100.102:8821/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://111.193.224.202:4022/rtp/239.3.1.124:8128
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://221.220.129.160:8012/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV13
@@ -480,19 +576,25 @@ http://124.64.238.165:7070/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://123.113.8.46:8012/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://123.120.129.158:4023/rtp/239.3.1.65:8132
+http://123.120.138.181:4023/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://114.254.94.228:4022/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://114.254.24.195:4022/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://114.254.249.124:4022/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://111.193.62.120:4022/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://111.193.149.192:4022/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://114.254.33.45:4022/rtp/239.3.1.65:8132
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://114.254.82.219:4022/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://114.252.232.186:4022/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://114.243.100.102:8821/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://111.193.224.202:4022/rtp/239.3.1.65:8132
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://221.220.129.160:8012/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV14
@@ -510,19 +612,25 @@ http://124.64.238.165:7070/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://123.113.8.46:8012/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://123.120.129.158:4023/rtp/239.3.1.153:8136
+http://123.120.138.181:4023/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://114.254.94.228:4022/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://114.254.24.195:4022/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://114.254.249.124:4022/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://111.193.62.120:4022/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://111.193.149.192:4022/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://114.254.33.45:4022/rtp/239.3.1.153:8136
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://114.254.82.219:4022/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://114.252.232.186:4022/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://114.243.100.102:8821/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://111.193.224.202:4022/rtp/239.3.1.153:8136
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://221.220.129.160:8012/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV15
@@ -540,19 +648,25 @@ http://124.64.238.165:7070/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://123.113.8.46:8012/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://123.120.129.158:4023/rtp/239.3.1.184:8001
+http://123.120.138.181:4023/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://114.254.94.228:4022/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://114.254.24.195:4022/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://114.254.249.124:4022/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://111.193.62.120:4022/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://111.193.149.192:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://114.254.33.45:4022/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://114.254.82.219:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://114.252.232.186:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://114.243.100.102:8821/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://111.193.224.202:4022/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://221.220.129.160:8012/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV16
@@ -570,19 +684,25 @@ http://124.64.238.165:7070/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://123.113.8.46:8012/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV17
-http://123.120.129.158:4023/rtp/239.3.1.151:8144
+http://123.120.138.181:4023/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://114.254.94.228:4022/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://114.254.24.195:4022/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://114.254.249.124:4022/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://111.193.62.120:4022/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://111.193.149.192:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://114.254.33.45:4022/rtp/239.3.1.151:8144
-#EXTINF:-1 group-title="央视频道",CCTV17
-http://114.254.82.219:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://114.252.232.186:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://114.243.100.102:8821/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://111.193.224.202:4022/rtp/239.3.1.151:8144
-#EXTINF:-1 group-title="央视频道",CCTV17
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://221.220.129.160:8012/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV17
@@ -600,19 +720,25 @@ http://124.64.238.165:7070/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://123.113.8.46:8012/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CETV1
-http://123.120.129.158:4023/rtp/239.3.1.57:8152
+http://123.120.138.181:4023/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="央视频道",CETV1
+http://114.254.94.228:4022/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="央视频道",CETV1
+http://114.254.24.195:4022/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="央视频道",CETV1
+http://114.254.249.124:4022/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="央视频道",CETV1
+http://111.193.62.120:4022/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="央视频道",CETV1
+http://111.193.149.192:4022/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="央视频道",CETV1
 http://114.254.33.45:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 group-title="央视频道",CETV1
-http://114.254.82.219:4022/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="央视频道",CETV1
 http://114.252.232.186:4022/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="央视频道",CETV1
 http://114.243.100.102:8821/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="央视频道",CETV1
 http://111.193.224.202:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 group-title="央视频道",CETV1
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="央视频道",CETV1
 http://221.220.129.160:8012/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="央视频道",CETV1
@@ -630,19 +756,25 @@ http://124.64.238.165:7070/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="央视频道",CETV1
 http://123.113.8.46:8012/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="央视频道",CETV2
-http://123.120.129.158:4023/rtp/239.3.1.54:4120
+http://123.120.138.181:4023/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="央视频道",CETV2
+http://114.254.94.228:4022/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="央视频道",CETV2
+http://114.254.24.195:4022/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="央视频道",CETV2
+http://114.254.249.124:4022/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="央视频道",CETV2
+http://111.193.62.120:4022/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="央视频道",CETV2
+http://111.193.149.192:4022/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="央视频道",CETV2
 http://114.254.33.45:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 group-title="央视频道",CETV2
-http://114.254.82.219:4022/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="央视频道",CETV2
 http://114.252.232.186:4022/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="央视频道",CETV2
 http://114.243.100.102:8821/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="央视频道",CETV2
 http://111.193.224.202:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 group-title="央视频道",CETV2
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="央视频道",CETV2
 http://221.220.129.160:8012/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="央视频道",CETV2
@@ -660,19 +792,25 @@ http://124.64.238.165:7070/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="央视频道",CETV2
 http://123.113.8.46:8012/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="央视频道",CETV4
-http://123.120.129.158:4023/rtp/239.3.1.56:4120
+http://123.120.138.181:4023/rtp/239.3.1.56:4120
+#EXTINF:-1 group-title="央视频道",CETV4
+http://114.254.94.228:4022/rtp/239.3.1.56:4120
+#EXTINF:-1 group-title="央视频道",CETV4
+http://114.254.24.195:4022/rtp/239.3.1.56:4120
+#EXTINF:-1 group-title="央视频道",CETV4
+http://114.254.249.124:4022/rtp/239.3.1.56:4120
+#EXTINF:-1 group-title="央视频道",CETV4
+http://111.193.62.120:4022/rtp/239.3.1.56:4120
+#EXTINF:-1 group-title="央视频道",CETV4
+http://111.193.149.192:4022/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",CETV4
 http://114.254.33.45:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 group-title="央视频道",CETV4
-http://114.254.82.219:4022/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",CETV4
 http://114.252.232.186:4022/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",CETV4
 http://114.243.100.102:8821/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",CETV4
 http://111.193.224.202:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 group-title="央视频道",CETV4
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",CETV4
 http://221.220.129.160:8012/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",CETV4
@@ -690,19 +828,25 @@ http://124.64.238.165:7070/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",CETV4
 http://123.113.8.46:8012/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV3
-http://123.120.129.158:4023/rtp/239.3.1.193:8012
+http://123.120.138.181:4023/rtp/239.3.1.193:8012
+#EXTINF:-1 group-title="央视频道",央视网CCTV3
+http://114.254.94.228:4022/rtp/239.3.1.193:8012
+#EXTINF:-1 group-title="央视频道",央视网CCTV3
+http://114.254.24.195:4022/rtp/239.3.1.193:8012
+#EXTINF:-1 group-title="央视频道",央视网CCTV3
+http://114.254.249.124:4022/rtp/239.3.1.193:8012
+#EXTINF:-1 group-title="央视频道",央视网CCTV3
+http://111.193.62.120:4022/rtp/239.3.1.193:8012
+#EXTINF:-1 group-title="央视频道",央视网CCTV3
+http://111.193.149.192:4022/rtp/239.3.1.193:8012
 #EXTINF:-1 group-title="央视频道",央视网CCTV3
 http://114.254.33.45:4022/rtp/239.3.1.193:8012
-#EXTINF:-1 group-title="央视频道",央视网CCTV3
-http://114.254.82.219:4022/rtp/239.3.1.193:8012
 #EXTINF:-1 group-title="央视频道",央视网CCTV3
 http://114.252.232.186:4022/rtp/239.3.1.193:8012
 #EXTINF:-1 group-title="央视频道",央视网CCTV3
 http://114.243.100.102:8821/rtp/239.3.1.193:8012
 #EXTINF:-1 group-title="央视频道",央视网CCTV3
 http://111.193.224.202:4022/rtp/239.3.1.193:8012
-#EXTINF:-1 group-title="央视频道",央视网CCTV3
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.193:8012
 #EXTINF:-1 group-title="央视频道",央视网CCTV3
 http://221.220.129.160:8012/rtp/239.3.1.193:8012
 #EXTINF:-1 group-title="央视频道",央视网CCTV3
@@ -720,19 +864,25 @@ http://124.64.238.165:7070/rtp/239.3.1.193:8012
 #EXTINF:-1 group-title="央视频道",央视网CCTV3
 http://123.113.8.46:8012/rtp/239.3.1.193:8012
 #EXTINF:-1 group-title="央视频道",央视网CCTV5
-http://123.120.129.158:4023/rtp/239.3.1.89:4120
+http://123.120.138.181:4023/rtp/239.3.1.89:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV5
+http://114.254.94.228:4022/rtp/239.3.1.89:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV5
+http://114.254.24.195:4022/rtp/239.3.1.89:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV5
+http://114.254.249.124:4022/rtp/239.3.1.89:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV5
+http://111.193.62.120:4022/rtp/239.3.1.89:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV5
+http://111.193.149.192:4022/rtp/239.3.1.89:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV5
 http://114.254.33.45:4022/rtp/239.3.1.89:4120
-#EXTINF:-1 group-title="央视频道",央视网CCTV5
-http://114.254.82.219:4022/rtp/239.3.1.89:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV5
 http://114.252.232.186:4022/rtp/239.3.1.89:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV5
 http://114.243.100.102:8821/rtp/239.3.1.89:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV5
 http://111.193.224.202:4022/rtp/239.3.1.89:4120
-#EXTINF:-1 group-title="央视频道",央视网CCTV5
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.89:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV5
 http://221.220.129.160:8012/rtp/239.3.1.89:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV5
@@ -750,19 +900,25 @@ http://124.64.238.165:7070/rtp/239.3.1.89:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV5
 http://123.113.8.46:8012/rtp/239.3.1.89:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV8
-http://123.120.129.158:4023/rtp/239.3.1.85:4120
+http://123.120.138.181:4023/rtp/239.3.1.85:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV8
+http://114.254.94.228:4022/rtp/239.3.1.85:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV8
+http://114.254.24.195:4022/rtp/239.3.1.85:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV8
+http://114.254.249.124:4022/rtp/239.3.1.85:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV8
+http://111.193.62.120:4022/rtp/239.3.1.85:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV8
+http://111.193.149.192:4022/rtp/239.3.1.85:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV8
 http://114.254.33.45:4022/rtp/239.3.1.85:4120
-#EXTINF:-1 group-title="央视频道",央视网CCTV8
-http://114.254.82.219:4022/rtp/239.3.1.85:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV8
 http://114.252.232.186:4022/rtp/239.3.1.85:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV8
 http://114.243.100.102:8821/rtp/239.3.1.85:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV8
 http://111.193.224.202:4022/rtp/239.3.1.85:4120
-#EXTINF:-1 group-title="央视频道",央视网CCTV8
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.85:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV8
 http://221.220.129.160:8012/rtp/239.3.1.85:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV8
@@ -780,19 +936,25 @@ http://124.64.238.165:7070/rtp/239.3.1.85:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV8
 http://123.113.8.46:8012/rtp/239.3.1.85:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV10
-http://123.120.129.158:4023/rtp/239.3.1.86:4120
+http://123.120.138.181:4023/rtp/239.3.1.86:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV10
+http://114.254.94.228:4022/rtp/239.3.1.86:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV10
+http://114.254.24.195:4022/rtp/239.3.1.86:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV10
+http://114.254.249.124:4022/rtp/239.3.1.86:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV10
+http://111.193.62.120:4022/rtp/239.3.1.86:4120
+#EXTINF:-1 group-title="央视频道",央视网CCTV10
+http://111.193.149.192:4022/rtp/239.3.1.86:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV10
 http://114.254.33.45:4022/rtp/239.3.1.86:4120
-#EXTINF:-1 group-title="央视频道",央视网CCTV10
-http://114.254.82.219:4022/rtp/239.3.1.86:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV10
 http://114.252.232.186:4022/rtp/239.3.1.86:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV10
 http://114.243.100.102:8821/rtp/239.3.1.86:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV10
 http://111.193.224.202:4022/rtp/239.3.1.86:4120
-#EXTINF:-1 group-title="央视频道",央视网CCTV10
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.86:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV10
 http://221.220.129.160:8012/rtp/239.3.1.86:4120
 #EXTINF:-1 group-title="央视频道",央视网CCTV10
@@ -811,19 +973,25 @@ http://124.64.238.165:7070/rtp/239.3.1.86:4120
 http://123.113.8.46:8012/rtp/239.3.1.86:4120
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.119:3006
+http://123.120.138.181:4023/rtp/239.3.1.119:3006
+#EXTINF:-1 group-title="4K频道",东方卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.119:3006
+#EXTINF:-1 group-title="4K频道",东方卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.119:3006
+#EXTINF:-1 group-title="4K频道",东方卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.119:3006
+#EXTINF:-1 group-title="4K频道",东方卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.119:3006
+#EXTINF:-1 group-title="4K频道",东方卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.119:3006
-#EXTINF:-1 group-title="4K频道",东方卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://114.243.100.102:8821/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.119:3006
-#EXTINF:-1 group-title="4K频道",东方卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="4K频道",东方卫视4K
@@ -841,17 +1009,33 @@ http://124.64.238.165:7070/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="4K频道",北京卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.140:8001
+http://123.120.138.181:4023/rtp/239.3.1.140:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.139:8001
+http://123.120.138.181:4023/rtp/239.3.1.139:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.140:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.139:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.140:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.139:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.140:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.139:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.140:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.139:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.140:8001
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.139:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.140:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.139:8001
-#EXTINF:-1 group-title="4K频道",北京卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.140:8001
-#EXTINF:-1 group-title="4K频道",北京卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.139:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.140:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
@@ -864,10 +1048,6 @@ http://114.243.100.102:8821/rtp/239.3.1.139:8001
 http://111.193.224.202:4022/rtp/239.3.1.140:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.139:8001
-#EXTINF:-1 group-title="4K频道",北京卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.140:8001
-#EXTINF:-1 group-title="4K频道",北京卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.139:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.140:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
@@ -901,19 +1081,25 @@ http://123.113.8.46:8012/rtp/239.3.1.140:8001
 #EXTINF:-1 group-title="4K频道",北京卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.139:8001
 #EXTINF:-1 group-title="4K频道",四川卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.131:3001
+http://123.120.138.181:4023/rtp/239.3.1.131:3001
+#EXTINF:-1 group-title="4K频道",四川卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.131:3001
+#EXTINF:-1 group-title="4K频道",四川卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.131:3001
+#EXTINF:-1 group-title="4K频道",四川卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.131:3001
+#EXTINF:-1 group-title="4K频道",四川卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.131:3001
+#EXTINF:-1 group-title="4K频道",四川卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K频道",四川卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.131:3001
-#EXTINF:-1 group-title="4K频道",四川卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K频道",四川卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K频道",四川卫视4K
 http://114.243.100.102:8821/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K频道",四川卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.131:3001
-#EXTINF:-1 group-title="4K频道",四川卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K频道",四川卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K频道",四川卫视4K
@@ -931,19 +1117,25 @@ http://124.64.238.165:7070/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K频道",四川卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K频道",山东卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.144:3005
+http://123.120.138.181:4023/rtp/239.3.1.144:3005
+#EXTINF:-1 group-title="4K频道",山东卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.144:3005
+#EXTINF:-1 group-title="4K频道",山东卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.144:3005
+#EXTINF:-1 group-title="4K频道",山东卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.144:3005
+#EXTINF:-1 group-title="4K频道",山东卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.144:3005
+#EXTINF:-1 group-title="4K频道",山东卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.144:3005
 #EXTINF:-1 group-title="4K频道",山东卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.144:3005
-#EXTINF:-1 group-title="4K频道",山东卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.144:3005
 #EXTINF:-1 group-title="4K频道",山东卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.144:3005
 #EXTINF:-1 group-title="4K频道",山东卫视4K
 http://114.243.100.102:8821/rtp/239.3.1.144:3005
 #EXTINF:-1 group-title="4K频道",山东卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.144:3005
-#EXTINF:-1 group-title="4K频道",山东卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.144:3005
 #EXTINF:-1 group-title="4K频道",山东卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.144:3005
 #EXTINF:-1 group-title="4K频道",山东卫视4K
@@ -961,19 +1153,25 @@ http://124.64.238.165:7070/rtp/239.3.1.144:3005
 #EXTINF:-1 group-title="4K频道",山东卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.144:3005
 #EXTINF:-1 group-title="4K频道",广东卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.203:2000
+http://123.120.138.181:4023/rtp/239.3.1.203:2000
+#EXTINF:-1 group-title="4K频道",广东卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.203:2000
+#EXTINF:-1 group-title="4K频道",广东卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.203:2000
+#EXTINF:-1 group-title="4K频道",广东卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.203:2000
+#EXTINF:-1 group-title="4K频道",广东卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.203:2000
+#EXTINF:-1 group-title="4K频道",广东卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.203:2000
 #EXTINF:-1 group-title="4K频道",广东卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.203:2000
-#EXTINF:-1 group-title="4K频道",广东卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.203:2000
 #EXTINF:-1 group-title="4K频道",广东卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.203:2000
 #EXTINF:-1 group-title="4K频道",广东卫视4K
 http://114.243.100.102:8821/rtp/239.3.1.203:2000
 #EXTINF:-1 group-title="4K频道",广东卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.203:2000
-#EXTINF:-1 group-title="4K频道",广东卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.203:2000
 #EXTINF:-1 group-title="4K频道",广东卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.203:2000
 #EXTINF:-1 group-title="4K频道",广东卫视4K
@@ -991,19 +1189,25 @@ http://124.64.238.165:7070/rtp/239.3.1.203:2000
 #EXTINF:-1 group-title="4K频道",广东卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.203:2000
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.113:3003
+http://123.120.138.181:4023/rtp/239.3.1.113:3003
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.113:3003
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.113:3003
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.113:3003
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.113:3003
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.113:3003
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.113:3003
-#EXTINF:-1 group-title="4K频道",江苏卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.113:3003
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.113:3003
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
 http://114.243.100.102:8821/rtp/239.3.1.113:3003
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.113:3003
-#EXTINF:-1 group-title="4K频道",江苏卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.113:3003
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.113:3003
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
@@ -1021,19 +1225,25 @@ http://124.64.238.165:7070/rtp/239.3.1.113:3003
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.113:3003
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.114:3004
+http://123.120.138.181:4023/rtp/239.3.1.114:3004
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.114:3004
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.114:3004
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.114:3004
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.114:3004
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.114:3004
-#EXTINF:-1 group-title="4K频道",浙江卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
 http://114.243.100.102:8821/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.114:3004
-#EXTINF:-1 group-title="4K频道",浙江卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
@@ -1051,19 +1261,25 @@ http://124.64.238.165:7070/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.202:2000
+http://123.120.138.181:4023/rtp/239.3.1.202:2000
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.202:2000
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.202:2000
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.202:2000
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.202:2000
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.202:2000
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.202:2000
-#EXTINF:-1 group-title="4K频道",深圳卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.202:2000
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.202:2000
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
 http://114.243.100.102:8821/rtp/239.3.1.202:2000
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.202:2000
-#EXTINF:-1 group-title="4K频道",深圳卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.202:2000
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.202:2000
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
@@ -1081,19 +1297,25 @@ http://124.64.238.165:7070/rtp/239.3.1.202:2000
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.202:2000
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
-http://123.120.129.158:4023/rtp/239.3.1.112:3002
+http://123.120.138.181:4023/rtp/239.3.1.112:3002
+#EXTINF:-1 group-title="4K频道",湖南卫视4K
+http://114.254.94.228:4022/rtp/239.3.1.112:3002
+#EXTINF:-1 group-title="4K频道",湖南卫视4K
+http://114.254.24.195:4022/rtp/239.3.1.112:3002
+#EXTINF:-1 group-title="4K频道",湖南卫视4K
+http://114.254.249.124:4022/rtp/239.3.1.112:3002
+#EXTINF:-1 group-title="4K频道",湖南卫视4K
+http://111.193.62.120:4022/rtp/239.3.1.112:3002
+#EXTINF:-1 group-title="4K频道",湖南卫视4K
+http://111.193.149.192:4022/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://114.254.33.45:4022/rtp/239.3.1.112:3002
-#EXTINF:-1 group-title="4K频道",湖南卫视4K
-http://114.254.82.219:4022/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://114.252.232.186:4022/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://114.243.100.102:8821/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://111.193.224.202:4022/rtp/239.3.1.112:3002
-#EXTINF:-1 group-title="4K频道",湖南卫视4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://221.220.129.160:8012/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
@@ -1111,19 +1333,25 @@ http://124.64.238.165:7070/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://123.113.8.46:8012/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="4K频道",爱上4K
-http://123.120.129.158:4023/rtp/239.3.1.236:2000
+http://123.120.138.181:4023/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="4K频道",爱上4K
+http://114.254.94.228:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="4K频道",爱上4K
+http://114.254.24.195:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="4K频道",爱上4K
+http://114.254.249.124:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="4K频道",爱上4K
+http://111.193.62.120:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="4K频道",爱上4K
+http://111.193.149.192:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://114.254.33.45:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="4K频道",爱上4K
-http://114.254.82.219:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://114.252.232.186:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://114.243.100.102:8821/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://111.193.224.202:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="4K频道",爱上4K
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://221.220.129.160:8012/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="4K频道",爱上4K
@@ -1142,19 +1370,25 @@ http://124.64.238.165:7070/rtp/239.3.1.236:2000
 http://123.113.8.46:8012/rtp/239.3.1.236:2000
 
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://123.120.129.158:4023/rtp/239.3.1.155:4120
+http://123.120.138.181:4023/rtp/239.3.1.155:4120
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://114.254.94.228:4022/rtp/239.3.1.155:4120
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://114.254.24.195:4022/rtp/239.3.1.155:4120
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://114.254.249.124:4022/rtp/239.3.1.155:4120
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://111.193.62.120:4022/rtp/239.3.1.155:4120
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://111.193.149.192:4022/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://114.254.33.45:4022/rtp/239.3.1.155:4120
-#EXTINF:-1 group-title="卫视频道",三沙卫视
-http://114.254.82.219:4022/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://114.252.232.186:4022/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://114.243.100.102:8821/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://111.193.224.202:4022/rtp/239.3.1.155:4120
-#EXTINF:-1 group-title="卫视频道",三沙卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://221.220.129.160:8012/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",三沙卫视
@@ -1172,19 +1406,25 @@ http://124.64.238.165:7070/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://123.113.8.46:8012/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://123.120.129.158:4023/rtp/239.3.1.156:8148
+http://123.120.138.181:4023/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://114.254.94.228:4022/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://114.254.24.195:4022/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://114.254.249.124:4022/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://111.193.62.120:4022/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://111.193.149.192:4022/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://114.254.33.45:4022/rtp/239.3.1.156:8148
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://114.254.82.219:4022/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://114.252.232.186:4022/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://114.243.100.102:8821/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://111.193.224.202:4022/rtp/239.3.1.156:8148
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://221.220.129.160:8012/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东南卫视
@@ -1202,19 +1442,25 @@ http://124.64.238.165:7070/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://123.113.8.46:8012/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://123.120.129.158:4023/rtp/239.3.1.136:8032
+http://123.120.138.181:4023/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://114.254.94.228:4022/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://114.254.24.195:4022/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://114.254.249.124:4022/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://111.193.62.120:4022/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://111.193.149.192:4022/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://114.254.33.45:4022/rtp/239.3.1.136:8032
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://114.254.82.219:4022/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://114.252.232.186:4022/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://114.243.100.102:8821/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://111.193.224.202:4022/rtp/239.3.1.136:8032
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://221.220.129.160:8012/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -1232,19 +1478,25 @@ http://124.64.238.165:7070/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://123.113.8.46:8012/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://123.120.129.158:4023/rtp/239.3.1.26:8108
+http://123.120.138.181:4023/rtp/239.3.1.26:8108
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://114.254.94.228:4022/rtp/239.3.1.26:8108
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://114.254.24.195:4022/rtp/239.3.1.26:8108
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://114.254.249.124:4022/rtp/239.3.1.26:8108
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://111.193.62.120:4022/rtp/239.3.1.26:8108
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://111.193.149.192:4022/rtp/239.3.1.26:8108
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://114.254.33.45:4022/rtp/239.3.1.26:8108
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://114.254.82.219:4022/rtp/239.3.1.26:8108
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://114.252.232.186:4022/rtp/239.3.1.26:8108
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://114.243.100.102:8821/rtp/239.3.1.26:8108
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://111.193.224.202:4022/rtp/239.3.1.26:8108
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.26:8108
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://221.220.129.160:8012/rtp/239.3.1.26:8108
 #EXTINF:-1 group-title="卫视频道",云南卫视
@@ -1262,19 +1514,25 @@ http://124.64.238.165:7070/rtp/239.3.1.26:8108
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://123.113.8.46:8012/rtp/239.3.1.26:8108
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://123.120.129.158:4023/rtp/239.3.1.43:8176
+http://123.120.138.181:4023/rtp/239.3.1.43:8176
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://114.254.94.228:4022/rtp/239.3.1.43:8176
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://114.254.24.195:4022/rtp/239.3.1.43:8176
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://114.254.249.124:4022/rtp/239.3.1.43:8176
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://111.193.62.120:4022/rtp/239.3.1.43:8176
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://111.193.149.192:4022/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://114.254.33.45:4022/rtp/239.3.1.43:8176
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://114.254.82.219:4022/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://114.252.232.186:4022/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://114.243.100.102:8821/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://111.193.224.202:4022/rtp/239.3.1.43:8176
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://221.220.129.160:8012/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
@@ -1292,19 +1550,25 @@ http://124.64.238.165:7070/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://123.113.8.46:8012/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://123.120.129.158:4023/rtp/239.3.1.241:8000
+http://123.120.138.181:4023/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://114.254.94.228:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://114.254.24.195:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://114.254.249.124:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://111.193.62.120:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://111.193.149.192:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://114.254.33.45:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://114.254.82.219:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://114.252.232.186:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://114.243.100.102:8821/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://111.193.224.202:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://221.220.129.160:8012/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",北京卫视
@@ -1322,19 +1586,25 @@ http://124.64.238.165:7070/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://123.113.8.46:8012/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",厦门卫视
-http://123.120.129.158:4023/rtp/239.3.1.143:4120
+http://123.120.138.181:4023/rtp/239.3.1.143:4120
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://114.254.94.228:4022/rtp/239.3.1.143:4120
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://114.254.24.195:4022/rtp/239.3.1.143:4120
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://114.254.249.124:4022/rtp/239.3.1.143:4120
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://111.193.62.120:4022/rtp/239.3.1.143:4120
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://111.193.149.192:4022/rtp/239.3.1.143:4120
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://114.254.33.45:4022/rtp/239.3.1.143:4120
-#EXTINF:-1 group-title="卫视频道",厦门卫视
-http://114.254.82.219:4022/rtp/239.3.1.143:4120
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://114.252.232.186:4022/rtp/239.3.1.143:4120
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://114.243.100.102:8821/rtp/239.3.1.143:4120
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://111.193.224.202:4022/rtp/239.3.1.143:4120
-#EXTINF:-1 group-title="卫视频道",厦门卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.143:4120
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://221.220.129.160:8012/rtp/239.3.1.143:4120
 #EXTINF:-1 group-title="卫视频道",厦门卫视
@@ -1352,19 +1622,25 @@ http://124.64.238.165:7070/rtp/239.3.1.143:4120
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://123.113.8.46:8012/rtp/239.3.1.143:4120
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://123.120.129.158:4023/rtp/239.3.1.240:8172
+http://123.120.138.181:4023/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://114.254.94.228:4022/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://114.254.24.195:4022/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://114.254.249.124:4022/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://111.193.62.120:4022/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://111.193.149.192:4022/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://114.254.33.45:4022/rtp/239.3.1.240:8172
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://114.254.82.219:4022/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://114.252.232.186:4022/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://114.243.100.102:8821/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://111.193.224.202:4022/rtp/239.3.1.240:8172
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://221.220.129.160:8012/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",吉林卫视
@@ -1382,19 +1658,25 @@ http://124.64.238.165:7070/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://123.113.8.46:8012/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://123.120.129.158:4023/rtp/239.3.1.29:8288
+http://123.120.138.181:4023/rtp/239.3.1.29:8288
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://114.254.94.228:4022/rtp/239.3.1.29:8288
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://114.254.24.195:4022/rtp/239.3.1.29:8288
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://114.254.249.124:4022/rtp/239.3.1.29:8288
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://111.193.62.120:4022/rtp/239.3.1.29:8288
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://111.193.149.192:4022/rtp/239.3.1.29:8288
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://114.254.33.45:4022/rtp/239.3.1.29:8288
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://114.254.82.219:4022/rtp/239.3.1.29:8288
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://114.252.232.186:4022/rtp/239.3.1.29:8288
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://114.243.100.102:8821/rtp/239.3.1.29:8288
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://111.193.224.202:4022/rtp/239.3.1.29:8288
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.29:8288
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://221.220.129.160:8012/rtp/239.3.1.29:8288
 #EXTINF:-1 group-title="卫视频道",四川卫视
@@ -1412,19 +1694,25 @@ http://124.64.238.165:7070/rtp/239.3.1.29:8288
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://123.113.8.46:8012/rtp/239.3.1.29:8288
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://123.120.129.158:4023/rtp/239.3.1.141:1234
+http://123.120.138.181:4023/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://114.254.94.228:4022/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://114.254.24.195:4022/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://114.254.249.124:4022/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://111.193.62.120:4022/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://111.193.149.192:4022/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://114.254.33.45:4022/rtp/239.3.1.141:1234
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://114.254.82.219:4022/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://114.252.232.186:4022/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://114.243.100.102:8821/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://111.193.224.202:4022/rtp/239.3.1.141:1234
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://221.220.129.160:8012/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
@@ -1442,19 +1730,25 @@ http://124.64.238.165:7070/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://123.113.8.46:8012/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://123.120.129.158:4023/rtp/239.3.1.211:8064
+http://123.120.138.181:4023/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://114.254.94.228:4022/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://114.254.24.195:4022/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://114.254.249.124:4022/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://111.193.62.120:4022/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://111.193.149.192:4022/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://114.254.33.45:4022/rtp/239.3.1.211:8064
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://114.254.82.219:4022/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://114.252.232.186:4022/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://114.243.100.102:8821/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://111.193.224.202:4022/rtp/239.3.1.211:8064
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://221.220.129.160:8012/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",安徽卫视
@@ -1472,19 +1766,25 @@ http://124.64.238.165:7070/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://123.113.8.46:8012/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://123.120.129.158:4023/rtp/239.3.1.209:8052
+http://123.120.138.181:4023/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://114.254.94.228:4022/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://114.254.24.195:4022/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://114.254.249.124:4022/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://111.193.62.120:4022/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://111.193.149.192:4022/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://114.254.33.45:4022/rtp/239.3.1.209:8052
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://114.254.82.219:4022/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://114.252.232.186:4022/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://114.243.100.102:8821/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://111.193.224.202:4022/rtp/239.3.1.209:8052
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://221.220.129.160:8012/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东卫视
@@ -1502,19 +1802,25 @@ http://124.64.238.165:7070/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://123.113.8.46:8012/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
-http://123.120.129.158:4023/rtp/239.3.1.52:4120
+http://123.120.138.181:4023/rtp/239.3.1.52:4120
+#EXTINF:-1 group-title="卫视频道",山东教育卫视
+http://114.254.94.228:4022/rtp/239.3.1.52:4120
+#EXTINF:-1 group-title="卫视频道",山东教育卫视
+http://114.254.24.195:4022/rtp/239.3.1.52:4120
+#EXTINF:-1 group-title="卫视频道",山东教育卫视
+http://114.254.249.124:4022/rtp/239.3.1.52:4120
+#EXTINF:-1 group-title="卫视频道",山东教育卫视
+http://111.193.62.120:4022/rtp/239.3.1.52:4120
+#EXTINF:-1 group-title="卫视频道",山东教育卫视
+http://111.193.149.192:4022/rtp/239.3.1.52:4120
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
 http://114.254.33.45:4022/rtp/239.3.1.52:4120
-#EXTINF:-1 group-title="卫视频道",山东教育卫视
-http://114.254.82.219:4022/rtp/239.3.1.52:4120
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
 http://114.252.232.186:4022/rtp/239.3.1.52:4120
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
 http://114.243.100.102:8821/rtp/239.3.1.52:4120
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
 http://111.193.224.202:4022/rtp/239.3.1.52:4120
-#EXTINF:-1 group-title="卫视频道",山东教育卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.52:4120
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
 http://221.220.129.160:8012/rtp/239.3.1.52:4120
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
@@ -1532,19 +1838,25 @@ http://124.64.238.165:7070/rtp/239.3.1.52:4120
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
 http://123.113.8.46:8012/rtp/239.3.1.52:4120
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://123.120.129.158:4023/rtp/239.3.1.42:8172
+http://123.120.138.181:4023/rtp/239.3.1.42:8172
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://114.254.94.228:4022/rtp/239.3.1.42:8172
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://114.254.24.195:4022/rtp/239.3.1.42:8172
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://114.254.249.124:4022/rtp/239.3.1.42:8172
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://111.193.62.120:4022/rtp/239.3.1.42:8172
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://111.193.149.192:4022/rtp/239.3.1.42:8172
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://114.254.33.45:4022/rtp/239.3.1.42:8172
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://114.254.82.219:4022/rtp/239.3.1.42:8172
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://114.252.232.186:4022/rtp/239.3.1.42:8172
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://114.243.100.102:8821/rtp/239.3.1.42:8172
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://111.193.224.202:4022/rtp/239.3.1.42:8172
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.42:8172
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://221.220.129.160:8012/rtp/239.3.1.42:8172
 #EXTINF:-1 group-title="卫视频道",山西卫视
@@ -1562,19 +1874,25 @@ http://124.64.238.165:7070/rtp/239.3.1.42:8172
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://123.113.8.46:8012/rtp/239.3.1.42:8172
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://123.120.129.158:4023/rtp/239.3.1.142:8048
+http://123.120.138.181:4023/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://114.254.94.228:4022/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://114.254.24.195:4022/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://114.254.249.124:4022/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://111.193.62.120:4022/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://111.193.149.192:4022/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://114.254.33.45:4022/rtp/239.3.1.142:8048
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://114.254.82.219:4022/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://114.252.232.186:4022/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://114.243.100.102:8821/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://111.193.224.202:4022/rtp/239.3.1.142:8048
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://221.220.129.160:8012/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广东卫视
@@ -1592,19 +1910,25 @@ http://124.64.238.165:7070/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://123.113.8.46:8012/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://123.120.129.158:4023/rtp/239.3.1.39:8300
+http://123.120.138.181:4023/rtp/239.3.1.39:8300
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://114.254.94.228:4022/rtp/239.3.1.39:8300
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://114.254.24.195:4022/rtp/239.3.1.39:8300
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://114.254.249.124:4022/rtp/239.3.1.39:8300
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://111.193.62.120:4022/rtp/239.3.1.39:8300
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://111.193.149.192:4022/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://114.254.33.45:4022/rtp/239.3.1.39:8300
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://114.254.82.219:4022/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://114.252.232.186:4022/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://114.243.100.102:8821/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://111.193.224.202:4022/rtp/239.3.1.39:8300
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://221.220.129.160:8012/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",广西卫视
@@ -1622,19 +1946,25 @@ http://124.64.238.165:7070/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://123.113.8.46:8012/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",旅游卫视
-http://123.120.129.158:4023/rtp/239.3.1.45:8304
+http://123.120.138.181:4023/rtp/239.3.1.45:8304
+#EXTINF:-1 group-title="卫视频道",旅游卫视
+http://114.254.94.228:4022/rtp/239.3.1.45:8304
+#EXTINF:-1 group-title="卫视频道",旅游卫视
+http://114.254.24.195:4022/rtp/239.3.1.45:8304
+#EXTINF:-1 group-title="卫视频道",旅游卫视
+http://114.254.249.124:4022/rtp/239.3.1.45:8304
+#EXTINF:-1 group-title="卫视频道",旅游卫视
+http://111.193.62.120:4022/rtp/239.3.1.45:8304
+#EXTINF:-1 group-title="卫视频道",旅游卫视
+http://111.193.149.192:4022/rtp/239.3.1.45:8304
 #EXTINF:-1 group-title="卫视频道",旅游卫视
 http://114.254.33.45:4022/rtp/239.3.1.45:8304
-#EXTINF:-1 group-title="卫视频道",旅游卫视
-http://114.254.82.219:4022/rtp/239.3.1.45:8304
 #EXTINF:-1 group-title="卫视频道",旅游卫视
 http://114.252.232.186:4022/rtp/239.3.1.45:8304
 #EXTINF:-1 group-title="卫视频道",旅游卫视
 http://114.243.100.102:8821/rtp/239.3.1.45:8304
 #EXTINF:-1 group-title="卫视频道",旅游卫视
 http://111.193.224.202:4022/rtp/239.3.1.45:8304
-#EXTINF:-1 group-title="卫视频道",旅游卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.45:8304
 #EXTINF:-1 group-title="卫视频道",旅游卫视
 http://221.220.129.160:8012/rtp/239.3.1.45:8304
 #EXTINF:-1 group-title="卫视频道",旅游卫视
@@ -1652,19 +1982,25 @@ http://124.64.238.165:7070/rtp/239.3.1.45:8304
 #EXTINF:-1 group-title="卫视频道",旅游卫视
 http://123.113.8.46:8012/rtp/239.3.1.45:8304
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://123.120.129.158:4023/rtp/239.3.1.135:8028
+http://123.120.138.181:4023/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://114.254.94.228:4022/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://114.254.24.195:4022/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://114.254.249.124:4022/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://111.193.62.120:4022/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://111.193.149.192:4022/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://114.254.33.45:4022/rtp/239.3.1.135:8028
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://114.254.82.219:4022/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://114.252.232.186:4022/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://114.243.100.102:8821/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://111.193.224.202:4022/rtp/239.3.1.135:8028
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://221.220.129.160:8012/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -1682,19 +2018,25 @@ http://124.64.238.165:7070/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://123.113.8.46:8012/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://123.120.129.158:4023/rtp/239.3.1.123:8164
+http://123.120.138.181:4023/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://114.254.94.228:4022/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://114.254.24.195:4022/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://114.254.249.124:4022/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://111.193.62.120:4022/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://111.193.149.192:4022/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://114.254.33.45:4022/rtp/239.3.1.123:8164
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://114.254.82.219:4022/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://114.252.232.186:4022/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://114.243.100.102:8821/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://111.193.224.202:4022/rtp/239.3.1.123:8164
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://221.220.129.160:8012/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",江西卫视
@@ -1712,19 +2054,25 @@ http://124.64.238.165:7070/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://123.113.8.46:8012/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://123.120.129.158:4023/rtp/239.3.1.148:8072
+http://123.120.138.181:4023/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://114.254.94.228:4022/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://114.254.24.195:4022/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://114.254.249.124:4022/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://111.193.62.120:4022/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://111.193.149.192:4022/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://114.254.33.45:4022/rtp/239.3.1.148:8072
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://114.254.82.219:4022/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://114.252.232.186:4022/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://114.243.100.102:8821/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://111.193.224.202:4022/rtp/239.3.1.148:8072
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://221.220.129.160:8012/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河北卫视
@@ -1742,19 +2090,25 @@ http://124.64.238.165:7070/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://123.113.8.46:8012/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://123.120.129.158:4023/rtp/239.3.1.50:8184
+http://123.120.138.181:4023/rtp/239.3.1.50:8184
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://114.254.94.228:4022/rtp/239.3.1.50:8184
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://114.254.24.195:4022/rtp/239.3.1.50:8184
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://114.254.249.124:4022/rtp/239.3.1.50:8184
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://111.193.62.120:4022/rtp/239.3.1.50:8184
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://111.193.149.192:4022/rtp/239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://114.254.33.45:4022/rtp/239.3.1.50:8184
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://114.254.82.219:4022/rtp/239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://114.252.232.186:4022/rtp/239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://114.243.100.102:8821/rtp/239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://111.193.224.202:4022/rtp/239.3.1.50:8184
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://221.220.129.160:8012/rtp/239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",河南卫视
@@ -1772,19 +2126,25 @@ http://124.64.238.165:7070/rtp/239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://123.113.8.46:8012/rtp/239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://123.120.129.158:4023/rtp/239.3.1.137:8036
+http://123.120.138.181:4023/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://114.254.94.228:4022/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://114.254.24.195:4022/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://114.254.249.124:4022/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://111.193.62.120:4022/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://111.193.149.192:4022/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://114.254.33.45:4022/rtp/239.3.1.137:8036
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://114.254.82.219:4022/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://114.252.232.186:4022/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://114.243.100.102:8821/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://111.193.224.202:4022/rtp/239.3.1.137:8036
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://221.220.129.160:8012/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -1802,19 +2162,25 @@ http://124.64.238.165:7070/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://123.113.8.46:8012/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://123.120.129.158:4023/rtp/239.3.1.134:8020
+http://123.120.138.181:4023/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://114.254.94.228:4022/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://114.254.24.195:4022/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://114.254.249.124:4022/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://111.193.62.120:4022/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://111.193.149.192:4022/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://114.254.33.45:4022/rtp/239.3.1.134:8020
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://114.254.82.219:4022/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://114.252.232.186:4022/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://114.243.100.102:8821/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://111.193.224.202:4022/rtp/239.3.1.134:8020
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://221.220.129.160:8012/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",深圳卫视
@@ -1832,19 +2198,25 @@ http://124.64.238.165:7070/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://123.113.8.46:8012/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://123.120.129.158:4023/rtp/239.3.1.138:8044
+http://123.120.138.181:4023/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://114.254.94.228:4022/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://114.254.24.195:4022/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://114.254.249.124:4022/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://111.193.62.120:4022/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://111.193.149.192:4022/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://114.254.33.45:4022/rtp/239.3.1.138:8044
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://114.254.82.219:4022/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://114.252.232.186:4022/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://114.243.100.102:8821/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://111.193.224.202:4022/rtp/239.3.1.138:8044
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://221.220.129.160:8012/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖北卫视
@@ -1862,19 +2234,25 @@ http://124.64.238.165:7070/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://123.113.8.46:8012/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://123.120.129.158:4023/rtp/239.3.1.132:8012
+http://123.120.138.181:4023/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://114.254.94.228:4022/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://114.254.24.195:4022/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://114.254.249.124:4022/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://111.193.62.120:4022/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://111.193.149.192:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://114.254.33.45:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://114.254.82.219:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://114.252.232.186:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://114.243.100.102:8821/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://111.193.224.202:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://221.220.129.160:8012/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",湖南卫视
@@ -1892,19 +2270,25 @@ http://124.64.238.165:7070/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://123.113.8.46:8012/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://123.120.129.158:4023/rtp/239.3.1.166:8188
+http://123.120.138.181:4023/rtp/239.3.1.166:8188
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://114.254.94.228:4022/rtp/239.3.1.166:8188
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://114.254.24.195:4022/rtp/239.3.1.166:8188
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://114.254.249.124:4022/rtp/239.3.1.166:8188
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://111.193.62.120:4022/rtp/239.3.1.166:8188
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://111.193.149.192:4022/rtp/239.3.1.166:8188
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://114.254.33.45:4022/rtp/239.3.1.166:8188
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://114.254.82.219:4022/rtp/239.3.1.166:8188
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://114.252.232.186:4022/rtp/239.3.1.166:8188
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://114.243.100.102:8821/rtp/239.3.1.166:8188
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://111.193.224.202:4022/rtp/239.3.1.166:8188
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.166:8188
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://221.220.129.160:8012/rtp/239.3.1.166:8188
 #EXTINF:-1 group-title="卫视频道",西藏卫视
@@ -1922,19 +2306,25 @@ http://124.64.238.165:7070/rtp/239.3.1.166:8188
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://123.113.8.46:8012/rtp/239.3.1.166:8188
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://123.120.129.158:4023/rtp/239.3.1.149:8076
+http://123.120.138.181:4023/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://114.254.94.228:4022/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://114.254.24.195:4022/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://114.254.249.124:4022/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://111.193.62.120:4022/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://111.193.149.192:4022/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://114.254.33.45:4022/rtp/239.3.1.149:8076
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://114.254.82.219:4022/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://114.252.232.186:4022/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://114.243.100.102:8821/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://111.193.224.202:4022/rtp/239.3.1.149:8076
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://221.220.129.160:8012/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",贵州卫视
@@ -1952,19 +2342,25 @@ http://124.64.238.165:7070/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://123.113.8.46:8012/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://123.120.129.158:4023/rtp/239.3.1.210:8056
+http://123.120.138.181:4023/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://114.254.94.228:4022/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://114.254.24.195:4022/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://114.254.249.124:4022/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://111.193.62.120:4022/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://111.193.149.192:4022/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://114.254.33.45:4022/rtp/239.3.1.210:8056
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://114.254.82.219:4022/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://114.252.232.186:4022/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://114.243.100.102:8821/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://111.193.224.202:4022/rtp/239.3.1.210:8056
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://221.220.129.160:8012/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
@@ -1982,19 +2378,25 @@ http://124.64.238.165:7070/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://123.113.8.46:8012/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://123.120.129.158:4023/rtp/239.3.1.122:8160
+http://123.120.138.181:4023/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://114.254.94.228:4022/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://114.254.24.195:4022/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://114.254.249.124:4022/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://111.193.62.120:4022/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://111.193.149.192:4022/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://114.254.33.45:4022/rtp/239.3.1.122:8160
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://114.254.82.219:4022/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://114.252.232.186:4022/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://114.243.100.102:8821/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://111.193.224.202:4022/rtp/239.3.1.122:8160
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://221.220.129.160:8012/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",重庆卫视
@@ -2012,19 +2414,25 @@ http://124.64.238.165:7070/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://123.113.8.46:8012/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://123.120.129.158:4023/rtp/239.3.1.41:8140
+http://123.120.138.181:4023/rtp/239.3.1.41:8140
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://114.254.94.228:4022/rtp/239.3.1.41:8140
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://114.254.24.195:4022/rtp/239.3.1.41:8140
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://114.254.249.124:4022/rtp/239.3.1.41:8140
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://111.193.62.120:4022/rtp/239.3.1.41:8140
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://111.193.149.192:4022/rtp/239.3.1.41:8140
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://114.254.33.45:4022/rtp/239.3.1.41:8140
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://114.254.82.219:4022/rtp/239.3.1.41:8140
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://114.252.232.186:4022/rtp/239.3.1.41:8140
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://114.243.100.102:8821/rtp/239.3.1.41:8140
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://111.193.224.202:4022/rtp/239.3.1.41:8140
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.41:8140
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://221.220.129.160:8012/rtp/239.3.1.41:8140
 #EXTINF:-1 group-title="卫视频道",陕西卫视
@@ -2042,19 +2450,25 @@ http://124.64.238.165:7070/rtp/239.3.1.41:8140
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://123.113.8.46:8012/rtp/239.3.1.41:8140
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://123.120.129.158:4023/rtp/239.3.1.44:8184
+http://123.120.138.181:4023/rtp/239.3.1.44:8184
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://114.254.94.228:4022/rtp/239.3.1.44:8184
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://114.254.24.195:4022/rtp/239.3.1.44:8184
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://114.254.249.124:4022/rtp/239.3.1.44:8184
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://111.193.62.120:4022/rtp/239.3.1.44:8184
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://111.193.149.192:4022/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://114.254.33.45:4022/rtp/239.3.1.44:8184
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://114.254.82.219:4022/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://114.252.232.186:4022/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://114.243.100.102:8821/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://111.193.224.202:4022/rtp/239.3.1.44:8184
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://221.220.129.160:8012/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视频道",青海卫视
@@ -2072,19 +2486,25 @@ http://124.64.238.165:7070/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://123.113.8.46:8012/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://123.120.129.158:4023/rtp/239.3.1.133:8016
+http://123.120.138.181:4023/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://114.254.94.228:4022/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://114.254.24.195:4022/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://114.254.249.124:4022/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://111.193.62.120:4022/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://111.193.149.192:4022/rtp/239.3.1.133:8016
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://114.254.33.45:4022/rtp/239.3.1.133:8016
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://114.254.82.219:4022/rtp/239.3.1.133:8016
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://114.252.232.186:4022/rtp/239.3.1.133:8016
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://114.243.100.102:8821/rtp/239.3.1.133:8016
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://111.193.224.202:4022/rtp/239.3.1.133:8016
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.133:8016
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://221.220.129.160:8012/rtp/239.3.1.133:8016
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
@@ -2103,17 +2523,33 @@ http://124.64.238.165:7070/rtp/239.3.1.133:8016
 http://123.113.8.46:8012/rtp/239.3.1.133:8016
 
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
-http://123.120.129.158:4023/rtp/239.3.1.69:4120
+http://123.120.138.181:4023/rtp/239.3.1.69:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
-http://123.120.129.158:4023/rtp/239.3.1.68:4120
+http://123.120.138.181:4023/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://114.254.94.228:4022/rtp/239.3.1.69:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://114.254.94.228:4022/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://114.254.24.195:4022/rtp/239.3.1.69:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://114.254.24.195:4022/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://114.254.249.124:4022/rtp/239.3.1.69:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://114.254.249.124:4022/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://111.193.62.120:4022/rtp/239.3.1.69:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://111.193.62.120:4022/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://111.193.149.192:4022/rtp/239.3.1.69:4120
+#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
+http://111.193.149.192:4022/rtp/239.3.1.68:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
 http://114.254.33.45:4022/rtp/239.3.1.69:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
 http://114.254.33.45:4022/rtp/239.3.1.68:4120
-#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
-http://114.254.82.219:4022/rtp/239.3.1.69:4120
-#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
-http://114.254.82.219:4022/rtp/239.3.1.68:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
 http://114.252.232.186:4022/rtp/239.3.1.69:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
@@ -2126,10 +2562,6 @@ http://114.243.100.102:8821/rtp/239.3.1.68:4120
 http://111.193.224.202:4022/rtp/239.3.1.69:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
 http://111.193.224.202:4022/rtp/239.3.1.68:4120
-#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.69:4120
-#EXTINF:-1 group-title="影视频道",IPTV军旅剧场
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.68:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
 http://221.220.129.160:8012/rtp/239.3.1.69:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
@@ -2163,19 +2595,25 @@ http://123.113.8.46:8012/rtp/239.3.1.69:4120
 #EXTINF:-1 group-title="影视频道",IPTV军旅剧场
 http://123.113.8.46:8012/rtp/239.3.1.68:4120
 #EXTINF:-1 group-title="影视频道",IPTV动作影院
-http://123.120.129.158:4023/rtp/239.3.1.92:4120
+http://123.120.138.181:4023/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="影视频道",IPTV动作影院
+http://114.254.94.228:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="影视频道",IPTV动作影院
+http://114.254.24.195:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="影视频道",IPTV动作影院
+http://114.254.249.124:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="影视频道",IPTV动作影院
+http://111.193.62.120:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="影视频道",IPTV动作影院
+http://111.193.149.192:4022/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="影视频道",IPTV动作影院
 http://114.254.33.45:4022/rtp/239.3.1.92:4120
-#EXTINF:-1 group-title="影视频道",IPTV动作影院
-http://114.254.82.219:4022/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="影视频道",IPTV动作影院
 http://114.252.232.186:4022/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="影视频道",IPTV动作影院
 http://114.243.100.102:8821/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="影视频道",IPTV动作影院
 http://111.193.224.202:4022/rtp/239.3.1.92:4120
-#EXTINF:-1 group-title="影视频道",IPTV动作影院
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="影视频道",IPTV动作影院
 http://221.220.129.160:8012/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="影视频道",IPTV动作影院
@@ -2193,19 +2631,25 @@ http://124.64.238.165:7070/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="影视频道",IPTV动作影院
 http://123.113.8.46:8012/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
-http://123.120.129.158:4023/rtp/239.3.1.91:4120
+http://123.120.138.181:4023/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
+http://114.254.94.228:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
+http://114.254.24.195:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
+http://114.254.249.124:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
+http://111.193.62.120:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
+http://111.193.149.192:4022/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
 http://114.254.33.45:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
-http://114.254.82.219:4022/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
 http://114.252.232.186:4022/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
 http://114.243.100.102:8821/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
 http://111.193.224.202:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
 http://221.220.129.160:8012/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
@@ -2223,19 +2667,25 @@ http://124.64.238.165:7070/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="影视频道",IPTV喜剧剧场
 http://123.113.8.46:8012/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="影视频道",IPTV家庭影院
-http://123.120.129.158:4023/rtp/239.3.1.93:4120
+http://123.120.138.181:4023/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="影视频道",IPTV家庭影院
+http://114.254.94.228:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="影视频道",IPTV家庭影院
+http://114.254.24.195:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="影视频道",IPTV家庭影院
+http://114.254.249.124:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="影视频道",IPTV家庭影院
+http://111.193.62.120:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="影视频道",IPTV家庭影院
+http://111.193.149.192:4022/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="影视频道",IPTV家庭影院
 http://114.254.33.45:4022/rtp/239.3.1.93:4120
-#EXTINF:-1 group-title="影视频道",IPTV家庭影院
-http://114.254.82.219:4022/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="影视频道",IPTV家庭影院
 http://114.252.232.186:4022/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="影视频道",IPTV家庭影院
 http://114.243.100.102:8821/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="影视频道",IPTV家庭影院
 http://111.193.224.202:4022/rtp/239.3.1.93:4120
-#EXTINF:-1 group-title="影视频道",IPTV家庭影院
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="影视频道",IPTV家庭影院
 http://221.220.129.160:8012/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="影视频道",IPTV家庭影院
@@ -2253,19 +2703,25 @@ http://124.64.238.165:7070/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="影视频道",IPTV家庭影院
 http://123.113.8.46:8012/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="影视频道",IPTV影视
-http://123.120.129.158:4023/rtp/239.3.1.88:4120
+http://123.120.138.181:4023/rtp/239.3.1.88:4120
+#EXTINF:-1 group-title="影视频道",IPTV影视
+http://114.254.94.228:4022/rtp/239.3.1.88:4120
+#EXTINF:-1 group-title="影视频道",IPTV影视
+http://114.254.24.195:4022/rtp/239.3.1.88:4120
+#EXTINF:-1 group-title="影视频道",IPTV影视
+http://114.254.249.124:4022/rtp/239.3.1.88:4120
+#EXTINF:-1 group-title="影视频道",IPTV影视
+http://111.193.62.120:4022/rtp/239.3.1.88:4120
+#EXTINF:-1 group-title="影视频道",IPTV影视
+http://111.193.149.192:4022/rtp/239.3.1.88:4120
 #EXTINF:-1 group-title="影视频道",IPTV影视
 http://114.254.33.45:4022/rtp/239.3.1.88:4120
-#EXTINF:-1 group-title="影视频道",IPTV影视
-http://114.254.82.219:4022/rtp/239.3.1.88:4120
 #EXTINF:-1 group-title="影视频道",IPTV影视
 http://114.252.232.186:4022/rtp/239.3.1.88:4120
 #EXTINF:-1 group-title="影视频道",IPTV影视
 http://114.243.100.102:8821/rtp/239.3.1.88:4120
 #EXTINF:-1 group-title="影视频道",IPTV影视
 http://111.193.224.202:4022/rtp/239.3.1.88:4120
-#EXTINF:-1 group-title="影视频道",IPTV影视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.88:4120
 #EXTINF:-1 group-title="影视频道",IPTV影视
 http://221.220.129.160:8012/rtp/239.3.1.88:4120
 #EXTINF:-1 group-title="影视频道",IPTV影视
@@ -2283,19 +2739,25 @@ http://124.64.238.165:7070/rtp/239.3.1.88:4120
 #EXTINF:-1 group-title="影视频道",IPTV影视
 http://123.113.8.46:8012/rtp/239.3.1.88:4120
 #EXTINF:-1 group-title="影视频道",IPTV武侠剧场
-http://123.120.129.158:4023/rtp/239.3.1.90:4120
+http://123.120.138.181:4023/rtp/239.3.1.90:4120
+#EXTINF:-1 group-title="影视频道",IPTV武侠剧场
+http://114.254.94.228:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 group-title="影视频道",IPTV武侠剧场
+http://114.254.24.195:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 group-title="影视频道",IPTV武侠剧场
+http://114.254.249.124:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 group-title="影视频道",IPTV武侠剧场
+http://111.193.62.120:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 group-title="影视频道",IPTV武侠剧场
+http://111.193.149.192:4022/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="影视频道",IPTV武侠剧场
 http://114.254.33.45:4022/rtp/239.3.1.90:4120
-#EXTINF:-1 group-title="影视频道",IPTV武侠剧场
-http://114.254.82.219:4022/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="影视频道",IPTV武侠剧场
 http://114.252.232.186:4022/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="影视频道",IPTV武侠剧场
 http://114.243.100.102:8821/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="影视频道",IPTV武侠剧场
 http://111.193.224.202:4022/rtp/239.3.1.90:4120
-#EXTINF:-1 group-title="影视频道",IPTV武侠剧场
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="影视频道",IPTV武侠剧场
 http://221.220.129.160:8012/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="影视频道",IPTV武侠剧场
@@ -2313,19 +2775,25 @@ http://124.64.238.165:7070/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="影视频道",IPTV武侠剧场
 http://123.113.8.46:8012/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="影视频道",IPTV热播剧场
-http://123.120.129.158:4023/rtp/239.3.1.194:9020
+http://123.120.138.181:4023/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="影视频道",IPTV热播剧场
+http://114.254.94.228:4022/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="影视频道",IPTV热播剧场
+http://114.254.24.195:4022/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="影视频道",IPTV热播剧场
+http://114.254.249.124:4022/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="影视频道",IPTV热播剧场
+http://111.193.62.120:4022/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="影视频道",IPTV热播剧场
+http://111.193.149.192:4022/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="影视频道",IPTV热播剧场
 http://114.254.33.45:4022/rtp/239.3.1.194:9020
-#EXTINF:-1 group-title="影视频道",IPTV热播剧场
-http://114.254.82.219:4022/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="影视频道",IPTV热播剧场
 http://114.252.232.186:4022/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="影视频道",IPTV热播剧场
 http://114.243.100.102:8821/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="影视频道",IPTV热播剧场
 http://111.193.224.202:4022/rtp/239.3.1.194:9020
-#EXTINF:-1 group-title="影视频道",IPTV热播剧场
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="影视频道",IPTV热播剧场
 http://221.220.129.160:8012/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="影视频道",IPTV热播剧场
@@ -2343,19 +2811,25 @@ http://124.64.238.165:7070/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="影视频道",IPTV热播剧场
 http://123.113.8.46:8012/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="影视频道",IPTV经典电影
-http://123.120.129.158:4023/rtp/239.3.1.195:9024
+http://123.120.138.181:4023/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="影视频道",IPTV经典电影
+http://114.254.94.228:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="影视频道",IPTV经典电影
+http://114.254.24.195:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="影视频道",IPTV经典电影
+http://114.254.249.124:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="影视频道",IPTV经典电影
+http://111.193.62.120:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="影视频道",IPTV经典电影
+http://111.193.149.192:4022/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="影视频道",IPTV经典电影
 http://114.254.33.45:4022/rtp/239.3.1.195:9024
-#EXTINF:-1 group-title="影视频道",IPTV经典电影
-http://114.254.82.219:4022/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="影视频道",IPTV经典电影
 http://114.252.232.186:4022/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="影视频道",IPTV经典电影
 http://114.243.100.102:8821/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="影视频道",IPTV经典电影
 http://111.193.224.202:4022/rtp/239.3.1.195:9024
-#EXTINF:-1 group-title="影视频道",IPTV经典电影
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="影视频道",IPTV经典电影
 http://221.220.129.160:8012/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="影视频道",IPTV经典电影
@@ -2373,19 +2847,25 @@ http://124.64.238.165:7070/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="影视频道",IPTV经典电影
 http://123.113.8.46:8012/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="影视频道",IPTV都市剧场
-http://123.120.129.158:4023/rtp/239.3.1.67:4120
+http://123.120.138.181:4023/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="影视频道",IPTV都市剧场
+http://114.254.94.228:4022/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="影视频道",IPTV都市剧场
+http://114.254.24.195:4022/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="影视频道",IPTV都市剧场
+http://114.254.249.124:4022/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="影视频道",IPTV都市剧场
+http://111.193.62.120:4022/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="影视频道",IPTV都市剧场
+http://111.193.149.192:4022/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="影视频道",IPTV都市剧场
 http://114.254.33.45:4022/rtp/239.3.1.67:4120
-#EXTINF:-1 group-title="影视频道",IPTV都市剧场
-http://114.254.82.219:4022/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="影视频道",IPTV都市剧场
 http://114.252.232.186:4022/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="影视频道",IPTV都市剧场
 http://114.243.100.102:8821/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="影视频道",IPTV都市剧场
 http://111.193.224.202:4022/rtp/239.3.1.67:4120
-#EXTINF:-1 group-title="影视频道",IPTV都市剧场
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="影视频道",IPTV都市剧场
 http://221.220.129.160:8012/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="影视频道",IPTV都市剧场
@@ -2403,19 +2883,25 @@ http://124.64.238.165:7070/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="影视频道",IPTV都市剧场
 http://123.113.8.46:8012/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="影视频道",北京影视
-http://123.120.129.158:4023/rtp/239.3.1.158:8000
+http://123.120.138.181:4023/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="影视频道",北京影视
+http://114.254.94.228:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="影视频道",北京影视
+http://114.254.24.195:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="影视频道",北京影视
+http://114.254.249.124:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="影视频道",北京影视
+http://111.193.62.120:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="影视频道",北京影视
+http://111.193.149.192:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="影视频道",北京影视
 http://114.254.33.45:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="影视频道",北京影视
-http://114.254.82.219:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="影视频道",北京影视
 http://114.252.232.186:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="影视频道",北京影视
 http://114.243.100.102:8821/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="影视频道",北京影视
 http://111.193.224.202:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="影视频道",北京影视
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="影视频道",北京影视
 http://221.220.129.160:8012/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="影视频道",北京影视
@@ -2433,19 +2919,25 @@ http://124.64.238.165:7070/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="影视频道",北京影视
 http://123.113.8.46:8012/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="影视频道",淘剧场
-http://123.120.129.158:4023/rtp/239.3.1.95:8001
+http://123.120.138.181:4023/rtp/239.3.1.95:8001
+#EXTINF:-1 group-title="影视频道",淘剧场
+http://114.254.94.228:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 group-title="影视频道",淘剧场
+http://114.254.24.195:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 group-title="影视频道",淘剧场
+http://114.254.249.124:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 group-title="影视频道",淘剧场
+http://111.193.62.120:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 group-title="影视频道",淘剧场
+http://111.193.149.192:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="影视频道",淘剧场
 http://114.254.33.45:4022/rtp/239.3.1.95:8001
-#EXTINF:-1 group-title="影视频道",淘剧场
-http://114.254.82.219:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="影视频道",淘剧场
 http://114.252.232.186:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="影视频道",淘剧场
 http://114.243.100.102:8821/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="影视频道",淘剧场
 http://111.193.224.202:4022/rtp/239.3.1.95:8001
-#EXTINF:-1 group-title="影视频道",淘剧场
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="影视频道",淘剧场
 http://221.220.129.160:8012/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="影视频道",淘剧场
@@ -2463,19 +2955,25 @@ http://124.64.238.165:7070/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="影视频道",淘剧场
 http://123.113.8.46:8012/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="影视频道",淘电影
-http://123.120.129.158:4023/rtp/239.3.1.250:8001
+http://123.120.138.181:4023/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="影视频道",淘电影
+http://114.254.94.228:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="影视频道",淘电影
+http://114.254.24.195:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="影视频道",淘电影
+http://114.254.249.124:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="影视频道",淘电影
+http://111.193.62.120:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="影视频道",淘电影
+http://111.193.149.192:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 group-title="影视频道",淘电影
 http://114.254.33.45:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="影视频道",淘电影
-http://114.254.82.219:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 group-title="影视频道",淘电影
 http://114.252.232.186:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 group-title="影视频道",淘电影
 http://114.243.100.102:8821/rtp/239.3.1.250:8001
 #EXTINF:-1 group-title="影视频道",淘电影
 http://111.193.224.202:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="影视频道",淘电影
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 group-title="影视频道",淘电影
 http://221.220.129.160:8012/rtp/239.3.1.250:8001
 #EXTINF:-1 group-title="影视频道",淘电影
@@ -2494,19 +2992,25 @@ http://124.64.238.165:7070/rtp/239.3.1.250:8001
 http://123.113.8.46:8012/rtp/239.3.1.250:8001
 
 #EXTINF:-1 group-title="其他",CGTN
-http://123.120.129.158:4023/rtp/239.3.1.215:4220
+http://123.120.138.181:4023/rtp/239.3.1.215:4220
+#EXTINF:-1 group-title="其他",CGTN
+http://114.254.94.228:4022/rtp/239.3.1.215:4220
+#EXTINF:-1 group-title="其他",CGTN
+http://114.254.24.195:4022/rtp/239.3.1.215:4220
+#EXTINF:-1 group-title="其他",CGTN
+http://114.254.249.124:4022/rtp/239.3.1.215:4220
+#EXTINF:-1 group-title="其他",CGTN
+http://111.193.62.120:4022/rtp/239.3.1.215:4220
+#EXTINF:-1 group-title="其他",CGTN
+http://111.193.149.192:4022/rtp/239.3.1.215:4220
 #EXTINF:-1 group-title="其他",CGTN
 http://114.254.33.45:4022/rtp/239.3.1.215:4220
-#EXTINF:-1 group-title="其他",CGTN
-http://114.254.82.219:4022/rtp/239.3.1.215:4220
 #EXTINF:-1 group-title="其他",CGTN
 http://114.252.232.186:4022/rtp/239.3.1.215:4220
 #EXTINF:-1 group-title="其他",CGTN
 http://114.243.100.102:8821/rtp/239.3.1.215:4220
 #EXTINF:-1 group-title="其他",CGTN
 http://111.193.224.202:4022/rtp/239.3.1.215:4220
-#EXTINF:-1 group-title="其他",CGTN
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.215:4220
 #EXTINF:-1 group-title="其他",CGTN
 http://221.220.129.160:8012/rtp/239.3.1.215:4220
 #EXTINF:-1 group-title="其他",CGTN
@@ -2524,19 +3028,25 @@ http://124.64.238.165:7070/rtp/239.3.1.215:4220
 #EXTINF:-1 group-title="其他",CGTN
 http://123.113.8.46:8012/rtp/239.3.1.215:4220
 #EXTINF:-1 group-title="其他",CGTN俄语
-http://123.120.129.158:4023/rtp/239.3.1.220:4220
+http://123.120.138.181:4023/rtp/239.3.1.220:4220
+#EXTINF:-1 group-title="其他",CGTN俄语
+http://114.254.94.228:4022/rtp/239.3.1.220:4220
+#EXTINF:-1 group-title="其他",CGTN俄语
+http://114.254.24.195:4022/rtp/239.3.1.220:4220
+#EXTINF:-1 group-title="其他",CGTN俄语
+http://114.254.249.124:4022/rtp/239.3.1.220:4220
+#EXTINF:-1 group-title="其他",CGTN俄语
+http://111.193.62.120:4022/rtp/239.3.1.220:4220
+#EXTINF:-1 group-title="其他",CGTN俄语
+http://111.193.149.192:4022/rtp/239.3.1.220:4220
 #EXTINF:-1 group-title="其他",CGTN俄语
 http://114.254.33.45:4022/rtp/239.3.1.220:4220
-#EXTINF:-1 group-title="其他",CGTN俄语
-http://114.254.82.219:4022/rtp/239.3.1.220:4220
 #EXTINF:-1 group-title="其他",CGTN俄语
 http://114.252.232.186:4022/rtp/239.3.1.220:4220
 #EXTINF:-1 group-title="其他",CGTN俄语
 http://114.243.100.102:8821/rtp/239.3.1.220:4220
 #EXTINF:-1 group-title="其他",CGTN俄语
 http://111.193.224.202:4022/rtp/239.3.1.220:4220
-#EXTINF:-1 group-title="其他",CGTN俄语
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.220:4220
 #EXTINF:-1 group-title="其他",CGTN俄语
 http://221.220.129.160:8012/rtp/239.3.1.220:4220
 #EXTINF:-1 group-title="其他",CGTN俄语
@@ -2554,19 +3064,25 @@ http://124.64.238.165:7070/rtp/239.3.1.220:4220
 #EXTINF:-1 group-title="其他",CGTN俄语
 http://123.113.8.46:8012/rtp/239.3.1.220:4220
 #EXTINF:-1 group-title="其他",CGTN法语
-http://123.120.129.158:4023/rtp/239.3.1.218:4220
+http://123.120.138.181:4023/rtp/239.3.1.218:4220
+#EXTINF:-1 group-title="其他",CGTN法语
+http://114.254.94.228:4022/rtp/239.3.1.218:4220
+#EXTINF:-1 group-title="其他",CGTN法语
+http://114.254.24.195:4022/rtp/239.3.1.218:4220
+#EXTINF:-1 group-title="其他",CGTN法语
+http://114.254.249.124:4022/rtp/239.3.1.218:4220
+#EXTINF:-1 group-title="其他",CGTN法语
+http://111.193.62.120:4022/rtp/239.3.1.218:4220
+#EXTINF:-1 group-title="其他",CGTN法语
+http://111.193.149.192:4022/rtp/239.3.1.218:4220
 #EXTINF:-1 group-title="其他",CGTN法语
 http://114.254.33.45:4022/rtp/239.3.1.218:4220
-#EXTINF:-1 group-title="其他",CGTN法语
-http://114.254.82.219:4022/rtp/239.3.1.218:4220
 #EXTINF:-1 group-title="其他",CGTN法语
 http://114.252.232.186:4022/rtp/239.3.1.218:4220
 #EXTINF:-1 group-title="其他",CGTN法语
 http://114.243.100.102:8821/rtp/239.3.1.218:4220
 #EXTINF:-1 group-title="其他",CGTN法语
 http://111.193.224.202:4022/rtp/239.3.1.218:4220
-#EXTINF:-1 group-title="其他",CGTN法语
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.218:4220
 #EXTINF:-1 group-title="其他",CGTN法语
 http://221.220.129.160:8012/rtp/239.3.1.218:4220
 #EXTINF:-1 group-title="其他",CGTN法语
@@ -2584,19 +3100,25 @@ http://124.64.238.165:7070/rtp/239.3.1.218:4220
 #EXTINF:-1 group-title="其他",CGTN法语
 http://123.113.8.46:8012/rtp/239.3.1.218:4220
 #EXTINF:-1 group-title="其他",CGTN纪录
-http://123.120.129.158:4023/rtp/239.3.1.216:4220
+http://123.120.138.181:4023/rtp/239.3.1.216:4220
+#EXTINF:-1 group-title="其他",CGTN纪录
+http://114.254.94.228:4022/rtp/239.3.1.216:4220
+#EXTINF:-1 group-title="其他",CGTN纪录
+http://114.254.24.195:4022/rtp/239.3.1.216:4220
+#EXTINF:-1 group-title="其他",CGTN纪录
+http://114.254.249.124:4022/rtp/239.3.1.216:4220
+#EXTINF:-1 group-title="其他",CGTN纪录
+http://111.193.62.120:4022/rtp/239.3.1.216:4220
+#EXTINF:-1 group-title="其他",CGTN纪录
+http://111.193.149.192:4022/rtp/239.3.1.216:4220
 #EXTINF:-1 group-title="其他",CGTN纪录
 http://114.254.33.45:4022/rtp/239.3.1.216:4220
-#EXTINF:-1 group-title="其他",CGTN纪录
-http://114.254.82.219:4022/rtp/239.3.1.216:4220
 #EXTINF:-1 group-title="其他",CGTN纪录
 http://114.252.232.186:4022/rtp/239.3.1.216:4220
 #EXTINF:-1 group-title="其他",CGTN纪录
 http://114.243.100.102:8821/rtp/239.3.1.216:4220
 #EXTINF:-1 group-title="其他",CGTN纪录
 http://111.193.224.202:4022/rtp/239.3.1.216:4220
-#EXTINF:-1 group-title="其他",CGTN纪录
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.216:4220
 #EXTINF:-1 group-title="其他",CGTN纪录
 http://221.220.129.160:8012/rtp/239.3.1.216:4220
 #EXTINF:-1 group-title="其他",CGTN纪录
@@ -2614,19 +3136,25 @@ http://124.64.238.165:7070/rtp/239.3.1.216:4220
 #EXTINF:-1 group-title="其他",CGTN纪录
 http://123.113.8.46:8012/rtp/239.3.1.216:4220
 #EXTINF:-1 group-title="其他",CGTN西语
-http://123.120.129.158:4023/rtp/239.3.1.217:4220
+http://123.120.138.181:4023/rtp/239.3.1.217:4220
+#EXTINF:-1 group-title="其他",CGTN西语
+http://114.254.94.228:4022/rtp/239.3.1.217:4220
+#EXTINF:-1 group-title="其他",CGTN西语
+http://114.254.24.195:4022/rtp/239.3.1.217:4220
+#EXTINF:-1 group-title="其他",CGTN西语
+http://114.254.249.124:4022/rtp/239.3.1.217:4220
+#EXTINF:-1 group-title="其他",CGTN西语
+http://111.193.62.120:4022/rtp/239.3.1.217:4220
+#EXTINF:-1 group-title="其他",CGTN西语
+http://111.193.149.192:4022/rtp/239.3.1.217:4220
 #EXTINF:-1 group-title="其他",CGTN西语
 http://114.254.33.45:4022/rtp/239.3.1.217:4220
-#EXTINF:-1 group-title="其他",CGTN西语
-http://114.254.82.219:4022/rtp/239.3.1.217:4220
 #EXTINF:-1 group-title="其他",CGTN西语
 http://114.252.232.186:4022/rtp/239.3.1.217:4220
 #EXTINF:-1 group-title="其他",CGTN西语
 http://114.243.100.102:8821/rtp/239.3.1.217:4220
 #EXTINF:-1 group-title="其他",CGTN西语
 http://111.193.224.202:4022/rtp/239.3.1.217:4220
-#EXTINF:-1 group-title="其他",CGTN西语
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.217:4220
 #EXTINF:-1 group-title="其他",CGTN西语
 http://221.220.129.160:8012/rtp/239.3.1.217:4220
 #EXTINF:-1 group-title="其他",CGTN西语
@@ -2644,19 +3172,25 @@ http://124.64.238.165:7070/rtp/239.3.1.217:4220
 #EXTINF:-1 group-title="其他",CGTN西语
 http://123.113.8.46:8012/rtp/239.3.1.217:4220
 #EXTINF:-1 group-title="其他",CGTN阿语
-http://123.120.129.158:4023/rtp/239.3.1.219:4220
+http://123.120.138.181:4023/rtp/239.3.1.219:4220
+#EXTINF:-1 group-title="其他",CGTN阿语
+http://114.254.94.228:4022/rtp/239.3.1.219:4220
+#EXTINF:-1 group-title="其他",CGTN阿语
+http://114.254.24.195:4022/rtp/239.3.1.219:4220
+#EXTINF:-1 group-title="其他",CGTN阿语
+http://114.254.249.124:4022/rtp/239.3.1.219:4220
+#EXTINF:-1 group-title="其他",CGTN阿语
+http://111.193.62.120:4022/rtp/239.3.1.219:4220
+#EXTINF:-1 group-title="其他",CGTN阿语
+http://111.193.149.192:4022/rtp/239.3.1.219:4220
 #EXTINF:-1 group-title="其他",CGTN阿语
 http://114.254.33.45:4022/rtp/239.3.1.219:4220
-#EXTINF:-1 group-title="其他",CGTN阿语
-http://114.254.82.219:4022/rtp/239.3.1.219:4220
 #EXTINF:-1 group-title="其他",CGTN阿语
 http://114.252.232.186:4022/rtp/239.3.1.219:4220
 #EXTINF:-1 group-title="其他",CGTN阿语
 http://114.243.100.102:8821/rtp/239.3.1.219:4220
 #EXTINF:-1 group-title="其他",CGTN阿语
 http://111.193.224.202:4022/rtp/239.3.1.219:4220
-#EXTINF:-1 group-title="其他",CGTN阿语
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.219:4220
 #EXTINF:-1 group-title="其他",CGTN阿语
 http://221.220.129.160:8012/rtp/239.3.1.219:4220
 #EXTINF:-1 group-title="其他",CGTN阿语
@@ -2674,19 +3208,25 @@ http://124.64.238.165:7070/rtp/239.3.1.219:4220
 #EXTINF:-1 group-title="其他",CGTN阿语
 http://123.113.8.46:8012/rtp/239.3.1.219:4220
 #EXTINF:-1 group-title="其他",IPTV光影
-http://123.120.129.158:4023/rtp/239.3.1.84:4120
+http://123.120.138.181:4023/rtp/239.3.1.84:4120
+#EXTINF:-1 group-title="其他",IPTV光影
+http://114.254.94.228:4022/rtp/239.3.1.84:4120
+#EXTINF:-1 group-title="其他",IPTV光影
+http://114.254.24.195:4022/rtp/239.3.1.84:4120
+#EXTINF:-1 group-title="其他",IPTV光影
+http://114.254.249.124:4022/rtp/239.3.1.84:4120
+#EXTINF:-1 group-title="其他",IPTV光影
+http://111.193.62.120:4022/rtp/239.3.1.84:4120
+#EXTINF:-1 group-title="其他",IPTV光影
+http://111.193.149.192:4022/rtp/239.3.1.84:4120
 #EXTINF:-1 group-title="其他",IPTV光影
 http://114.254.33.45:4022/rtp/239.3.1.84:4120
-#EXTINF:-1 group-title="其他",IPTV光影
-http://114.254.82.219:4022/rtp/239.3.1.84:4120
 #EXTINF:-1 group-title="其他",IPTV光影
 http://114.252.232.186:4022/rtp/239.3.1.84:4120
 #EXTINF:-1 group-title="其他",IPTV光影
 http://114.243.100.102:8821/rtp/239.3.1.84:4120
 #EXTINF:-1 group-title="其他",IPTV光影
 http://111.193.224.202:4022/rtp/239.3.1.84:4120
-#EXTINF:-1 group-title="其他",IPTV光影
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.84:4120
 #EXTINF:-1 group-title="其他",IPTV光影
 http://221.220.129.160:8012/rtp/239.3.1.84:4120
 #EXTINF:-1 group-title="其他",IPTV光影
@@ -2704,19 +3244,25 @@ http://124.64.238.165:7070/rtp/239.3.1.84:4120
 #EXTINF:-1 group-title="其他",IPTV光影
 http://123.113.8.46:8012/rtp/239.3.1.84:4120
 #EXTINF:-1 group-title="其他",IPTV军事
-http://123.120.129.158:4023/rtp/239.3.1.76:4120
+http://123.120.138.181:4023/rtp/239.3.1.76:4120
+#EXTINF:-1 group-title="其他",IPTV军事
+http://114.254.94.228:4022/rtp/239.3.1.76:4120
+#EXTINF:-1 group-title="其他",IPTV军事
+http://114.254.24.195:4022/rtp/239.3.1.76:4120
+#EXTINF:-1 group-title="其他",IPTV军事
+http://114.254.249.124:4022/rtp/239.3.1.76:4120
+#EXTINF:-1 group-title="其他",IPTV军事
+http://111.193.62.120:4022/rtp/239.3.1.76:4120
+#EXTINF:-1 group-title="其他",IPTV军事
+http://111.193.149.192:4022/rtp/239.3.1.76:4120
 #EXTINF:-1 group-title="其他",IPTV军事
 http://114.254.33.45:4022/rtp/239.3.1.76:4120
-#EXTINF:-1 group-title="其他",IPTV军事
-http://114.254.82.219:4022/rtp/239.3.1.76:4120
 #EXTINF:-1 group-title="其他",IPTV军事
 http://114.252.232.186:4022/rtp/239.3.1.76:4120
 #EXTINF:-1 group-title="其他",IPTV军事
 http://114.243.100.102:8821/rtp/239.3.1.76:4120
 #EXTINF:-1 group-title="其他",IPTV军事
 http://111.193.224.202:4022/rtp/239.3.1.76:4120
-#EXTINF:-1 group-title="其他",IPTV军事
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.76:4120
 #EXTINF:-1 group-title="其他",IPTV军事
 http://221.220.129.160:8012/rtp/239.3.1.76:4120
 #EXTINF:-1 group-title="其他",IPTV军事
@@ -2734,19 +3280,25 @@ http://124.64.238.165:7070/rtp/239.3.1.76:4120
 #EXTINF:-1 group-title="其他",IPTV军事
 http://123.113.8.46:8012/rtp/239.3.1.76:4120
 #EXTINF:-1 group-title="其他",IPTV动画
-http://123.120.129.158:4023/rtp/239.3.1.80:4120
+http://123.120.138.181:4023/rtp/239.3.1.80:4120
+#EXTINF:-1 group-title="其他",IPTV动画
+http://114.254.94.228:4022/rtp/239.3.1.80:4120
+#EXTINF:-1 group-title="其他",IPTV动画
+http://114.254.24.195:4022/rtp/239.3.1.80:4120
+#EXTINF:-1 group-title="其他",IPTV动画
+http://114.254.249.124:4022/rtp/239.3.1.80:4120
+#EXTINF:-1 group-title="其他",IPTV动画
+http://111.193.62.120:4022/rtp/239.3.1.80:4120
+#EXTINF:-1 group-title="其他",IPTV动画
+http://111.193.149.192:4022/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="其他",IPTV动画
 http://114.254.33.45:4022/rtp/239.3.1.80:4120
-#EXTINF:-1 group-title="其他",IPTV动画
-http://114.254.82.219:4022/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="其他",IPTV动画
 http://114.252.232.186:4022/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="其他",IPTV动画
 http://114.243.100.102:8821/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="其他",IPTV动画
 http://111.193.224.202:4022/rtp/239.3.1.80:4120
-#EXTINF:-1 group-title="其他",IPTV动画
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="其他",IPTV动画
 http://221.220.129.160:8012/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="其他",IPTV动画
@@ -2764,19 +3316,25 @@ http://124.64.238.165:7070/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="其他",IPTV动画
 http://123.113.8.46:8012/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="其他",IPTV国学
-http://123.120.129.158:4023/rtp/239.3.1.77:4120
+http://123.120.138.181:4023/rtp/239.3.1.77:4120
+#EXTINF:-1 group-title="其他",IPTV国学
+http://114.254.94.228:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 group-title="其他",IPTV国学
+http://114.254.24.195:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 group-title="其他",IPTV国学
+http://114.254.249.124:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 group-title="其他",IPTV国学
+http://111.193.62.120:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 group-title="其他",IPTV国学
+http://111.193.149.192:4022/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="其他",IPTV国学
 http://114.254.33.45:4022/rtp/239.3.1.77:4120
-#EXTINF:-1 group-title="其他",IPTV国学
-http://114.254.82.219:4022/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="其他",IPTV国学
 http://114.252.232.186:4022/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="其他",IPTV国学
 http://114.243.100.102:8821/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="其他",IPTV国学
 http://111.193.224.202:4022/rtp/239.3.1.77:4120
-#EXTINF:-1 group-title="其他",IPTV国学
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="其他",IPTV国学
 http://221.220.129.160:8012/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="其他",IPTV国学
@@ -2794,19 +3352,25 @@ http://124.64.238.165:7070/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="其他",IPTV国学
 http://123.113.8.46:8012/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="其他",IPTV地理
-http://123.120.129.158:4023/rtp/239.3.1.71:4120
+http://123.120.138.181:4023/rtp/239.3.1.71:4120
+#EXTINF:-1 group-title="其他",IPTV地理
+http://114.254.94.228:4022/rtp/239.3.1.71:4120
+#EXTINF:-1 group-title="其他",IPTV地理
+http://114.254.24.195:4022/rtp/239.3.1.71:4120
+#EXTINF:-1 group-title="其他",IPTV地理
+http://114.254.249.124:4022/rtp/239.3.1.71:4120
+#EXTINF:-1 group-title="其他",IPTV地理
+http://111.193.62.120:4022/rtp/239.3.1.71:4120
+#EXTINF:-1 group-title="其他",IPTV地理
+http://111.193.149.192:4022/rtp/239.3.1.71:4120
 #EXTINF:-1 group-title="其他",IPTV地理
 http://114.254.33.45:4022/rtp/239.3.1.71:4120
-#EXTINF:-1 group-title="其他",IPTV地理
-http://114.254.82.219:4022/rtp/239.3.1.71:4120
 #EXTINF:-1 group-title="其他",IPTV地理
 http://114.252.232.186:4022/rtp/239.3.1.71:4120
 #EXTINF:-1 group-title="其他",IPTV地理
 http://114.243.100.102:8821/rtp/239.3.1.71:4120
 #EXTINF:-1 group-title="其他",IPTV地理
 http://111.193.224.202:4022/rtp/239.3.1.71:4120
-#EXTINF:-1 group-title="其他",IPTV地理
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.71:4120
 #EXTINF:-1 group-title="其他",IPTV地理
 http://221.220.129.160:8012/rtp/239.3.1.71:4120
 #EXTINF:-1 group-title="其他",IPTV地理
@@ -2824,19 +3388,25 @@ http://124.64.238.165:7070/rtp/239.3.1.71:4120
 #EXTINF:-1 group-title="其他",IPTV地理
 http://123.113.8.46:8012/rtp/239.3.1.71:4120
 #EXTINF:-1 group-title="其他",IPTV墨宝
-http://123.120.129.158:4023/rtp/239.3.1.83:4120
+http://123.120.138.181:4023/rtp/239.3.1.83:4120
+#EXTINF:-1 group-title="其他",IPTV墨宝
+http://114.254.94.228:4022/rtp/239.3.1.83:4120
+#EXTINF:-1 group-title="其他",IPTV墨宝
+http://114.254.24.195:4022/rtp/239.3.1.83:4120
+#EXTINF:-1 group-title="其他",IPTV墨宝
+http://114.254.249.124:4022/rtp/239.3.1.83:4120
+#EXTINF:-1 group-title="其他",IPTV墨宝
+http://111.193.62.120:4022/rtp/239.3.1.83:4120
+#EXTINF:-1 group-title="其他",IPTV墨宝
+http://111.193.149.192:4022/rtp/239.3.1.83:4120
 #EXTINF:-1 group-title="其他",IPTV墨宝
 http://114.254.33.45:4022/rtp/239.3.1.83:4120
-#EXTINF:-1 group-title="其他",IPTV墨宝
-http://114.254.82.219:4022/rtp/239.3.1.83:4120
 #EXTINF:-1 group-title="其他",IPTV墨宝
 http://114.252.232.186:4022/rtp/239.3.1.83:4120
 #EXTINF:-1 group-title="其他",IPTV墨宝
 http://114.243.100.102:8821/rtp/239.3.1.83:4120
 #EXTINF:-1 group-title="其他",IPTV墨宝
 http://111.193.224.202:4022/rtp/239.3.1.83:4120
-#EXTINF:-1 group-title="其他",IPTV墨宝
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.83:4120
 #EXTINF:-1 group-title="其他",IPTV墨宝
 http://221.220.129.160:8012/rtp/239.3.1.83:4120
 #EXTINF:-1 group-title="其他",IPTV墨宝
@@ -2854,19 +3424,25 @@ http://124.64.238.165:7070/rtp/239.3.1.83:4120
 #EXTINF:-1 group-title="其他",IPTV墨宝
 http://123.113.8.46:8012/rtp/239.3.1.83:4120
 #EXTINF:-1 group-title="其他",IPTV好学生
-http://123.120.129.158:4023/rtp/239.3.1.81:4120
+http://123.120.138.181:4023/rtp/239.3.1.81:4120
+#EXTINF:-1 group-title="其他",IPTV好学生
+http://114.254.94.228:4022/rtp/239.3.1.81:4120
+#EXTINF:-1 group-title="其他",IPTV好学生
+http://114.254.24.195:4022/rtp/239.3.1.81:4120
+#EXTINF:-1 group-title="其他",IPTV好学生
+http://114.254.249.124:4022/rtp/239.3.1.81:4120
+#EXTINF:-1 group-title="其他",IPTV好学生
+http://111.193.62.120:4022/rtp/239.3.1.81:4120
+#EXTINF:-1 group-title="其他",IPTV好学生
+http://111.193.149.192:4022/rtp/239.3.1.81:4120
 #EXTINF:-1 group-title="其他",IPTV好学生
 http://114.254.33.45:4022/rtp/239.3.1.81:4120
-#EXTINF:-1 group-title="其他",IPTV好学生
-http://114.254.82.219:4022/rtp/239.3.1.81:4120
 #EXTINF:-1 group-title="其他",IPTV好学生
 http://114.252.232.186:4022/rtp/239.3.1.81:4120
 #EXTINF:-1 group-title="其他",IPTV好学生
 http://114.243.100.102:8821/rtp/239.3.1.81:4120
 #EXTINF:-1 group-title="其他",IPTV好学生
 http://111.193.224.202:4022/rtp/239.3.1.81:4120
-#EXTINF:-1 group-title="其他",IPTV好学生
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.81:4120
 #EXTINF:-1 group-title="其他",IPTV好学生
 http://221.220.129.160:8012/rtp/239.3.1.81:4120
 #EXTINF:-1 group-title="其他",IPTV好学生
@@ -2884,19 +3460,25 @@ http://124.64.238.165:7070/rtp/239.3.1.81:4120
 #EXTINF:-1 group-title="其他",IPTV好学生
 http://123.113.8.46:8012/rtp/239.3.1.81:4120
 #EXTINF:-1 group-title="其他",IPTV少儿动画
-http://123.120.129.158:4023/rtp/239.3.1.199:9000
+http://123.120.138.181:4023/rtp/239.3.1.199:9000
+#EXTINF:-1 group-title="其他",IPTV少儿动画
+http://114.254.94.228:4022/rtp/239.3.1.199:9000
+#EXTINF:-1 group-title="其他",IPTV少儿动画
+http://114.254.24.195:4022/rtp/239.3.1.199:9000
+#EXTINF:-1 group-title="其他",IPTV少儿动画
+http://114.254.249.124:4022/rtp/239.3.1.199:9000
+#EXTINF:-1 group-title="其他",IPTV少儿动画
+http://111.193.62.120:4022/rtp/239.3.1.199:9000
+#EXTINF:-1 group-title="其他",IPTV少儿动画
+http://111.193.149.192:4022/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="其他",IPTV少儿动画
 http://114.254.33.45:4022/rtp/239.3.1.199:9000
-#EXTINF:-1 group-title="其他",IPTV少儿动画
-http://114.254.82.219:4022/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="其他",IPTV少儿动画
 http://114.252.232.186:4022/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="其他",IPTV少儿动画
 http://114.243.100.102:8821/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="其他",IPTV少儿动画
 http://111.193.224.202:4022/rtp/239.3.1.199:9000
-#EXTINF:-1 group-title="其他",IPTV少儿动画
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="其他",IPTV少儿动画
 http://221.220.129.160:8012/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="其他",IPTV少儿动画
@@ -2914,19 +3496,25 @@ http://124.64.238.165:7070/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="其他",IPTV少儿动画
 http://123.113.8.46:8012/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="其他",IPTV戏曲
-http://123.120.129.158:4023/rtp/239.3.1.78:4120
+http://123.120.138.181:4023/rtp/239.3.1.78:4120
+#EXTINF:-1 group-title="其他",IPTV戏曲
+http://114.254.94.228:4022/rtp/239.3.1.78:4120
+#EXTINF:-1 group-title="其他",IPTV戏曲
+http://114.254.24.195:4022/rtp/239.3.1.78:4120
+#EXTINF:-1 group-title="其他",IPTV戏曲
+http://114.254.249.124:4022/rtp/239.3.1.78:4120
+#EXTINF:-1 group-title="其他",IPTV戏曲
+http://111.193.62.120:4022/rtp/239.3.1.78:4120
+#EXTINF:-1 group-title="其他",IPTV戏曲
+http://111.193.149.192:4022/rtp/239.3.1.78:4120
 #EXTINF:-1 group-title="其他",IPTV戏曲
 http://114.254.33.45:4022/rtp/239.3.1.78:4120
-#EXTINF:-1 group-title="其他",IPTV戏曲
-http://114.254.82.219:4022/rtp/239.3.1.78:4120
 #EXTINF:-1 group-title="其他",IPTV戏曲
 http://114.252.232.186:4022/rtp/239.3.1.78:4120
 #EXTINF:-1 group-title="其他",IPTV戏曲
 http://114.243.100.102:8821/rtp/239.3.1.78:4120
 #EXTINF:-1 group-title="其他",IPTV戏曲
 http://111.193.224.202:4022/rtp/239.3.1.78:4120
-#EXTINF:-1 group-title="其他",IPTV戏曲
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.78:4120
 #EXTINF:-1 group-title="其他",IPTV戏曲
 http://221.220.129.160:8012/rtp/239.3.1.78:4120
 #EXTINF:-1 group-title="其他",IPTV戏曲
@@ -2944,19 +3532,25 @@ http://124.64.238.165:7070/rtp/239.3.1.78:4120
 #EXTINF:-1 group-title="其他",IPTV戏曲
 http://123.113.8.46:8012/rtp/239.3.1.78:4120
 #EXTINF:-1 group-title="其他",IPTV早教
-http://123.120.129.158:4023/rtp/239.3.1.79:4120
+http://123.120.138.181:4023/rtp/239.3.1.79:4120
+#EXTINF:-1 group-title="其他",IPTV早教
+http://114.254.94.228:4022/rtp/239.3.1.79:4120
+#EXTINF:-1 group-title="其他",IPTV早教
+http://114.254.24.195:4022/rtp/239.3.1.79:4120
+#EXTINF:-1 group-title="其他",IPTV早教
+http://114.254.249.124:4022/rtp/239.3.1.79:4120
+#EXTINF:-1 group-title="其他",IPTV早教
+http://111.193.62.120:4022/rtp/239.3.1.79:4120
+#EXTINF:-1 group-title="其他",IPTV早教
+http://111.193.149.192:4022/rtp/239.3.1.79:4120
 #EXTINF:-1 group-title="其他",IPTV早教
 http://114.254.33.45:4022/rtp/239.3.1.79:4120
-#EXTINF:-1 group-title="其他",IPTV早教
-http://114.254.82.219:4022/rtp/239.3.1.79:4120
 #EXTINF:-1 group-title="其他",IPTV早教
 http://114.252.232.186:4022/rtp/239.3.1.79:4120
 #EXTINF:-1 group-title="其他",IPTV早教
 http://114.243.100.102:8821/rtp/239.3.1.79:4120
 #EXTINF:-1 group-title="其他",IPTV早教
 http://111.193.224.202:4022/rtp/239.3.1.79:4120
-#EXTINF:-1 group-title="其他",IPTV早教
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.79:4120
 #EXTINF:-1 group-title="其他",IPTV早教
 http://221.220.129.160:8012/rtp/239.3.1.79:4120
 #EXTINF:-1 group-title="其他",IPTV早教
@@ -2974,19 +3568,25 @@ http://124.64.238.165:7070/rtp/239.3.1.79:4120
 #EXTINF:-1 group-title="其他",IPTV早教
 http://123.113.8.46:8012/rtp/239.3.1.79:4120
 #EXTINF:-1 group-title="其他",IPTV星影
-http://123.120.129.158:4023/rtp/239.3.1.94:4120
+http://123.120.138.181:4023/rtp/239.3.1.94:4120
+#EXTINF:-1 group-title="其他",IPTV星影
+http://114.254.94.228:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 group-title="其他",IPTV星影
+http://114.254.24.195:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 group-title="其他",IPTV星影
+http://114.254.249.124:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 group-title="其他",IPTV星影
+http://111.193.62.120:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 group-title="其他",IPTV星影
+http://111.193.149.192:4022/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="其他",IPTV星影
 http://114.254.33.45:4022/rtp/239.3.1.94:4120
-#EXTINF:-1 group-title="其他",IPTV星影
-http://114.254.82.219:4022/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="其他",IPTV星影
 http://114.252.232.186:4022/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="其他",IPTV星影
 http://114.243.100.102:8821/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="其他",IPTV星影
 http://111.193.224.202:4022/rtp/239.3.1.94:4120
-#EXTINF:-1 group-title="其他",IPTV星影
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="其他",IPTV星影
 http://221.220.129.160:8012/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="其他",IPTV星影
@@ -3004,19 +3604,25 @@ http://124.64.238.165:7070/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="其他",IPTV星影
 http://123.113.8.46:8012/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="其他",IPTV武术
-http://123.120.129.158:4023/rtp/239.3.1.87:4120
+http://123.120.138.181:4023/rtp/239.3.1.87:4120
+#EXTINF:-1 group-title="其他",IPTV武术
+http://114.254.94.228:4022/rtp/239.3.1.87:4120
+#EXTINF:-1 group-title="其他",IPTV武术
+http://114.254.24.195:4022/rtp/239.3.1.87:4120
+#EXTINF:-1 group-title="其他",IPTV武术
+http://114.254.249.124:4022/rtp/239.3.1.87:4120
+#EXTINF:-1 group-title="其他",IPTV武术
+http://111.193.62.120:4022/rtp/239.3.1.87:4120
+#EXTINF:-1 group-title="其他",IPTV武术
+http://111.193.149.192:4022/rtp/239.3.1.87:4120
 #EXTINF:-1 group-title="其他",IPTV武术
 http://114.254.33.45:4022/rtp/239.3.1.87:4120
-#EXTINF:-1 group-title="其他",IPTV武术
-http://114.254.82.219:4022/rtp/239.3.1.87:4120
 #EXTINF:-1 group-title="其他",IPTV武术
 http://114.252.232.186:4022/rtp/239.3.1.87:4120
 #EXTINF:-1 group-title="其他",IPTV武术
 http://114.243.100.102:8821/rtp/239.3.1.87:4120
 #EXTINF:-1 group-title="其他",IPTV武术
 http://111.193.224.202:4022/rtp/239.3.1.87:4120
-#EXTINF:-1 group-title="其他",IPTV武术
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.87:4120
 #EXTINF:-1 group-title="其他",IPTV武术
 http://221.220.129.160:8012/rtp/239.3.1.87:4120
 #EXTINF:-1 group-title="其他",IPTV武术
@@ -3034,19 +3640,25 @@ http://124.64.238.165:7070/rtp/239.3.1.87:4120
 #EXTINF:-1 group-title="其他",IPTV武术
 http://123.113.8.46:8012/rtp/239.3.1.87:4120
 #EXTINF:-1 group-title="其他",IPTV精选
-http://123.120.129.158:4023/rtp/239.3.1.74:4120
+http://123.120.138.181:4023/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="其他",IPTV精选
+http://114.254.94.228:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="其他",IPTV精选
+http://114.254.24.195:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="其他",IPTV精选
+http://114.254.249.124:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="其他",IPTV精选
+http://111.193.62.120:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="其他",IPTV精选
+http://111.193.149.192:4022/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="其他",IPTV精选
 http://114.254.33.45:4022/rtp/239.3.1.74:4120
-#EXTINF:-1 group-title="其他",IPTV精选
-http://114.254.82.219:4022/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="其他",IPTV精选
 http://114.252.232.186:4022/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="其他",IPTV精选
 http://114.243.100.102:8821/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="其他",IPTV精选
 http://111.193.224.202:4022/rtp/239.3.1.74:4120
-#EXTINF:-1 group-title="其他",IPTV精选
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="其他",IPTV精选
 http://221.220.129.160:8012/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="其他",IPTV精选
@@ -3064,19 +3676,25 @@ http://124.64.238.165:7070/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="其他",IPTV精选
 http://123.113.8.46:8012/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="其他",IPTV美人
-http://123.120.129.158:4023/rtp/239.3.1.73:4120
+http://123.120.138.181:4023/rtp/239.3.1.73:4120
+#EXTINF:-1 group-title="其他",IPTV美人
+http://114.254.94.228:4022/rtp/239.3.1.73:4120
+#EXTINF:-1 group-title="其他",IPTV美人
+http://114.254.24.195:4022/rtp/239.3.1.73:4120
+#EXTINF:-1 group-title="其他",IPTV美人
+http://114.254.249.124:4022/rtp/239.3.1.73:4120
+#EXTINF:-1 group-title="其他",IPTV美人
+http://111.193.62.120:4022/rtp/239.3.1.73:4120
+#EXTINF:-1 group-title="其他",IPTV美人
+http://111.193.149.192:4022/rtp/239.3.1.73:4120
 #EXTINF:-1 group-title="其他",IPTV美人
 http://114.254.33.45:4022/rtp/239.3.1.73:4120
-#EXTINF:-1 group-title="其他",IPTV美人
-http://114.254.82.219:4022/rtp/239.3.1.73:4120
 #EXTINF:-1 group-title="其他",IPTV美人
 http://114.252.232.186:4022/rtp/239.3.1.73:4120
 #EXTINF:-1 group-title="其他",IPTV美人
 http://114.243.100.102:8821/rtp/239.3.1.73:4120
 #EXTINF:-1 group-title="其他",IPTV美人
 http://111.193.224.202:4022/rtp/239.3.1.73:4120
-#EXTINF:-1 group-title="其他",IPTV美人
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.73:4120
 #EXTINF:-1 group-title="其他",IPTV美人
 http://221.220.129.160:8012/rtp/239.3.1.73:4120
 #EXTINF:-1 group-title="其他",IPTV美人
@@ -3094,19 +3712,25 @@ http://124.64.238.165:7070/rtp/239.3.1.73:4120
 #EXTINF:-1 group-title="其他",IPTV美人
 http://123.113.8.46:8012/rtp/239.3.1.73:4120
 #EXTINF:-1 group-title="其他",IPTV美妆
-http://123.120.129.158:4023/rtp/239.3.1.72:4120
+http://123.120.138.181:4023/rtp/239.3.1.72:4120
+#EXTINF:-1 group-title="其他",IPTV美妆
+http://114.254.94.228:4022/rtp/239.3.1.72:4120
+#EXTINF:-1 group-title="其他",IPTV美妆
+http://114.254.24.195:4022/rtp/239.3.1.72:4120
+#EXTINF:-1 group-title="其他",IPTV美妆
+http://114.254.249.124:4022/rtp/239.3.1.72:4120
+#EXTINF:-1 group-title="其他",IPTV美妆
+http://111.193.62.120:4022/rtp/239.3.1.72:4120
+#EXTINF:-1 group-title="其他",IPTV美妆
+http://111.193.149.192:4022/rtp/239.3.1.72:4120
 #EXTINF:-1 group-title="其他",IPTV美妆
 http://114.254.33.45:4022/rtp/239.3.1.72:4120
-#EXTINF:-1 group-title="其他",IPTV美妆
-http://114.254.82.219:4022/rtp/239.3.1.72:4120
 #EXTINF:-1 group-title="其他",IPTV美妆
 http://114.252.232.186:4022/rtp/239.3.1.72:4120
 #EXTINF:-1 group-title="其他",IPTV美妆
 http://114.243.100.102:8821/rtp/239.3.1.72:4120
 #EXTINF:-1 group-title="其他",IPTV美妆
 http://111.193.224.202:4022/rtp/239.3.1.72:4120
-#EXTINF:-1 group-title="其他",IPTV美妆
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.72:4120
 #EXTINF:-1 group-title="其他",IPTV美妆
 http://221.220.129.160:8012/rtp/239.3.1.72:4120
 #EXTINF:-1 group-title="其他",IPTV美妆
@@ -3124,19 +3748,25 @@ http://124.64.238.165:7070/rtp/239.3.1.72:4120
 #EXTINF:-1 group-title="其他",IPTV美妆
 http://123.113.8.46:8012/rtp/239.3.1.72:4120
 #EXTINF:-1 group-title="其他",IPTV解密
-http://123.120.129.158:4023/rtp/239.3.1.75:4120
+http://123.120.138.181:4023/rtp/239.3.1.75:4120
+#EXTINF:-1 group-title="其他",IPTV解密
+http://114.254.94.228:4022/rtp/239.3.1.75:4120
+#EXTINF:-1 group-title="其他",IPTV解密
+http://114.254.24.195:4022/rtp/239.3.1.75:4120
+#EXTINF:-1 group-title="其他",IPTV解密
+http://114.254.249.124:4022/rtp/239.3.1.75:4120
+#EXTINF:-1 group-title="其他",IPTV解密
+http://111.193.62.120:4022/rtp/239.3.1.75:4120
+#EXTINF:-1 group-title="其他",IPTV解密
+http://111.193.149.192:4022/rtp/239.3.1.75:4120
 #EXTINF:-1 group-title="其他",IPTV解密
 http://114.254.33.45:4022/rtp/239.3.1.75:4120
-#EXTINF:-1 group-title="其他",IPTV解密
-http://114.254.82.219:4022/rtp/239.3.1.75:4120
 #EXTINF:-1 group-title="其他",IPTV解密
 http://114.252.232.186:4022/rtp/239.3.1.75:4120
 #EXTINF:-1 group-title="其他",IPTV解密
 http://114.243.100.102:8821/rtp/239.3.1.75:4120
 #EXTINF:-1 group-title="其他",IPTV解密
 http://111.193.224.202:4022/rtp/239.3.1.75:4120
-#EXTINF:-1 group-title="其他",IPTV解密
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.75:4120
 #EXTINF:-1 group-title="其他",IPTV解密
 http://221.220.129.160:8012/rtp/239.3.1.75:4120
 #EXTINF:-1 group-title="其他",IPTV解密
@@ -3154,19 +3784,25 @@ http://124.64.238.165:7070/rtp/239.3.1.75:4120
 #EXTINF:-1 group-title="其他",IPTV解密
 http://123.113.8.46:8012/rtp/239.3.1.75:4120
 #EXTINF:-1 group-title="其他",IPTV鉴赏
-http://123.120.129.158:4023/rtp/239.3.1.82:4120
+http://123.120.138.181:4023/rtp/239.3.1.82:4120
+#EXTINF:-1 group-title="其他",IPTV鉴赏
+http://114.254.94.228:4022/rtp/239.3.1.82:4120
+#EXTINF:-1 group-title="其他",IPTV鉴赏
+http://114.254.24.195:4022/rtp/239.3.1.82:4120
+#EXTINF:-1 group-title="其他",IPTV鉴赏
+http://114.254.249.124:4022/rtp/239.3.1.82:4120
+#EXTINF:-1 group-title="其他",IPTV鉴赏
+http://111.193.62.120:4022/rtp/239.3.1.82:4120
+#EXTINF:-1 group-title="其他",IPTV鉴赏
+http://111.193.149.192:4022/rtp/239.3.1.82:4120
 #EXTINF:-1 group-title="其他",IPTV鉴赏
 http://114.254.33.45:4022/rtp/239.3.1.82:4120
-#EXTINF:-1 group-title="其他",IPTV鉴赏
-http://114.254.82.219:4022/rtp/239.3.1.82:4120
 #EXTINF:-1 group-title="其他",IPTV鉴赏
 http://114.252.232.186:4022/rtp/239.3.1.82:4120
 #EXTINF:-1 group-title="其他",IPTV鉴赏
 http://114.243.100.102:8821/rtp/239.3.1.82:4120
 #EXTINF:-1 group-title="其他",IPTV鉴赏
 http://111.193.224.202:4022/rtp/239.3.1.82:4120
-#EXTINF:-1 group-title="其他",IPTV鉴赏
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.82:4120
 #EXTINF:-1 group-title="其他",IPTV鉴赏
 http://221.220.129.160:8012/rtp/239.3.1.82:4120
 #EXTINF:-1 group-title="其他",IPTV鉴赏
@@ -3184,19 +3820,25 @@ http://124.64.238.165:7070/rtp/239.3.1.82:4120
 #EXTINF:-1 group-title="其他",IPTV鉴赏
 http://123.113.8.46:8012/rtp/239.3.1.82:4120
 #EXTINF:-1 group-title="其他",IPTV音乐现场
-http://123.120.129.158:4023/rtp/239.3.1.70:4120
+http://123.120.138.181:4023/rtp/239.3.1.70:4120
+#EXTINF:-1 group-title="其他",IPTV音乐现场
+http://114.254.94.228:4022/rtp/239.3.1.70:4120
+#EXTINF:-1 group-title="其他",IPTV音乐现场
+http://114.254.24.195:4022/rtp/239.3.1.70:4120
+#EXTINF:-1 group-title="其他",IPTV音乐现场
+http://114.254.249.124:4022/rtp/239.3.1.70:4120
+#EXTINF:-1 group-title="其他",IPTV音乐现场
+http://111.193.62.120:4022/rtp/239.3.1.70:4120
+#EXTINF:-1 group-title="其他",IPTV音乐现场
+http://111.193.149.192:4022/rtp/239.3.1.70:4120
 #EXTINF:-1 group-title="其他",IPTV音乐现场
 http://114.254.33.45:4022/rtp/239.3.1.70:4120
-#EXTINF:-1 group-title="其他",IPTV音乐现场
-http://114.254.82.219:4022/rtp/239.3.1.70:4120
 #EXTINF:-1 group-title="其他",IPTV音乐现场
 http://114.252.232.186:4022/rtp/239.3.1.70:4120
 #EXTINF:-1 group-title="其他",IPTV音乐现场
 http://114.243.100.102:8821/rtp/239.3.1.70:4120
 #EXTINF:-1 group-title="其他",IPTV音乐现场
 http://111.193.224.202:4022/rtp/239.3.1.70:4120
-#EXTINF:-1 group-title="其他",IPTV音乐现场
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.70:4120
 #EXTINF:-1 group-title="其他",IPTV音乐现场
 http://221.220.129.160:8012/rtp/239.3.1.70:4120
 #EXTINF:-1 group-title="其他",IPTV音乐现场
@@ -3214,19 +3856,25 @@ http://124.64.238.165:7070/rtp/239.3.1.70:4120
 #EXTINF:-1 group-title="其他",IPTV音乐现场
 http://123.113.8.46:8012/rtp/239.3.1.70:4120
 #EXTINF:-1 group-title="其他",IPTV魅力时尚
-http://123.120.129.158:4023/rtp/239.3.1.196:9012
+http://123.120.138.181:4023/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="其他",IPTV魅力时尚
+http://114.254.94.228:4022/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="其他",IPTV魅力时尚
+http://114.254.24.195:4022/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="其他",IPTV魅力时尚
+http://114.254.249.124:4022/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="其他",IPTV魅力时尚
+http://111.193.62.120:4022/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="其他",IPTV魅力时尚
+http://111.193.149.192:4022/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="其他",IPTV魅力时尚
 http://114.254.33.45:4022/rtp/239.3.1.196:9012
-#EXTINF:-1 group-title="其他",IPTV魅力时尚
-http://114.254.82.219:4022/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="其他",IPTV魅力时尚
 http://114.252.232.186:4022/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="其他",IPTV魅力时尚
 http://114.243.100.102:8821/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="其他",IPTV魅力时尚
 http://111.193.224.202:4022/rtp/239.3.1.196:9012
-#EXTINF:-1 group-title="其他",IPTV魅力时尚
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="其他",IPTV魅力时尚
 http://221.220.129.160:8012/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="其他",IPTV魅力时尚
@@ -3244,19 +3892,25 @@ http://124.64.238.165:7070/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="其他",IPTV魅力时尚
 http://123.113.8.46:8012/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="其他",中国交通
-http://123.120.129.158:4023/rtp/239.3.1.188:8001
+http://123.120.138.181:4023/rtp/239.3.1.188:8001
+#EXTINF:-1 group-title="其他",中国交通
+http://114.254.94.228:4022/rtp/239.3.1.188:8001
+#EXTINF:-1 group-title="其他",中国交通
+http://114.254.24.195:4022/rtp/239.3.1.188:8001
+#EXTINF:-1 group-title="其他",中国交通
+http://114.254.249.124:4022/rtp/239.3.1.188:8001
+#EXTINF:-1 group-title="其他",中国交通
+http://111.193.62.120:4022/rtp/239.3.1.188:8001
+#EXTINF:-1 group-title="其他",中国交通
+http://111.193.149.192:4022/rtp/239.3.1.188:8001
 #EXTINF:-1 group-title="其他",中国交通
 http://114.254.33.45:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 group-title="其他",中国交通
-http://114.254.82.219:4022/rtp/239.3.1.188:8001
 #EXTINF:-1 group-title="其他",中国交通
 http://114.252.232.186:4022/rtp/239.3.1.188:8001
 #EXTINF:-1 group-title="其他",中国交通
 http://114.243.100.102:8821/rtp/239.3.1.188:8001
 #EXTINF:-1 group-title="其他",中国交通
 http://111.193.224.202:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 group-title="其他",中国交通
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.188:8001
 #EXTINF:-1 group-title="其他",中国交通
 http://221.220.129.160:8012/rtp/239.3.1.188:8001
 #EXTINF:-1 group-title="其他",中国交通
@@ -3274,19 +3928,25 @@ http://124.64.238.165:7070/rtp/239.3.1.188:8001
 #EXTINF:-1 group-title="其他",中国交通
 http://123.113.8.46:8012/rtp/239.3.1.188:8001
 #EXTINF:-1 group-title="其他",北京体育休闲
-http://123.120.129.158:4023/rtp/239.3.1.243:8000
+http://123.120.138.181:4023/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="其他",北京体育休闲
+http://114.254.94.228:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="其他",北京体育休闲
+http://114.254.24.195:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="其他",北京体育休闲
+http://114.254.249.124:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="其他",北京体育休闲
+http://111.193.62.120:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="其他",北京体育休闲
+http://111.193.149.192:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="其他",北京体育休闲
 http://114.254.33.45:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="其他",北京体育休闲
-http://114.254.82.219:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="其他",北京体育休闲
 http://114.252.232.186:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="其他",北京体育休闲
 http://114.243.100.102:8821/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="其他",北京体育休闲
 http://111.193.224.202:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="其他",北京体育休闲
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="其他",北京体育休闲
 http://221.220.129.160:8012/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="其他",北京体育休闲
@@ -3304,19 +3964,25 @@ http://124.64.238.165:7070/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="其他",北京体育休闲
 http://123.113.8.46:8012/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="其他",北京国际
-http://123.120.129.158:4023/rtp/239.3.1.235:8000
+http://123.120.138.181:4023/rtp/239.3.1.235:8000
+#EXTINF:-1 group-title="其他",北京国际
+http://114.254.94.228:4022/rtp/239.3.1.235:8000
+#EXTINF:-1 group-title="其他",北京国际
+http://114.254.24.195:4022/rtp/239.3.1.235:8000
+#EXTINF:-1 group-title="其他",北京国际
+http://114.254.249.124:4022/rtp/239.3.1.235:8000
+#EXTINF:-1 group-title="其他",北京国际
+http://111.193.62.120:4022/rtp/239.3.1.235:8000
+#EXTINF:-1 group-title="其他",北京国际
+http://111.193.149.192:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="其他",北京国际
 http://114.254.33.45:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 group-title="其他",北京国际
-http://114.254.82.219:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="其他",北京国际
 http://114.252.232.186:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="其他",北京国际
 http://114.243.100.102:8821/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="其他",北京国际
 http://111.193.224.202:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 group-title="其他",北京国际
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="其他",北京国际
 http://221.220.129.160:8012/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="其他",北京国际
@@ -3334,19 +4000,25 @@ http://124.64.238.165:7070/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="其他",北京国际
 http://123.113.8.46:8012/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="其他",北京密云
-http://123.120.129.158:4023/rtp/239.3.1.154:8001
+http://123.120.138.181:4023/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="其他",北京密云
+http://114.254.94.228:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="其他",北京密云
+http://114.254.24.195:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="其他",北京密云
+http://114.254.249.124:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="其他",北京密云
+http://111.193.62.120:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="其他",北京密云
+http://111.193.149.192:4022/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="其他",北京密云
 http://114.254.33.45:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="其他",北京密云
-http://114.254.82.219:4022/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="其他",北京密云
 http://114.252.232.186:4022/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="其他",北京密云
 http://114.243.100.102:8821/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="其他",北京密云
 http://111.193.224.202:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="其他",北京密云
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="其他",北京密云
 http://221.220.129.160:8012/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="其他",北京密云
@@ -3364,19 +4036,25 @@ http://124.64.238.165:7070/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="其他",北京密云
 http://123.113.8.46:8012/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="其他",北京延庆
-http://123.120.129.158:4023/rtp/239.3.1.187:8001
+http://123.120.138.181:4023/rtp/239.3.1.187:8001
+#EXTINF:-1 group-title="其他",北京延庆
+http://114.254.94.228:4022/rtp/239.3.1.187:8001
+#EXTINF:-1 group-title="其他",北京延庆
+http://114.254.24.195:4022/rtp/239.3.1.187:8001
+#EXTINF:-1 group-title="其他",北京延庆
+http://114.254.249.124:4022/rtp/239.3.1.187:8001
+#EXTINF:-1 group-title="其他",北京延庆
+http://111.193.62.120:4022/rtp/239.3.1.187:8001
+#EXTINF:-1 group-title="其他",北京延庆
+http://111.193.149.192:4022/rtp/239.3.1.187:8001
 #EXTINF:-1 group-title="其他",北京延庆
 http://114.254.33.45:4022/rtp/239.3.1.187:8001
-#EXTINF:-1 group-title="其他",北京延庆
-http://114.254.82.219:4022/rtp/239.3.1.187:8001
 #EXTINF:-1 group-title="其他",北京延庆
 http://114.252.232.186:4022/rtp/239.3.1.187:8001
 #EXTINF:-1 group-title="其他",北京延庆
 http://114.243.100.102:8821/rtp/239.3.1.187:8001
 #EXTINF:-1 group-title="其他",北京延庆
 http://111.193.224.202:4022/rtp/239.3.1.187:8001
-#EXTINF:-1 group-title="其他",北京延庆
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.187:8001
 #EXTINF:-1 group-title="其他",北京延庆
 http://221.220.129.160:8012/rtp/239.3.1.187:8001
 #EXTINF:-1 group-title="其他",北京延庆
@@ -3394,19 +4072,25 @@ http://124.64.238.165:7070/rtp/239.3.1.187:8001
 #EXTINF:-1 group-title="其他",北京延庆
 http://123.113.8.46:8012/rtp/239.3.1.187:8001
 #EXTINF:-1 group-title="其他",北京房山
-http://123.120.129.158:4023/rtp/239.3.1.96:8001
+http://123.120.138.181:4023/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="其他",北京房山
+http://114.254.94.228:4022/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="其他",北京房山
+http://114.254.24.195:4022/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="其他",北京房山
+http://114.254.249.124:4022/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="其他",北京房山
+http://111.193.62.120:4022/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="其他",北京房山
+http://111.193.149.192:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他",北京房山
 http://114.254.33.45:4022/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="其他",北京房山
-http://114.254.82.219:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他",北京房山
 http://114.252.232.186:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他",北京房山
 http://114.243.100.102:8821/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他",北京房山
 http://111.193.224.202:4022/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="其他",北京房山
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他",北京房山
 http://221.220.129.160:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他",北京房山
@@ -3424,19 +4108,25 @@ http://124.64.238.165:7070/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他",北京房山
 http://123.113.8.46:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他",北京文艺
-http://123.120.129.158:4023/rtp/239.3.1.242:8000
+http://123.120.138.181:4023/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="其他",北京文艺
+http://114.254.94.228:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="其他",北京文艺
+http://114.254.24.195:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="其他",北京文艺
+http://114.254.249.124:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="其他",北京文艺
+http://111.193.62.120:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="其他",北京文艺
+http://111.193.149.192:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="其他",北京文艺
 http://114.254.33.45:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="其他",北京文艺
-http://114.254.82.219:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="其他",北京文艺
 http://114.252.232.186:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="其他",北京文艺
 http://114.243.100.102:8821/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="其他",北京文艺
 http://111.193.224.202:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="其他",北京文艺
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="其他",北京文艺
 http://221.220.129.160:8012/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="其他",北京文艺
@@ -3454,19 +4144,25 @@ http://124.64.238.165:7070/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="其他",北京文艺
 http://123.113.8.46:8012/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="其他",北京新闻
-http://123.120.129.158:4023/rtp/239.3.1.159:8000
+http://123.120.138.181:4023/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="其他",北京新闻
+http://114.254.94.228:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="其他",北京新闻
+http://114.254.24.195:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="其他",北京新闻
+http://114.254.249.124:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="其他",北京新闻
+http://111.193.62.120:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="其他",北京新闻
+http://111.193.149.192:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="其他",北京新闻
 http://114.254.33.45:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="其他",北京新闻
-http://114.254.82.219:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="其他",北京新闻
 http://114.252.232.186:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="其他",北京新闻
 http://114.243.100.102:8821/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="其他",北京新闻
 http://111.193.224.202:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="其他",北京新闻
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="其他",北京新闻
 http://221.220.129.160:8012/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="其他",北京新闻
@@ -3484,19 +4180,25 @@ http://124.64.238.165:7070/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="其他",北京新闻
 http://123.113.8.46:8012/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="其他",北京朝阳
-http://123.120.129.158:4023/rtp/239.3.1.163:8001
+http://123.120.138.181:4023/rtp/239.3.1.163:8001
+#EXTINF:-1 group-title="其他",北京朝阳
+http://114.254.94.228:4022/rtp/239.3.1.163:8001
+#EXTINF:-1 group-title="其他",北京朝阳
+http://114.254.24.195:4022/rtp/239.3.1.163:8001
+#EXTINF:-1 group-title="其他",北京朝阳
+http://114.254.249.124:4022/rtp/239.3.1.163:8001
+#EXTINF:-1 group-title="其他",北京朝阳
+http://111.193.62.120:4022/rtp/239.3.1.163:8001
+#EXTINF:-1 group-title="其他",北京朝阳
+http://111.193.149.192:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 group-title="其他",北京朝阳
 http://114.254.33.45:4022/rtp/239.3.1.163:8001
-#EXTINF:-1 group-title="其他",北京朝阳
-http://114.254.82.219:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 group-title="其他",北京朝阳
 http://114.252.232.186:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 group-title="其他",北京朝阳
 http://114.243.100.102:8821/rtp/239.3.1.163:8001
 #EXTINF:-1 group-title="其他",北京朝阳
 http://111.193.224.202:4022/rtp/239.3.1.163:8001
-#EXTINF:-1 group-title="其他",北京朝阳
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 group-title="其他",北京朝阳
 http://221.220.129.160:8012/rtp/239.3.1.163:8001
 #EXTINF:-1 group-title="其他",北京朝阳
@@ -3514,19 +4216,25 @@ http://124.64.238.165:7070/rtp/239.3.1.163:8001
 #EXTINF:-1 group-title="其他",北京朝阳
 http://123.113.8.46:8012/rtp/239.3.1.163:8001
 #EXTINF:-1 group-title="其他",北京生活
-http://123.120.129.158:4023/rtp/239.3.1.117:8000
+http://123.120.138.181:4023/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="其他",北京生活
+http://114.254.94.228:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="其他",北京生活
+http://114.254.24.195:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="其他",北京生活
+http://114.254.249.124:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="其他",北京生活
+http://111.193.62.120:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="其他",北京生活
+http://111.193.149.192:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="其他",北京生活
 http://114.254.33.45:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="其他",北京生活
-http://114.254.82.219:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="其他",北京生活
 http://114.252.232.186:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="其他",北京生活
 http://114.243.100.102:8821/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="其他",北京生活
 http://111.193.224.202:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="其他",北京生活
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="其他",北京生活
 http://221.220.129.160:8012/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="其他",北京生活
@@ -3544,19 +4252,25 @@ http://124.64.238.165:7070/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="其他",北京生活
 http://123.113.8.46:8012/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="其他",北京纪实科教
-http://123.120.129.158:4023/rtp/239.3.1.115:8000
+http://123.120.138.181:4023/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="其他",北京纪实科教
+http://114.254.94.228:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="其他",北京纪实科教
+http://114.254.24.195:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="其他",北京纪实科教
+http://114.254.249.124:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="其他",北京纪实科教
+http://111.193.62.120:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="其他",北京纪实科教
+http://111.193.149.192:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="其他",北京纪实科教
 http://114.254.33.45:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="其他",北京纪实科教
-http://114.254.82.219:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="其他",北京纪实科教
 http://114.252.232.186:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="其他",北京纪实科教
 http://114.243.100.102:8821/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="其他",北京纪实科教
 http://111.193.224.202:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="其他",北京纪实科教
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="其他",北京纪实科教
 http://221.220.129.160:8012/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="其他",北京纪实科教
@@ -3574,19 +4288,25 @@ http://124.64.238.165:7070/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="其他",北京纪实科教
 http://123.113.8.46:8012/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="其他",北京财经
-http://123.120.129.158:4023/rtp/239.3.1.116:8000
+http://123.120.138.181:4023/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="其他",北京财经
+http://114.254.94.228:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="其他",北京财经
+http://114.254.24.195:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="其他",北京财经
+http://114.254.249.124:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="其他",北京财经
+http://111.193.62.120:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="其他",北京财经
+http://111.193.149.192:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="其他",北京财经
 http://114.254.33.45:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="其他",北京财经
-http://114.254.82.219:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="其他",北京财经
 http://114.252.232.186:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="其他",北京财经
 http://114.243.100.102:8821/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="其他",北京财经
 http://111.193.224.202:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="其他",北京财经
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="其他",北京财经
 http://221.220.129.160:8012/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="其他",北京财经
@@ -3604,19 +4324,25 @@ http://124.64.238.165:7070/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="其他",北京财经
 http://123.113.8.46:8012/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="其他",北京通州
-http://123.120.129.158:4023/rtp/239.3.1.221:8001
+http://123.120.138.181:4023/rtp/239.3.1.221:8001
+#EXTINF:-1 group-title="其他",北京通州
+http://114.254.94.228:4022/rtp/239.3.1.221:8001
+#EXTINF:-1 group-title="其他",北京通州
+http://114.254.24.195:4022/rtp/239.3.1.221:8001
+#EXTINF:-1 group-title="其他",北京通州
+http://114.254.249.124:4022/rtp/239.3.1.221:8001
+#EXTINF:-1 group-title="其他",北京通州
+http://111.193.62.120:4022/rtp/239.3.1.221:8001
+#EXTINF:-1 group-title="其他",北京通州
+http://111.193.149.192:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 group-title="其他",北京通州
 http://114.254.33.45:4022/rtp/239.3.1.221:8001
-#EXTINF:-1 group-title="其他",北京通州
-http://114.254.82.219:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 group-title="其他",北京通州
 http://114.252.232.186:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 group-title="其他",北京通州
 http://114.243.100.102:8821/rtp/239.3.1.221:8001
 #EXTINF:-1 group-title="其他",北京通州
 http://111.193.224.202:4022/rtp/239.3.1.221:8001
-#EXTINF:-1 group-title="其他",北京通州
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 group-title="其他",北京通州
 http://221.220.129.160:8012/rtp/239.3.1.221:8001
 #EXTINF:-1 group-title="其他",北京通州
@@ -3634,19 +4360,25 @@ http://124.64.238.165:7070/rtp/239.3.1.221:8001
 #EXTINF:-1 group-title="其他",北京通州
 http://123.113.8.46:8012/rtp/239.3.1.221:8001
 #EXTINF:-1 group-title="其他",北京门头沟
-http://123.120.129.158:4023/rtp/239.3.1.59:8001
+http://123.120.138.181:4023/rtp/239.3.1.59:8001
+#EXTINF:-1 group-title="其他",北京门头沟
+http://114.254.94.228:4022/rtp/239.3.1.59:8001
+#EXTINF:-1 group-title="其他",北京门头沟
+http://114.254.24.195:4022/rtp/239.3.1.59:8001
+#EXTINF:-1 group-title="其他",北京门头沟
+http://114.254.249.124:4022/rtp/239.3.1.59:8001
+#EXTINF:-1 group-title="其他",北京门头沟
+http://111.193.62.120:4022/rtp/239.3.1.59:8001
+#EXTINF:-1 group-title="其他",北京门头沟
+http://111.193.149.192:4022/rtp/239.3.1.59:8001
 #EXTINF:-1 group-title="其他",北京门头沟
 http://114.254.33.45:4022/rtp/239.3.1.59:8001
-#EXTINF:-1 group-title="其他",北京门头沟
-http://114.254.82.219:4022/rtp/239.3.1.59:8001
 #EXTINF:-1 group-title="其他",北京门头沟
 http://114.252.232.186:4022/rtp/239.3.1.59:8001
 #EXTINF:-1 group-title="其他",北京门头沟
 http://114.243.100.102:8821/rtp/239.3.1.59:8001
 #EXTINF:-1 group-title="其他",北京门头沟
 http://111.193.224.202:4022/rtp/239.3.1.59:8001
-#EXTINF:-1 group-title="其他",北京门头沟
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.59:8001
 #EXTINF:-1 group-title="其他",北京门头沟
 http://221.220.129.160:8012/rtp/239.3.1.59:8001
 #EXTINF:-1 group-title="其他",北京门头沟
@@ -3664,19 +4396,25 @@ http://124.64.238.165:7070/rtp/239.3.1.59:8001
 #EXTINF:-1 group-title="其他",北京门头沟
 http://123.113.8.46:8012/rtp/239.3.1.59:8001
 #EXTINF:-1 group-title="其他",卡酷少儿
-http://123.120.129.158:4023/rtp/239.3.1.189:8000
+http://123.120.138.181:4023/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="其他",卡酷少儿
+http://114.254.94.228:4022/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="其他",卡酷少儿
+http://114.254.24.195:4022/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="其他",卡酷少儿
+http://114.254.249.124:4022/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="其他",卡酷少儿
+http://111.193.62.120:4022/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="其他",卡酷少儿
+http://111.193.149.192:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="其他",卡酷少儿
 http://114.254.33.45:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 group-title="其他",卡酷少儿
-http://114.254.82.219:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="其他",卡酷少儿
 http://114.252.232.186:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="其他",卡酷少儿
 http://114.243.100.102:8821/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="其他",卡酷少儿
 http://111.193.224.202:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 group-title="其他",卡酷少儿
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="其他",卡酷少儿
 http://221.220.129.160:8012/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="其他",卡酷少儿
@@ -3694,19 +4432,25 @@ http://124.64.238.165:7070/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="其他",卡酷少儿
 http://123.113.8.46:8012/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="其他",嘉佳卡通
-http://123.120.129.158:4023/rtp/239.3.1.147:9268
+http://123.120.138.181:4023/rtp/239.3.1.147:9268
+#EXTINF:-1 group-title="其他",嘉佳卡通
+http://114.254.94.228:4022/rtp/239.3.1.147:9268
+#EXTINF:-1 group-title="其他",嘉佳卡通
+http://114.254.24.195:4022/rtp/239.3.1.147:9268
+#EXTINF:-1 group-title="其他",嘉佳卡通
+http://114.254.249.124:4022/rtp/239.3.1.147:9268
+#EXTINF:-1 group-title="其他",嘉佳卡通
+http://111.193.62.120:4022/rtp/239.3.1.147:9268
+#EXTINF:-1 group-title="其他",嘉佳卡通
+http://111.193.149.192:4022/rtp/239.3.1.147:9268
 #EXTINF:-1 group-title="其他",嘉佳卡通
 http://114.254.33.45:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 group-title="其他",嘉佳卡通
-http://114.254.82.219:4022/rtp/239.3.1.147:9268
 #EXTINF:-1 group-title="其他",嘉佳卡通
 http://114.252.232.186:4022/rtp/239.3.1.147:9268
 #EXTINF:-1 group-title="其他",嘉佳卡通
 http://114.243.100.102:8821/rtp/239.3.1.147:9268
 #EXTINF:-1 group-title="其他",嘉佳卡通
 http://111.193.224.202:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 group-title="其他",嘉佳卡通
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.147:9268
 #EXTINF:-1 group-title="其他",嘉佳卡通
 http://221.220.129.160:8012/rtp/239.3.1.147:9268
 #EXTINF:-1 group-title="其他",嘉佳卡通
@@ -3724,19 +4468,25 @@ http://124.64.238.165:7070/rtp/239.3.1.147:9268
 #EXTINF:-1 group-title="其他",嘉佳卡通
 http://123.113.8.46:8012/rtp/239.3.1.147:9268
 #EXTINF:-1 group-title="其他",快乐垂钓
-http://123.120.129.158:4023/rtp/239.3.1.164:8001
+http://123.120.138.181:4023/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://114.254.94.228:4022/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://114.254.24.195:4022/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://114.254.249.124:4022/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://111.193.62.120:4022/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://111.193.149.192:4022/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="其他",快乐垂钓
 http://114.254.33.45:4022/rtp/239.3.1.164:8001
-#EXTINF:-1 group-title="其他",快乐垂钓
-http://114.254.82.219:4022/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="其他",快乐垂钓
 http://114.252.232.186:4022/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="其他",快乐垂钓
 http://114.243.100.102:8821/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="其他",快乐垂钓
 http://111.193.224.202:4022/rtp/239.3.1.164:8001
-#EXTINF:-1 group-title="其他",快乐垂钓
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="其他",快乐垂钓
 http://221.220.129.160:8012/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="其他",快乐垂钓
@@ -3754,19 +4504,25 @@ http://124.64.238.165:7070/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="其他",快乐垂钓
 http://123.113.8.46:8012/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="其他",淘baby
-http://123.120.129.158:4023/rtp/239.3.1.238:8001
+http://123.120.138.181:4023/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="其他",淘baby
+http://114.254.94.228:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="其他",淘baby
+http://114.254.24.195:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="其他",淘baby
+http://114.254.249.124:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="其他",淘baby
+http://111.193.62.120:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="其他",淘baby
+http://111.193.149.192:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="其他",淘baby
 http://114.254.33.45:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="其他",淘baby
-http://114.254.82.219:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="其他",淘baby
 http://114.252.232.186:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="其他",淘baby
 http://114.243.100.102:8821/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="其他",淘baby
 http://111.193.224.202:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="其他",淘baby
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="其他",淘baby
 http://221.220.129.160:8012/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="其他",淘baby
@@ -3784,19 +4540,25 @@ http://124.64.238.165:7070/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="其他",淘baby
 http://123.113.8.46:8012/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="其他",淘娱乐
-http://123.120.129.158:4023/rtp/239.3.1.100:8001
+http://123.120.138.181:4023/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="其他",淘娱乐
+http://114.254.94.228:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="其他",淘娱乐
+http://114.254.24.195:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="其他",淘娱乐
+http://114.254.249.124:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="其他",淘娱乐
+http://111.193.62.120:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="其他",淘娱乐
+http://111.193.149.192:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="其他",淘娱乐
 http://114.254.33.45:4022/rtp/239.3.1.100:8001
-#EXTINF:-1 group-title="其他",淘娱乐
-http://114.254.82.219:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="其他",淘娱乐
 http://114.252.232.186:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="其他",淘娱乐
 http://114.243.100.102:8821/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="其他",淘娱乐
 http://111.193.224.202:4022/rtp/239.3.1.100:8001
-#EXTINF:-1 group-title="其他",淘娱乐
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="其他",淘娱乐
 http://221.220.129.160:8012/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="其他",淘娱乐
@@ -3814,19 +4576,25 @@ http://124.64.238.165:7070/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="其他",淘娱乐
 http://123.113.8.46:8012/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="其他",睛彩广场舞
-http://123.120.129.158:4023/rtp/239.3.1.128:8001
+http://123.120.138.181:4023/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="其他",睛彩广场舞
+http://114.254.94.228:4022/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="其他",睛彩广场舞
+http://114.254.24.195:4022/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="其他",睛彩广场舞
+http://114.254.249.124:4022/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="其他",睛彩广场舞
+http://111.193.62.120:4022/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="其他",睛彩广场舞
+http://111.193.149.192:4022/rtp/239.3.1.128:8001
 #EXTINF:-1 group-title="其他",睛彩广场舞
 http://114.254.33.45:4022/rtp/239.3.1.128:8001
-#EXTINF:-1 group-title="其他",睛彩广场舞
-http://114.254.82.219:4022/rtp/239.3.1.128:8001
 #EXTINF:-1 group-title="其他",睛彩广场舞
 http://114.252.232.186:4022/rtp/239.3.1.128:8001
 #EXTINF:-1 group-title="其他",睛彩广场舞
 http://114.243.100.102:8821/rtp/239.3.1.128:8001
 #EXTINF:-1 group-title="其他",睛彩广场舞
 http://111.193.224.202:4022/rtp/239.3.1.128:8001
-#EXTINF:-1 group-title="其他",睛彩广场舞
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.128:8001
 #EXTINF:-1 group-title="其他",睛彩广场舞
 http://221.220.129.160:8012/rtp/239.3.1.128:8001
 #EXTINF:-1 group-title="其他",睛彩广场舞
@@ -3844,19 +4612,25 @@ http://124.64.238.165:7070/rtp/239.3.1.128:8001
 #EXTINF:-1 group-title="其他",睛彩广场舞
 http://123.113.8.46:8012/rtp/239.3.1.128:8001
 #EXTINF:-1 group-title="其他",睛彩竞技
-http://123.120.129.158:4023/rtp/239.3.1.125:8001
+http://123.120.138.181:4023/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="其他",睛彩竞技
+http://114.254.94.228:4022/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="其他",睛彩竞技
+http://114.254.24.195:4022/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="其他",睛彩竞技
+http://114.254.249.124:4022/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="其他",睛彩竞技
+http://111.193.62.120:4022/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="其他",睛彩竞技
+http://111.193.149.192:4022/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://114.254.33.45:4022/rtp/239.3.1.125:8001
-#EXTINF:-1 group-title="其他",睛彩竞技
-http://114.254.82.219:4022/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://114.252.232.186:4022/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://114.243.100.102:8821/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://111.193.224.202:4022/rtp/239.3.1.125:8001
-#EXTINF:-1 group-title="其他",睛彩竞技
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://221.220.129.160:8012/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="其他",睛彩竞技
@@ -3874,19 +4648,25 @@ http://124.64.238.165:7070/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://123.113.8.46:8012/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="其他",睛彩篮球
-http://123.120.129.158:4023/rtp/239.3.1.126:8001
+http://123.120.138.181:4023/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="其他",睛彩篮球
+http://114.254.94.228:4022/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="其他",睛彩篮球
+http://114.254.24.195:4022/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="其他",睛彩篮球
+http://114.254.249.124:4022/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="其他",睛彩篮球
+http://111.193.62.120:4022/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="其他",睛彩篮球
+http://111.193.149.192:4022/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="其他",睛彩篮球
 http://114.254.33.45:4022/rtp/239.3.1.126:8001
-#EXTINF:-1 group-title="其他",睛彩篮球
-http://114.254.82.219:4022/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="其他",睛彩篮球
 http://114.252.232.186:4022/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="其他",睛彩篮球
 http://114.243.100.102:8821/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="其他",睛彩篮球
 http://111.193.224.202:4022/rtp/239.3.1.126:8001
-#EXTINF:-1 group-title="其他",睛彩篮球
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="其他",睛彩篮球
 http://221.220.129.160:8012/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="其他",睛彩篮球
@@ -3904,19 +4684,25 @@ http://124.64.238.165:7070/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="其他",睛彩篮球
 http://123.113.8.46:8012/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="其他",睛彩青少
-http://123.120.129.158:4023/rtp/239.3.1.127:8001
+http://123.120.138.181:4023/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="其他",睛彩青少
+http://114.254.94.228:4022/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="其他",睛彩青少
+http://114.254.24.195:4022/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="其他",睛彩青少
+http://114.254.249.124:4022/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="其他",睛彩青少
+http://111.193.62.120:4022/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="其他",睛彩青少
+http://111.193.149.192:4022/rtp/239.3.1.127:8001
 #EXTINF:-1 group-title="其他",睛彩青少
 http://114.254.33.45:4022/rtp/239.3.1.127:8001
-#EXTINF:-1 group-title="其他",睛彩青少
-http://114.254.82.219:4022/rtp/239.3.1.127:8001
 #EXTINF:-1 group-title="其他",睛彩青少
 http://114.252.232.186:4022/rtp/239.3.1.127:8001
 #EXTINF:-1 group-title="其他",睛彩青少
 http://114.243.100.102:8821/rtp/239.3.1.127:8001
 #EXTINF:-1 group-title="其他",睛彩青少
 http://111.193.224.202:4022/rtp/239.3.1.127:8001
-#EXTINF:-1 group-title="其他",睛彩青少
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.127:8001
 #EXTINF:-1 group-title="其他",睛彩青少
 http://221.220.129.160:8012/rtp/239.3.1.127:8001
 #EXTINF:-1 group-title="其他",睛彩青少
@@ -3934,17 +4720,33 @@ http://124.64.238.165:7070/rtp/239.3.1.127:8001
 #EXTINF:-1 group-title="其他",睛彩青少
 http://123.113.8.46:8012/rtp/239.3.1.127:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
-http://123.120.129.158:4023/rtp/239.3.1.160:8001
+http://123.120.138.181:4023/rtp/239.3.1.160:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
-http://123.120.129.158:4023/rtp/239.3.1.179:8001
+http://123.120.138.181:4023/rtp/239.3.1.179:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://114.254.94.228:4022/rtp/239.3.1.160:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://114.254.94.228:4022/rtp/239.3.1.179:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://114.254.24.195:4022/rtp/239.3.1.160:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://114.254.24.195:4022/rtp/239.3.1.179:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://114.254.249.124:4022/rtp/239.3.1.160:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://114.254.249.124:4022/rtp/239.3.1.179:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://111.193.62.120:4022/rtp/239.3.1.160:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://111.193.62.120:4022/rtp/239.3.1.179:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://111.193.149.192:4022/rtp/239.3.1.160:8001
+#EXTINF:-1 group-title="其他",聚鲨环球精选
+http://111.193.149.192:4022/rtp/239.3.1.179:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
 http://114.254.33.45:4022/rtp/239.3.1.160:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
 http://114.254.33.45:4022/rtp/239.3.1.179:8001
-#EXTINF:-1 group-title="其他",聚鲨环球精选
-http://114.254.82.219:4022/rtp/239.3.1.160:8001
-#EXTINF:-1 group-title="其他",聚鲨环球精选
-http://114.254.82.219:4022/rtp/239.3.1.179:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
 http://114.252.232.186:4022/rtp/239.3.1.160:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
@@ -3957,10 +4759,6 @@ http://114.243.100.102:8821/rtp/239.3.1.179:8001
 http://111.193.224.202:4022/rtp/239.3.1.160:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
 http://111.193.224.202:4022/rtp/239.3.1.179:8001
-#EXTINF:-1 group-title="其他",聚鲨环球精选
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.160:8001
-#EXTINF:-1 group-title="其他",聚鲨环球精选
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.179:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
 http://221.220.129.160:8012/rtp/239.3.1.160:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
@@ -3994,19 +4792,25 @@ http://123.113.8.46:8012/rtp/239.3.1.160:8001
 #EXTINF:-1 group-title="其他",聚鲨环球精选
 http://123.113.8.46:8012/rtp/239.3.1.179:8001
 #EXTINF:-1 group-title="其他",茶频道
-http://123.120.129.158:4023/rtp/239.3.1.165:8001
+http://123.120.138.181:4023/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="其他",茶频道
+http://114.254.94.228:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="其他",茶频道
+http://114.254.24.195:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="其他",茶频道
+http://114.254.249.124:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="其他",茶频道
+http://111.193.62.120:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="其他",茶频道
+http://111.193.149.192:4022/rtp/239.3.1.165:8001
 #EXTINF:-1 group-title="其他",茶频道
 http://114.254.33.45:4022/rtp/239.3.1.165:8001
-#EXTINF:-1 group-title="其他",茶频道
-http://114.254.82.219:4022/rtp/239.3.1.165:8001
 #EXTINF:-1 group-title="其他",茶频道
 http://114.252.232.186:4022/rtp/239.3.1.165:8001
 #EXTINF:-1 group-title="其他",茶频道
 http://114.243.100.102:8821/rtp/239.3.1.165:8001
 #EXTINF:-1 group-title="其他",茶频道
 http://111.193.224.202:4022/rtp/239.3.1.165:8001
-#EXTINF:-1 group-title="其他",茶频道
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.165:8001
 #EXTINF:-1 group-title="其他",茶频道
 http://221.220.129.160:8012/rtp/239.3.1.165:8001
 #EXTINF:-1 group-title="其他",茶频道
@@ -4024,19 +4828,25 @@ http://124.64.238.165:7070/rtp/239.3.1.165:8001
 #EXTINF:-1 group-title="其他",茶频道
 http://123.113.8.46:8012/rtp/239.3.1.165:8001
 #EXTINF:-1 group-title="其他",萌宠TV
-http://123.120.129.158:4023/rtp/239.3.1.102:8001
+http://123.120.138.181:4023/rtp/239.3.1.102:8001
+#EXTINF:-1 group-title="其他",萌宠TV
+http://114.254.94.228:4022/rtp/239.3.1.102:8001
+#EXTINF:-1 group-title="其他",萌宠TV
+http://114.254.24.195:4022/rtp/239.3.1.102:8001
+#EXTINF:-1 group-title="其他",萌宠TV
+http://114.254.249.124:4022/rtp/239.3.1.102:8001
+#EXTINF:-1 group-title="其他",萌宠TV
+http://111.193.62.120:4022/rtp/239.3.1.102:8001
+#EXTINF:-1 group-title="其他",萌宠TV
+http://111.193.149.192:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",萌宠TV
 http://114.254.33.45:4022/rtp/239.3.1.102:8001
-#EXTINF:-1 group-title="其他",萌宠TV
-http://114.254.82.219:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",萌宠TV
 http://114.252.232.186:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",萌宠TV
 http://114.243.100.102:8821/rtp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",萌宠TV
 http://111.193.224.202:4022/rtp/239.3.1.102:8001
-#EXTINF:-1 group-title="其他",萌宠TV
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",萌宠TV
 http://221.220.129.160:8012/rtp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",萌宠TV
@@ -4054,19 +4864,25 @@ http://124.64.238.165:7070/rtp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",萌宠TV
 http://123.113.8.46:8012/rtp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",财富天下
-http://123.120.129.158:4023/rtp/239.3.1.53:9136
+http://123.120.138.181:4023/rtp/239.3.1.53:9136
+#EXTINF:-1 group-title="其他",财富天下
+http://114.254.94.228:4022/rtp/239.3.1.53:9136
+#EXTINF:-1 group-title="其他",财富天下
+http://114.254.24.195:4022/rtp/239.3.1.53:9136
+#EXTINF:-1 group-title="其他",财富天下
+http://114.254.249.124:4022/rtp/239.3.1.53:9136
+#EXTINF:-1 group-title="其他",财富天下
+http://111.193.62.120:4022/rtp/239.3.1.53:9136
+#EXTINF:-1 group-title="其他",财富天下
+http://111.193.149.192:4022/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="其他",财富天下
 http://114.254.33.45:4022/rtp/239.3.1.53:9136
-#EXTINF:-1 group-title="其他",财富天下
-http://114.254.82.219:4022/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="其他",财富天下
 http://114.252.232.186:4022/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="其他",财富天下
 http://114.243.100.102:8821/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="其他",财富天下
 http://111.193.224.202:4022/rtp/239.3.1.53:9136
-#EXTINF:-1 group-title="其他",财富天下
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="其他",财富天下
 http://221.220.129.160:8012/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="其他",财富天下
@@ -4084,19 +4900,25 @@ http://124.64.238.165:7070/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="其他",财富天下
 http://123.113.8.46:8012/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="其他",金鹰卡通
-http://123.120.129.158:4023/rtp/239.3.1.51:9252
+http://123.120.138.181:4023/rtp/239.3.1.51:9252
+#EXTINF:-1 group-title="其他",金鹰卡通
+http://114.254.94.228:4022/rtp/239.3.1.51:9252
+#EXTINF:-1 group-title="其他",金鹰卡通
+http://114.254.24.195:4022/rtp/239.3.1.51:9252
+#EXTINF:-1 group-title="其他",金鹰卡通
+http://114.254.249.124:4022/rtp/239.3.1.51:9252
+#EXTINF:-1 group-title="其他",金鹰卡通
+http://111.193.62.120:4022/rtp/239.3.1.51:9252
+#EXTINF:-1 group-title="其他",金鹰卡通
+http://111.193.149.192:4022/rtp/239.3.1.51:9252
 #EXTINF:-1 group-title="其他",金鹰卡通
 http://114.254.33.45:4022/rtp/239.3.1.51:9252
-#EXTINF:-1 group-title="其他",金鹰卡通
-http://114.254.82.219:4022/rtp/239.3.1.51:9252
 #EXTINF:-1 group-title="其他",金鹰卡通
 http://114.252.232.186:4022/rtp/239.3.1.51:9252
 #EXTINF:-1 group-title="其他",金鹰卡通
 http://114.243.100.102:8821/rtp/239.3.1.51:9252
 #EXTINF:-1 group-title="其他",金鹰卡通
 http://111.193.224.202:4022/rtp/239.3.1.51:9252
-#EXTINF:-1 group-title="其他",金鹰卡通
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.51:9252
 #EXTINF:-1 group-title="其他",金鹰卡通
 http://221.220.129.160:8012/rtp/239.3.1.51:9252
 #EXTINF:-1 group-title="其他",金鹰卡通
@@ -4114,19 +4936,25 @@ http://124.64.238.165:7070/rtp/239.3.1.51:9252
 #EXTINF:-1 group-title="其他",金鹰卡通
 http://123.113.8.46:8012/rtp/239.3.1.51:9252
 #EXTINF:-1 group-title="其他",金鹰纪实
-http://123.120.129.158:4023/rtp/239.3.1.58:8156
+http://123.120.138.181:4023/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://114.254.94.228:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://114.254.24.195:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://114.254.249.124:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://111.193.62.120:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://111.193.149.192:4022/rtp/239.3.1.58:8156
 #EXTINF:-1 group-title="其他",金鹰纪实
 http://114.254.33.45:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 group-title="其他",金鹰纪实
-http://114.254.82.219:4022/rtp/239.3.1.58:8156
 #EXTINF:-1 group-title="其他",金鹰纪实
 http://114.252.232.186:4022/rtp/239.3.1.58:8156
 #EXTINF:-1 group-title="其他",金鹰纪实
 http://114.243.100.102:8821/rtp/239.3.1.58:8156
 #EXTINF:-1 group-title="其他",金鹰纪实
 http://111.193.224.202:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 group-title="其他",金鹰纪实
-http://nastool.yaoleyaotou.com:4022/rtp/239.3.1.58:8156
 #EXTINF:-1 group-title="其他",金鹰纪实
 http://221.220.129.160:8012/rtp/239.3.1.58:8156
 #EXTINF:-1 group-title="其他",金鹰纪实
@@ -4144,5 +4972,5 @@ http://124.64.238.165:7070/rtp/239.3.1.58:8156
 #EXTINF:-1 group-title="其他",金鹰纪实
 http://123.113.8.46:8012/rtp/239.3.1.58:8156
 
-#EXTINF:-1 group-title="更新时间",2026-09-20 21:33:04
+#EXTINF:-1 group-title="更新时间",2026-09-21 07:09:08
 https://example.com
